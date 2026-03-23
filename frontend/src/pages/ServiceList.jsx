@@ -107,7 +107,7 @@ export default function ServiceList() {
   useEffect(() => { fetchRecommendations(); }, [userLocation, filters.category]);
 
   const providers = services.map((s) => ({
-    ...s.provider, location: s.location, _id: s.provider?._id, category: s.category,
+    ...s.provider, location: s.location || s.provider?.location, _id: s.provider?._id, category: s.category,
   }));
 
   return (
@@ -213,7 +213,7 @@ export default function ServiceList() {
                   <div key={prov._id} className="card border-primary-500/30 hover:border-primary-400/50 transition-all cursor-pointer"
                     onClick={() => {
                       const srv = services.find(s => s.provider?._id === prov._id);
-                      if (srv) navigate(`/booking/${srv._id}`);
+                      if (srv) navigate(`/book/${srv._id}`);
                       else navigate(`/services?category=${prov.category}`);
                     }}>
                     <div className="flex items-center justify-between mb-2">

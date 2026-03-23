@@ -52,7 +52,7 @@ export default function Home() {
 
             const providerData = (provRes.data.data || []).map((s) => ({
               ...s.provider,
-              location: s.location,
+              location: s.location || s.provider?.location,
               title: s.title,
             }));
             setProviders(providerData);
