@@ -37,7 +37,7 @@ exports.getServices = async (req, res, next) => {
 
     let services = Service.find(query).populate({
       path: 'provider',
-      select: 'ratings isAvailable category pricePerHour',
+      select: 'ratings isAvailable category pricePerHour location',
       populate: { path: 'user', select: 'name avatar' },
     });
 

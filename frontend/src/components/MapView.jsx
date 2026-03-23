@@ -117,7 +117,7 @@ const MapView = ({ center = [28.6139, 77.209], providers = [], userLocation = nu
             <Popup>
               <div style={{ minWidth: '150px' }}>
                 <p style={{ fontWeight: 700, fontSize: '14px', marginBottom: '4px', color: '#f1f5f9' }}>
-                  {provider.user?.name || provider.title || 'Provider'}
+                  {provider.title || provider.user?.name || 'Provider'}
                 </p>
                 <p style={{ fontSize: '12px', color: '#94a3b8', textTransform: 'capitalize' }}>
                   {provider.category}

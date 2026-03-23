@@ -107,7 +107,12 @@ export default function ServiceList() {
   useEffect(() => { fetchRecommendations(); }, [userLocation, filters.category]);
 
   const providers = services.map((s) => ({
-    ...s.provider, location: s.location || s.provider?.location, _id: s.provider?._id, category: s.category,
+    ...s.provider,
+    location: s.location || s.provider?.location,
+    _id: s._id,
+    providerId: s.provider?._id,
+    category: s.category,
+    title: s.title,
   }));
 
   return (
