@@ -205,7 +205,7 @@ export default function ServiceList() {
             <div className="mb-8">
               <div className="flex items-center gap-2 mb-4">
                 <span className="text-xl">🤖</span>
-                <h2 className="text-primary-900 font-bold text-lg">AI-Recommended for You</h2>
+                <h2 className="text-primary-900 font-bold text-lg">SuvidhaAi Recommended for You</h2>
                 <span className="badge badge-info">Top Picks</span>
               </div>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">

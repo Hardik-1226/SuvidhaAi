@@ -40,6 +40,14 @@ exports.createBooking = async (req, res, next) => {
       { path: 'provider', populate: { path: 'user', select: 'name phone' } },
     ]);
 
+    const io = req.app.get('io');
+    if (io && populated.provider && populated.provider.user) {
+      io.to(populated.provider.user._id.toString()).emit('notification', {
+        title: 'New Booking Request',
+        message: `You have a new booking request for ${service.title}!`
+      });
+    }
+
     res.status(201).json({ success: true, data: populated });
   } catch (error) {
     next(error);
