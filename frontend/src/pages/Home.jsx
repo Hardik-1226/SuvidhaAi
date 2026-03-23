@@ -44,7 +44,7 @@ export default function Home() {
           // Fetch nearby providers & weather
           try {
             const [provRes, weatherRes] = await Promise.all([
-              api.get(`/services?lat=${loc.lat}&lon=${loc.lon}&maxDistance=15000`),
+              api.get('/services'),
               api.get(`/weather?lat=${loc.lat}&lon=${loc.lon}`)
             ]);
 
