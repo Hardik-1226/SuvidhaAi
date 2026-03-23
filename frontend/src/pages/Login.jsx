@@ -54,13 +54,7 @@ export default function Login() {
             <p className="text-gray-500 mt-1">Sign in to your account</p>
           </div>
 
-          {/* Demo credentials hint */}
-          <div className="bg-primary-50 border border-primary-100 rounded-xl p-4 mb-6 text-sm text-gray-600">
-            <p className="font-semibold text-primary-700 mb-2">🧪 Demo Credentials</p>
-            <p>User: <code className="text-amber-600 font-bold">alice@example.com</code> / password123</p>
-            <p>Provider: <code className="text-amber-600 font-bold">raj@provider.com</code> / password123</p>
-            <p>Admin: <code className="text-amber-600 font-bold">admin@localservice.com</code> / admin123</p>
-          </div>
+
 
           <form onSubmit={handleSubmit} className="space-y-5">
             <div>
