@@ -4,6 +4,7 @@
  * Supports geospatial queries by distance
  */
 
+const axios = require('axios');
 const Service = require('../models/Service');
 const Provider = require('../models/Provider');
 
