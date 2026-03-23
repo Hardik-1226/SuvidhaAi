@@ -42,7 +42,11 @@ router.get('/', async (req, res, next) => {
         recommendedServices = aiResponse.data.recommended_services;
       }
     } catch (aiErr) {
-      console.warn('⚠️ AI Service unavailable for weather recommendations');
+      console.warn('⚠️ AI Service unavailable for weather recommendations:', aiErr.message);
+      if (aiErr.response) {
+        console.warn('   AI Response Status:', aiErr.response.status);
+        console.warn('   AI Response Data:', aiErr.response.data);
+      }
     }
 
     res.json({

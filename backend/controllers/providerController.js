@@ -65,7 +65,11 @@ exports.getRecommendations = async (req, res, next) => {
 
       return res.json({ success: true, data: ranked });
     } catch (aiErr) {
-      console.warn('⚠️  AI service unavailable — returning raw results');
+      console.warn('⚠️  AI service unavailable — returning raw results:', aiErr.message);
+      if (aiErr.response) {
+        console.warn('   AI Response Status:', aiErr.response.status);
+        console.warn('   AI Response Data:', aiErr.response.data);
+      }
       return res.json({ success: true, data: providers.slice(0, 5) });
     }
   } catch (error) {
