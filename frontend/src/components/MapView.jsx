@@ -5,7 +5,7 @@
  */
 
 import React from 'react';
-import { MapContainer, TileLayer, Marker, Popup, Circle } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker, Popup, Circle, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 
@@ -61,6 +61,17 @@ const userIcon = L.divIcon({
   className: '',
 });
 
+// Component to dynamically update map view when center changes
+const MapUpdater = ({ center }) => {
+  const map = useMap();
+  React.useEffect(() => {
+    if (center && map) {
+      map.setView(center, map.getZoom());
+    }
+  }, [center, map]);
+  return null;
+};
+
 const MapView = ({ center = [28.6139, 77.209], providers = [], userLocation = null, onProviderClick }) => {
   return (
     <MapContainer
@@ -69,6 +80,7 @@ const MapView = ({ center = [28.6139, 77.209], providers = [], userLocation = nu
       style={{ height: '100%', width: '100%', borderRadius: '1rem' }}
       zoomControl={true}
     >
+      <MapUpdater center={center} />
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
