@@ -9,8 +9,10 @@ const {
   createService,
   updateService,
   deleteService,
+  getServiceDemand,
 } = require('../controllers/serviceController');
 
+router.get('/demand', getServiceDemand);
 router.route('/')
   .get(getServices)
   .post(protect, authorize('provider'), createService);

@@ -165,34 +165,41 @@ def predict_demand(req: PredictDemandRequest):
 @app.post("/weather-recommendation", response_model=WeatherRecResponse)
 def get_weather_recommendation(req: WeatherRecRequest):
     """
-    Returns top 3 recommended categories based on current weather rules.
+    Returns top 3 recommended categories based on AI demand prediction model.
     """
-    recommended = set()
-    temp = req.temperature
-    weather = req.weather.lower()
+    import datetime
     
-    if temp > 30:
-        recommended.add("ac repair")
-        recommended.add("electrician")
-    if "rain" in weather or "thunder" in weather or "shower" in weather:
-        recommended.add("plumber")
-        recommended.add("roof repair")
-    if "snow" in weather:
-        recommended.add("mechanic")
-        recommended.add("plumber")
-    if temp < 15:
-        recommended.add("electrician")
-        
-    res_list = list(recommended)
+    # Context for ML model
+    now = datetime.datetime.now()
+    current_time = "morning"
+    if 12 <= now.hour < 17: current_time = "afternoon"
+    elif 17 <= now.hour < 21: current_time = "evening"
+    elif now.hour >= 21 or now.hour < 6: current_time = "night"
     
-    # Fill remaining slots with generic high-demand services
-    generic_fallback = ["cleaner", "electrician", "plumber", "carpenter"]
-    for default in generic_fallback:
-        if len(res_list) >= 3: break
-        if default not in res_list:
-            res_list.append(default)
+    current_day = now.strftime("%A").lower()
+    
+    # Categories to evaluate
+    eval_categories = ['ac repair', 'plumber', 'electrician', 'roof repair', 'mechanic', 'cleaner', 'painter', 'tutor', 'carpenter']
+    
+    scores = []
+    for cat in eval_categories:
+        try:
+            score = predict_demand_score(cat, req.temperature, req.weather, current_time, current_day)
+            scores.append({"category": cat, "score": score})
+        except:
+            continue
             
-    return WeatherRecResponse(recommended_services=res_list[:3])
+    # Sort by demand score descending
+    scores.sort(key=lambda x: x["score"], reverse=True)
+    
+    # Return top 3
+    res_list = [s["category"] for s in scores[:3]]
+    
+    # Fallback if model failed or returned empty
+    if not res_list:
+        res_list = ["electrician", "plumber", "cleaner"]
+        
+    return WeatherRecResponse(recommended_services=res_list)
 
 
 # ---- Run ----

@@ -141,3 +141,68 @@ exports.deleteService = async (req, res, next) => {
     next(error);
   }
 };
+
+/**
+ * @desc    Get AI-predicted demand for a service category
+ * @route   GET /api/services/demand?category=&lat=&lon=
+ * @access  Public
+ */
+exports.getServiceDemand = async (req, res, next) => {
+  try {
+    const { category, lat, lon } = req.query;
+
+    // Fetch current weather to provide context to the AI model
+    let temperature = 25;
+    let weather = 'Clear';
+
+    if (lat && lon) {
+      try {
+        const weatherRes = await axios.get(
+          `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`
+        );
+        temperature = weatherRes.data.current_weather.temperature;
+        // WMO code mapping (simplified for predictor)
+        const wmo = weatherRes.data.current_weather.weathercode;
+        if (wmo >= 51) weather = 'Rain';
+        else if (wmo >= 1) weather = 'Cloudy';
+      } catch (err) {
+        console.warn('Weather fetch failed for demand prediction, using defaults');
+      }
+    }
+
+    const now = new Date();
+    const hour = now.getHours();
+    let timeOfDay = 'morning';
+    if (hour >= 12 && hour < 17) timeOfDay = 'afternoon';
+    else if (hour >= 17 && hour < 21) timeOfDay = 'evening';
+    else if (hour >= 21 || hour < 6) timeOfDay = 'night';
+
+    const dayOfWeek = now.toLocaleString('en-us', { weekday: 'long' }).toLowerCase();
+
+    // Call AI Demand Predictor
+    try {
+      const aiRes = await axios.post(`${process.env.AI_SERVICE_URL}/predict-demand`, {
+        service: category || 'plumber',
+        temperature,
+        weather,
+        time: timeOfDay,
+        day: dayOfWeek,
+      });
+
+      res.json({
+        success: true,
+        demandScore: aiRes.data.demand_score,
+        context: { temperature, weather, timeOfDay, dayOfWeek },
+      });
+    } catch (aiErr) {
+      console.error('AI Demand Prediction failed:', aiErr.message);
+      res.json({
+        success: true,
+        demandScore: 0.5, // Default/Neutral
+        message: 'AI Service currently unavailable',
+      });
+    }
+  } catch (error) {
+    next(error);
+  }
+};
