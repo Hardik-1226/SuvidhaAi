@@ -1,0 +1,166 @@
+Build a production-ready full stack web application called **"Local Service Finder (Hyperlocal Marketplace)"** with the following requirements:
+
+### 🧩 Tech Stack
+
+* Frontend: React.js (with Tailwind CSS)
+* Backend: Node.js with Express.js
+* Database: MongoDB (with Mongoose)
+* Authentication: JWT-based authentication
+* Maps & Location: Google Maps API (or OpenStreetMap)
+* Real-time features: Socket.io
+* AI/ML: Python (FastAPI or Flask microservice)
+
+---
+
+# 🎯 Core Features
+
+## 👤 User Features
+
+* User registration & login (JWT authentication)
+* Detect user location (Geolocation API)
+* Search for nearby services (plumber, electrician, tutor, etc.)
+* Filter by:
+
+  * Distance
+  * Rating
+  * Price
+* Book a service with date & time
+* Real-time chat with service provider
+* View booking history
+* Give ratings & reviews
+
+---
+
+## 🧑‍🔧 Service Provider Features
+
+* Register as a provider
+* Add services (category, price, availability)
+* Toggle availability (online/offline)
+* Accept/reject bookings
+* View earnings dashboard
+
+---
+
+## ⚙️ Admin Features
+
+* Manage users and providers
+* Remove fake/spam listings
+* Monitor platform activity
+
+---
+
+# 🧠 AI / Machine Learning Features
+
+## 1. Smart Recommendation System
+
+* Recommend top 5 providers based on:
+
+  * Distance
+  * Rating
+  * Past user preferences
+* Use a scoring formula:
+  score = (rating * weight1) + (distance * weight2) + (availability * weight3)
+
+---
+
+## 2. Fake Review Detection
+
+* Use NLP to detect spam reviews
+* Classify reviews as:
+
+  * Genuine
+  * Suspicious
+
+---
+
+## 3. Price Prediction (Optional Advanced)
+
+* Predict service price based on:
+
+  * Location
+  * Demand
+  * Service type
+
+---
+
+# 🧱 Backend Requirements
+
+* RESTful API structure
+* Proper folder structure:
+
+  * controllers/
+  * models/
+  * routes/
+  * middleware/
+* Error handling middleware
+* JWT authentication middleware
+* MongoDB schema design for:
+
+  * Users
+  * Providers
+  * Services
+  * Bookings
+  * Reviews
+
+---
+
+# 🎨 Frontend Requirements
+
+* Clean UI using Tailwind CSS
+* Pages:
+
+  * Home page (search + map)
+  * Service listing page
+  * Booking page
+  * Chat page
+  * Dashboard (user & provider)
+* Use Axios for API calls
+* Use React Router for navigation
+
+---
+
+# 🔌 AI Microservice (Python)
+
+* Build a FastAPI service with endpoints:
+
+  * /recommend → returns best providers
+  * /review-check → detects fake reviews
+* Use simple ML models:
+
+  * Logistic Regression (for fake reviews)
+  * Weighted scoring (for recommendation)
+
+---
+
+# 🔄 Integration
+
+* Connect Node.js backend with Python AI service via REST API
+* Ensure smooth communication between services
+
+---
+
+# 📦 Extra Features (if time allows)
+
+* Push notifications
+* Heatmap of service demand
+* SOS/emergency booking
+
+---
+
+# 🧪 Deliverables
+
+* Fully working backend APIs
+* Functional frontend UI
+* AI microservice running
+* Sample dataset for ML
+* Setup instructions
+
+---
+
+# ⚡ Important
+
+* Code should be modular and scalable
+* Use clean architecture
+* Add comments explaining logic
+* Provide sample API requests/responses
+* Include instructions to run the project locally
