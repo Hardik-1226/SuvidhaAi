@@ -19,7 +19,7 @@ exports.getRecommendations = async (req, res, next) => {
     // Fetch providers nearby for the category
     let filter = { isAvailable: true };
     if (category) filter.category = category;
-    if (lat && lon) {
+    if (lat && lon && !isNaN(parseFloat(lat)) && !isNaN(parseFloat(lon))) {
       filter.location = {
         $nearSphere: {
           $geometry: { type: 'Point', coordinates: [parseFloat(lon), parseFloat(lat)] },

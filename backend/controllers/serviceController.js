@@ -26,7 +26,7 @@ exports.getServices = async (req, res, next) => {
     }
 
     // Geospatial filter — nearby services within `maxDistance` meters
-    if (lat && lon) {
+    if (lat && lon && !isNaN(parseFloat(lat)) && !isNaN(parseFloat(lon))) {
       query.location = {
         $nearSphere: {
           $geometry: { type: 'Point', coordinates: [parseFloat(lon), parseFloat(lat)] },
