@@ -183,10 +183,17 @@ export default function ServiceList() {
             </form>
             
             <button onClick={() => {
+              toast.info('Detecting your location...');
               if (navigator.geolocation) {
                 navigator.geolocation.getCurrentPosition(
-                  pos => setUserLocation({ lat: pos.coords.latitude, lon: pos.coords.longitude }),
-                  () => alert('Please enable location access in your browser.')
+                  pos => {
+                    const loc = { lat: pos.coords.latitude, lon: pos.coords.longitude };
+                    setUserLocation(loc);
+                    toast.success('Location updated!');
+                  },
+                  () => {
+                    toast.error('Location access denied. Please enable GPS.');
+                  }
                 );
               }
             }} className="w-full btn-outline text-xs py-2 mb-4">📍 Use My Network Location</button>
