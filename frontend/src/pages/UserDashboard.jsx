@@ -77,8 +77,8 @@ export default function UserDashboard() {
           {user?.name?.charAt(0)}
         </div>
         <div>
-          <h1 className="text-2xl font-bold text-white">{user?.name}</h1>
-          <p className="text-slate-400">{user?.email}</p>
+          <h1 className="text-2xl font-bold text-slate-900">{user?.name}</h1>
+          <p className="text-slate-600">{user?.email}</p>
         </div>
         <div className="ml-auto">
           <Link to="/services" className="btn-primary text-sm">Find Services</Link>
@@ -95,15 +95,15 @@ export default function UserDashboard() {
         ].map((s) => (
           <div key={s.label} className="card text-center">
             <div className="text-3xl mb-2">{s.icon}</div>
-            <div className="text-2xl font-bold text-white">{s.value}</div>
-            <div className="text-slate-400 text-sm">{s.label}</div>
+            <div className="text-2xl font-bold text-slate-900">{s.value}</div>
+            <div className="text-slate-600 text-sm">{s.label}</div>
           </div>
         ))}
       </div>
 
       {/* Bookings Table */}
       <div className="card">
-        <h2 className="text-lg font-bold text-white mb-6">My Bookings</h2>
+        <h2 className="text-lg font-bold text-slate-900 mb-6">My Bookings</h2>
         {loading ? (
           <div className="space-y-3">
             {[...Array(3)].map((_, i) => <div key={i} className="h-16 bg-surface rounded-xl animate-pulse" />)}
@@ -111,7 +111,7 @@ export default function UserDashboard() {
         ) : bookings.length === 0 ? (
           <div className="text-center py-12">
             <div className="text-5xl mb-3">📋</div>
-            <p className="text-slate-400">No bookings yet</p>
+            <p className="text-slate-600">No bookings yet</p>
             <Link to="/services" className="btn-primary mt-4 inline-block text-sm">Browse Services</Link>
           </div>
         ) : (
@@ -120,14 +120,14 @@ export default function UserDashboard() {
               <div key={booking._id} className="flex flex-col sm:flex-row sm:items-center gap-4 p-4 bg-surface rounded-xl border border-surface-border hover:border-primary-500/30 transition-all">
                 <div className="flex-1">
                   <div className="flex items-center gap-2 mb-1">
-                    <p className="text-white font-medium">{booking.service?.title}</p>
+                    <p className="text-slate-900 font-medium">{booking.service?.title}</p>
                     <span className={`badge ${statusClass[booking.status] || 'badge-info'}`}>{booking.status}</span>
                   </div>
-                  <p className="text-slate-400 text-sm">Provider: {booking.provider?.user?.name}</p>
-                  <p className="text-slate-500 text-xs mt-1">📅 {formatDate(booking.scheduledAt)} · 📍 {booking.address}</p>
+                  <p className="text-slate-600 text-sm">Provider: {booking.provider?.user?.name}</p>
+                  <p className="text-slate-700 text-xs mt-1">📅 {formatDate(booking.scheduledAt)} · 📍 {booking.address}</p>
                 </div>
                 <div className="text-right">
-                  <p className="text-white font-bold">₹{booking.totalPrice}</p>
+                  <p className="text-slate-900 font-bold">₹{booking.totalPrice}</p>
                   <div className="flex gap-2 mt-2 justify-end">
                     {booking.status === 'pending' && (
                       <button onClick={() => cancelBooking(booking._id)} className="text-xs bg-red-900/30 border border-red-600/50 text-red-400 px-3 py-1 rounded-lg hover:bg-red-900/50 transition-all">✗ Cancel</button>
@@ -150,10 +150,10 @@ export default function UserDashboard() {
       {reviewModal && (
         <div className="fixed inset-0 bg-black/70 backdrop-blur-sm flex items-center justify-center z-50 px-4">
           <div className="card w-full max-w-md animate-slide-up">
-            <h3 className="text-lg font-bold text-white mb-4">Leave a Review</h3>
-            <p className="text-slate-400 text-sm mb-4">For: {reviewModal.service?.title}</p>
+            <h3 className="text-lg font-bold text-slate-900 mb-4">Leave a Review</h3>
+            <p className="text-slate-600 text-sm mb-4">For: {reviewModal.service?.title}</p>
             <div className="mb-4">
-              <label className="text-sm text-slate-300 mb-2 block">Rating</label>
+              <label className="text-sm text-slate-700 mb-2 block">Rating</label>
               <div className="flex gap-2">
                 {[1, 2, 3, 4, 5].map((n) => (
                   <button key={n} onClick={() => setReviewForm({ ...reviewForm, rating: n })}
