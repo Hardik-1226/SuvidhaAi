@@ -1,5 +1,8 @@
 # Suvidha AI — Hyperlocal Service Marketplace
 
+> [!TIP]
+> **View Full Project Documentation**: [DOCUMENTATION.md](file:///d:/ServicesLocal/DOCUMENTATION.md) — Comprehensive technical guide, AI logic, and architecture.
+
 > Connecting users with trusted local service providers through AI-powered recommendations, real-time chat, and geospatial search.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=flat-square&logo=vercel)](https://suvidha-ai-git-main-hardik-1226s-projects.vercel.app/)

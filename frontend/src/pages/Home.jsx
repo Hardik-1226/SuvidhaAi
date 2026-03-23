@@ -6,6 +6,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { toast } from 'react-toastify';
 import MapView from '../components/MapView';
 import api from '../services/api';
 
@@ -16,6 +17,9 @@ const categories = [
   { id: 'tutor', label: 'Tutor', icon: '📚', color: 'from-green-600 to-green-800' },
   { id: 'cleaner', label: 'Cleaner', icon: '🧹', color: 'from-cyan-600 to-cyan-800' },
   { id: 'painter', label: 'Painter', icon: '🎨', color: 'from-orange-600 to-orange-800' },
+  { id: 'ac repair', label: 'AC Repair', icon: '❄️', color: 'from-cyan-400 to-cyan-600' },
+  { id: 'roof repair', label: 'Roof Repair', icon: '🏠', color: 'from-amber-700 to-amber-900' },
+  { id: 'mechanic', label: 'Mechanic', icon: '🏎️', color: 'from-red-600 to-red-800' },
 ];
 
 export default function Home() {
@@ -34,10 +38,11 @@ export default function Home() {
         async (pos) => {
           const loc = { lat: pos.coords.latitude, lon: pos.coords.longitude };
           setUserLocation(loc);
+          toast.success("Location updated!");
           // Fetch nearby providers & weather
           try {
             const [provRes, weatherRes] = await Promise.all([
-              api.get('/services'),
+              api.get(`/services?lat=${loc.lat}&lon=${loc.lon}&maxDistance=50000`),
               api.get(`/weather?lat=${loc.lat}&lon=${loc.lon}`)
             ]);
 
@@ -50,17 +55,29 @@ export default function Home() {
               title: s.title,
             }));
             setProviders(providerData);
-          } catch { /* silent */ }
+          } catch (err) {
+            console.error("Fetch error:", err);
+            toast.error("Failed to fetch nearby data");
+          }
           setLoadingLocation(false);
         },
-        () => {
+        (err) => {
           setLoadingLocation(false);
+          console.error("Geolocation error:", err);
+          let msg = "Could not get location. Using default.";
+          if (err.code === 1) msg = "Location permission denied.";
+          else if (err.code === 2) msg = "Location unavailable.";
+          else if (err.code === 3) msg = "Location request timed out.";
+          
+          toast.warning(msg);
           // Default to Delhi if denied
           setUserLocation({ lat: 28.6139, lon: 77.209 });
-        }
+        },
+        { timeout: 10000, enableHighAccuracy: true }
       );
     } else {
       setLoadingLocation(false);
+      toast.error("Geolocation is not supported by this browser.");
     }
   };
 

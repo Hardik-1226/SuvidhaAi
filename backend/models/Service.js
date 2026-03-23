@@ -26,6 +26,8 @@ const ServiceSchema = new mongoose.Schema(
         'painter',
         'mechanic',
         'doctor',
+        'ac repair',
+        'roof repair',
         'other',
       ],
     },

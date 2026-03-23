@@ -30,6 +30,8 @@ const ProviderSchema = new mongoose.Schema(
         'painter',
         'mechanic',
         'doctor',
+        'ac repair',
+        'roof repair',
         'other',
       ],
     },
