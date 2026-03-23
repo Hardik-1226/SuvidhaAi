@@ -12,6 +12,7 @@ import { AuthProvider, useAuth } from './context/AuthContext';
 import { SocketProvider } from './context/SocketContext';
 
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 import Home from './pages/Home';
 import ServiceList from './pages/ServiceList';
 import BookingPage from './pages/BookingPage';
@@ -48,6 +49,7 @@ const AppRoutes = () => (
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </main>
+    <Footer />
     <ToastContainer
       position="top-right"
       autoClose={3000}

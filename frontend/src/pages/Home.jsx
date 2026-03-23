@@ -281,10 +281,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="border-t border-surface-border py-8 text-center text-slate-500 text-sm">
-        © 2026 SuvidhaAI · Made By Hardik.
-      </footer>
     </div>
   );
 }
