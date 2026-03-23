@@ -24,7 +24,8 @@ const server = http.createServer(app);
 
 const io = socketio(server, {
   cors: {
-    origin: process.env.NODE_ENV === 'production' ? false : ['http://localhost:5173', 'http://localhost:3000'],
+    // Allows specific client URL from env, or local origins fallback
+    origin: process.env.CLIENT_URL || ['http://localhost:5173', 'http://localhost:3000'],
     methods: ['GET', 'POST'],
     credentials: true,
   },
