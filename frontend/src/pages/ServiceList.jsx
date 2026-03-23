@@ -211,10 +211,14 @@ export default function ServiceList() {
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                 {recommendations.slice(0, 3).map((prov) => (
                   <div key={prov._id} className="card border-primary-500/30 hover:border-primary-400/50 transition-all cursor-pointer"
-                    onClick={() => navigate(`/services?category=${prov.category}`)}>
+                    onClick={() => {
+                      const srv = services.find(s => s.provider?._id === prov._id);
+                      if (srv) navigate(`/booking/${srv._id}`);
+                      else navigate(`/services?category=${prov.category}`);
+                    }}>
                     <div className="flex items-center justify-between mb-2">
                       <span className="text-primary-900 font-semibold">{prov.user?.name || 'Provider'}</span>
-                      <span className="badge badge-success text-xs">AI Pick #{recommendations.indexOf(prov) + 1}</span>
+                      <span className="badge badge-success text-xs">SuvidhaAi Pick #{recommendations.indexOf(prov) + 1}</span>
                     </div>
                     <p className="text-gray-500 text-sm capitalize">{prov.category}</p>
                     <div className="flex items-center justify-between mt-3">
