@@ -7,6 +7,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import api from '../services/api';
 import { useAuth } from '../context/AuthContext';
+import { useSocket } from '../context/SocketContext';
 import { toast } from 'react-toastify';
 
 const statusClass = {
@@ -21,6 +22,7 @@ const formatDate = (d) => d ? new Date(d).toLocaleDateString('en-IN', { day: '2-
 
 export default function UserDashboard() {
   const { user } = useAuth();
+  const { socket } = useSocket();
   const [bookings, setBookings] = useState([]);
   const [loading, setLoading] = useState(true);
   const [reviewModal, setReviewModal] = useState(null);
@@ -45,6 +47,14 @@ export default function UserDashboard() {
   };
 
   useEffect(() => { fetchBookings(); }, []);
+
+  // Auto-refresh when notifications (like accepted, complete) occur
+  useEffect(() => {
+    if (!socket) return;
+    const handleRefresh = () => fetchBookings();
+    socket.on('notification', handleRefresh);
+    return () => socket.off('notification', handleRefresh);
+  }, [socket]);
 
   const submitReview = async () => {
     try {

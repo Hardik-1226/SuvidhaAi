@@ -7,6 +7,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import api from '../services/api';
 import { useAuth } from '../context/AuthContext';
+import { useSocket } from '../context/SocketContext';
 import { toast } from 'react-toastify';
 
 const statusClass = { pending: 'badge-warning', accepted: 'badge-info', completed: 'badge-success', rejected: 'badge-danger', cancelled: 'badge-danger' };
@@ -14,6 +15,7 @@ const formatDate = (d) => d ? new Date(d).toLocaleDateString('en-IN', { day: '2-
 
 export default function ProviderDashboard() {
   const { user } = useAuth();
+  const { socket } = useSocket();
   const [bookings, setBookings] = useState([]);
   const [services, setServices] = useState([]);
   const [profile, setProfile] = useState(null);
@@ -63,6 +65,14 @@ export default function ProviderDashboard() {
   };
 
   useEffect(() => { fetchData(); }, []);
+
+  // Auto-refresh when notifications (like reviews) occur
+  useEffect(() => {
+    if (!socket) return;
+    const handleRefresh = () => fetchData();
+    socket.on('notification', handleRefresh);
+    return () => socket.off('notification', handleRefresh);
+  }, [socket]);
 
   const toggleAvailability = async () => {
     try {

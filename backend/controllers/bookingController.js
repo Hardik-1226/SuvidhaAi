@@ -135,6 +135,11 @@ exports.updateBookingStatus = async (req, res, next) => {
           title: `Booking ${status.charAt(0).toUpperCase() + status.slice(1)}`,
           message: `Your previous booking has been ${status}.`
         });
+      } else if (status === 'completed') {
+        io.to(booking.user.toString()).emit('notification', {
+          title: 'Booking Completed',
+          message: `Your booking has been completed by the provider. Please leave a review!`
+        });
       } else if (status === 'cancelled' && provider) {
         io.to(provider.user.toString()).emit('notification', {
           title: 'Booking Cancelled',

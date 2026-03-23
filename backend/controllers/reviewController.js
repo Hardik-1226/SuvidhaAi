@@ -40,6 +40,15 @@ exports.createReview = async (req, res, next) => {
       aiConfidence,
     });
 
+    // Notify provider
+    const io = req.app.get('io');
+    if (io) {
+      io.to(provider.user.toString()).emit('notification', {
+        title: 'New Review Received',
+        message: `A customer left a ${rating}-star review for your service!`
+      });
+    }
+
     res.status(201).json({ success: true, data: review });
   } catch (error) {
     next(error);
