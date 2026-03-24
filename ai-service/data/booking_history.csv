@@ -1,2001 +1,2001 @@
 service,temperature,weather,time,day,demand_score
-tutor,-0.2,Rain Showers,night,monday,0.129
-roof repair,41.1,Cloudy,morning,wednesday,0.181
-carpenter,1.5,Snow,afternoon,thursday,0.234
-cleaner,3.3,Thunderstorm,morning,sunday,0.686
-mechanic,8.3,Cloudy,evening,sunday,0.044
-cleaner,24.6,Fog,night,wednesday,0.144
-roof repair,8.8,Cloudy,evening,friday,0.184
-plumber,40.8,Rain,night,thursday,0.736
-painter,23.7,Cloudy,night,tuesday,0.349
-plumber,19.7,Snow,afternoon,tuesday,0.266
-tutor,44.7,Rain,evening,sunday,0.17
-electrician,6.2,Rain,night,wednesday,0.52
-doctor,43.3,Fog,morning,saturday,0.36
-cleaner,37.6,Clear,night,sunday,0.372
-ac repair,11.9,Snow,morning,thursday,0.205
-doctor,-2.6,Thunderstorm,evening,wednesday,0.45
-painter,2.0,Rain Showers,night,monday,0.328
-mechanic,26.4,Clear,afternoon,sunday,0.248
-plumber,42.5,Cloudy,morning,wednesday,0.082
-painter,-0.2,Clear,morning,sunday,0.548
-carpenter,15.4,Thunderstorm,evening,sunday,0.52
-mechanic,9.7,Fog,afternoon,sunday,0.356
-tutor,14.4,Fog,evening,saturday,0.117
-doctor,15.4,Cloudy,night,wednesday,0.151
-cleaner,27.0,Thunderstorm,afternoon,friday,0.235
-painter,24.8,Cloudy,afternoon,thursday,0.349
-electrician,42.1,Fog,afternoon,monday,0.609
-painter,22.3,Rain Showers,afternoon,saturday,0.741
-carpenter,20.4,Snow,morning,tuesday,0.31
-other,2.9,Rain Showers,afternoon,thursday,0.313
-ac repair,-2.3,Clear,afternoon,tuesday,0.195
-roof repair,20.0,Rain,night,thursday,0.734
-plumber,24.4,Cloudy,evening,friday,0.17
-mechanic,-3.7,Rain,afternoon,saturday,0.36
-electrician,33.4,Rain Showers,afternoon,monday,0.958
-other,34.1,Cloudy,night,tuesday,0.293
-other,39.0,Rain,evening,monday,0.187
-electrician,32.9,Cloudy,morning,thursday,0.538
-ac repair,24.8,Rain,morning,monday,0.28
-carpenter,21.2,Thunderstorm,morning,friday,0.108
-other,24.7,Thunderstorm,evening,tuesday,0.315
-doctor,39.3,Fog,morning,wednesday,0.192
-cleaner,36.9,Cloudy,evening,wednesday,0.0
-roof repair,27.4,Cloudy,morning,friday,0.273
-tutor,35.2,Cloudy,night,monday,0.143
-cleaner,31.5,Thunderstorm,morning,monday,0.208
-painter,10.6,Thunderstorm,morning,tuesday,0.27
-roof repair,5.4,Rain Showers,night,thursday,0.734
-doctor,3.4,Fog,morning,sunday,0.115
-cleaner,34.1,Fog,afternoon,thursday,0.174
-ac repair,24.8,Rain,evening,saturday,0.15
-mechanic,24.8,Snow,evening,sunday,0.627
-other,1.5,Fog,evening,monday,0.237
-electrician,33.2,Thunderstorm,evening,monday,1.0
-tutor,36.7,Clear,night,tuesday,0.0
-tutor,1.7,Rain,evening,saturday,0.0
-roof repair,34.6,Thunderstorm,night,sunday,0.789
-other,37.9,Thunderstorm,morning,monday,0.14
-plumber,22.9,Thunderstorm,night,monday,0.661
-painter,20.1,Thunderstorm,evening,sunday,0.438
-cleaner,-4.0,Clear,night,thursday,0.054
-ac repair,41.6,Cloudy,evening,monday,0.718
-cleaner,36.2,Thunderstorm,evening,tuesday,0.156
-other,27.1,Rain,morning,saturday,0.155
-painter,27.7,Fog,evening,monday,0.403
-mechanic,32.0,Fog,morning,sunday,0.334
-painter,21.1,Cloudy,morning,saturday,0.738
-tutor,26.8,Thunderstorm,afternoon,sunday,0.322
-other,43.5,Fog,morning,sunday,0.278
-carpenter,5.2,Fog,evening,wednesday,0.338
-roof repair,23.2,Thunderstorm,afternoon,saturday,0.471
-mechanic,20.3,Cloudy,afternoon,sunday,0.25
-other,8.4,Thunderstorm,night,saturday,0.326
-plumber,39.2,Cloudy,night,friday,0.385
-plumber,30.0,Rain Showers,night,sunday,0.819
-doctor,36.7,Snow,evening,friday,0.275
-cleaner,42.3,Clear,morning,tuesday,0.13
-ac repair,18.7,Fog,evening,saturday,0.258
-roof repair,15.8,Clear,evening,monday,0.114
-plumber,31.3,Rain Showers,afternoon,tuesday,0.642
-other,23.5,Fog,morning,thursday,0.364
-doctor,42.4,Clear,evening,friday,0.251
-electrician,9.3,Rain Showers,night,friday,0.825
-other,5.4,Rain,evening,monday,0.324
-carpenter,40.1,Cloudy,morning,friday,0.284
-ac repair,38.3,Clear,night,sunday,0.785
-electrician,29.0,Snow,evening,wednesday,0.453
-painter,4.9,Clear,night,tuesday,0.441
-electrician,39.4,Clear,afternoon,tuesday,0.683
-doctor,38.9,Rain,morning,saturday,0.256
-mechanic,33.0,Fog,morning,friday,0.134
-tutor,13.7,Thunderstorm,afternoon,monday,0.365
-painter,11.9,Snow,evening,thursday,0.252
-ac repair,8.6,Cloudy,morning,friday,0.07
-doctor,-4.6,Rain,night,thursday,0.221
-roof repair,19.9,Snow,afternoon,monday,0.227
-cleaner,25.4,Cloudy,afternoon,monday,0.341
-plumber,-2.8,Thunderstorm,morning,tuesday,0.751
-roof repair,15.9,Rain Showers,morning,monday,0.642
-painter,39.6,Snow,evening,saturday,0.383
-ac repair,-0.7,Rain Showers,morning,thursday,0.24
-doctor,31.5,Fog,morning,friday,0.358
-roof repair,41.3,Snow,evening,friday,0.345
-cleaner,44.0,Fog,afternoon,monday,0.291
-ac repair,7.1,Clear,morning,tuesday,0.201
-tutor,2.5,Clear,afternoon,thursday,0.252
-other,17.9,Rain Showers,afternoon,wednesday,0.234
-electrician,26.8,Rain,evening,monday,0.676
-tutor,-3.7,Rain Showers,evening,friday,0.18
-plumber,39.4,Snow,afternoon,friday,0.229
-roof repair,13.3,Snow,night,thursday,0.34
-ac repair,31.3,Rain Showers,night,tuesday,0.513
-painter,7.0,Snow,evening,sunday,0.64
-doctor,0.6,Fog,afternoon,saturday,0.072
-other,33.0,Fog,evening,monday,0.28
-carpenter,38.8,Rain,afternoon,saturday,0.485
-plumber,44.2,Rain,evening,saturday,0.505
-mechanic,26.5,Cloudy,night,tuesday,0.359
-mechanic,26.7,Snow,night,friday,0.446
-other,-2.6,Fog,night,friday,0.364
-ac repair,-2.0,Fog,morning,tuesday,0.37
-electrician,1.6,Rain Showers,afternoon,tuesday,0.662
-carpenter,-1.8,Clear,night,friday,0.117
-tutor,13.7,Fog,evening,sunday,0.0
-electrician,7.9,Thunderstorm,morning,thursday,0.618
-roof repair,18.5,Rain,evening,wednesday,0.578
-tutor,17.6,Rain Showers,night,friday,0.004
-electrician,33.0,Rain Showers,morning,thursday,0.95
-tutor,6.8,Snow,morning,saturday,0.348
-painter,22.7,Thunderstorm,afternoon,monday,0.224
-ac repair,17.1,Cloudy,morning,thursday,0.273
-doctor,21.7,Clear,morning,saturday,0.204
-carpenter,9.0,Rain,afternoon,thursday,0.336
-other,1.2,Rain Showers,afternoon,friday,0.282
-painter,41.3,Fog,evening,sunday,0.407
-roof repair,6.5,Clear,night,sunday,0.152
-plumber,29.5,Rain,morning,saturday,0.626
-electrician,10.9,Snow,night,monday,0.313
-doctor,10.1,Snow,night,tuesday,0.209
-electrician,4.0,Rain Showers,afternoon,sunday,0.64
-other,30.3,Rain,morning,tuesday,0.187
-doctor,18.7,Thunderstorm,morning,wednesday,0.278
-carpenter,28.7,Rain,afternoon,wednesday,0.16
-plumber,15.9,Cloudy,evening,wednesday,0.322
-tutor,36.8,Thunderstorm,night,monday,0.0
-plumber,21.0,Thunderstorm,afternoon,thursday,0.763
-other,18.7,Rain,evening,saturday,0.294
-cleaner,28.3,Rain Showers,morning,wednesday,0.423
-doctor,27.8,Rain Showers,night,saturday,0.243
-mechanic,13.5,Fog,afternoon,sunday,0.303
-tutor,27.2,Rain,morning,sunday,0.104
-carpenter,41.2,Fog,night,thursday,0.143
-cleaner,7.6,Thunderstorm,morning,sunday,0.443
-painter,40.7,Rain Showers,afternoon,thursday,0.351
-mechanic,6.2,Thunderstorm,morning,friday,0.084
-roof repair,21.4,Snow,morning,saturday,0.287
-tutor,18.2,Rain Showers,evening,saturday,0.204
-electrician,3.8,Rain Showers,evening,thursday,0.696
-cleaner,31.7,Thunderstorm,evening,sunday,0.275
-plumber,35.4,Snow,evening,saturday,0.309
-carpenter,43.3,Cloudy,evening,friday,0.363
-carpenter,9.5,Thunderstorm,morning,wednesday,0.235
-cleaner,23.7,Fog,evening,tuesday,0.021
-cleaner,25.7,Snow,afternoon,saturday,0.46
-electrician,7.9,Thunderstorm,evening,tuesday,0.698
-cleaner,26.6,Clear,evening,tuesday,0.144
-tutor,10.2,Fog,morning,monday,0.286
-doctor,38.4,Cloudy,night,wednesday,0.262
-cleaner,10.8,Clear,afternoon,thursday,0.107
-ac repair,1.6,Clear,evening,wednesday,0.366
-cleaner,35.7,Clear,night,sunday,0.394
-ac repair,-3.1,Thunderstorm,night,monday,0.251
-plumber,29.2,Thunderstorm,afternoon,thursday,0.592
-painter,21.0,Thunderstorm,morning,monday,0.356
-electrician,28.3,Cloudy,morning,sunday,0.296
-carpenter,0.1,Clear,evening,friday,0.183
-painter,12.5,Fog,evening,monday,0.409
-other,7.6,Rain,evening,monday,0.321
-doctor,44.9,Clear,evening,sunday,0.099
-mechanic,8.9,Cloudy,evening,wednesday,0.202
-doctor,33.2,Rain,morning,wednesday,0.149
-plumber,9.8,Snow,night,saturday,0.144
-carpenter,7.0,Rain,morning,tuesday,0.278
-electrician,10.8,Thunderstorm,night,sunday,0.609
-other,3.6,Cloudy,afternoon,wednesday,0.395
-ac repair,19.1,Cloudy,evening,saturday,0.205
-ac repair,-1.7,Snow,afternoon,wednesday,0.351
-painter,8.2,Clear,afternoon,sunday,0.572
-cleaner,31.5,Clear,evening,friday,0.0
-cleaner,10.1,Fog,night,friday,0.001
-electrician,35.6,Clear,morning,saturday,0.492
-mechanic,43.5,Fog,night,wednesday,0.241
-doctor,43.3,Rain Showers,morning,saturday,0.255
-roof repair,22.1,Cloudy,morning,monday,0.238
-mechanic,16.8,Snow,evening,friday,0.596
-ac repair,22.8,Snow,night,friday,0.371
-doctor,25.1,Rain Showers,morning,friday,0.265
-electrician,22.0,Snow,afternoon,saturday,0.108
-plumber,3.1,Thunderstorm,afternoon,wednesday,0.568
-electrician,35.2,Thunderstorm,afternoon,wednesday,1.0
-cleaner,1.6,Cloudy,afternoon,sunday,0.385
-other,42.3,Thunderstorm,evening,thursday,0.417
-ac repair,38.0,Rain Showers,afternoon,friday,0.67
-painter,0.8,Fog,night,saturday,0.551
-painter,16.7,Fog,evening,friday,0.288
-mechanic,39.5,Fog,night,monday,0.202
-other,29.9,Rain,afternoon,saturday,0.409
-painter,31.0,Snow,evening,thursday,0.346
-tutor,-2.7,Rain Showers,morning,friday,0.113
-carpenter,15.5,Snow,evening,saturday,0.447
-doctor,6.5,Thunderstorm,night,friday,0.281
-mechanic,21.5,Rain Showers,afternoon,wednesday,0.019
-cleaner,8.7,Rain Showers,evening,sunday,0.441
-plumber,16.9,Cloudy,afternoon,sunday,0.267
-mechanic,8.2,Cloudy,afternoon,tuesday,0.13
-tutor,26.3,Thunderstorm,afternoon,monday,0.138
-mechanic,-2.1,Thunderstorm,morning,thursday,0.219
-other,14.5,Fog,evening,thursday,0.145
-tutor,12.9,Rain,afternoon,friday,0.26
-ac repair,19.1,Clear,afternoon,wednesday,0.292
-roof repair,28.9,Fog,afternoon,monday,0.341
-other,1.9,Snow,night,sunday,0.053
-roof repair,13.4,Snow,morning,friday,0.31
-doctor,39.3,Snow,morning,tuesday,0.1
-mechanic,14.4,Rain,night,sunday,0.328
-carpenter,6.4,Rain Showers,night,friday,0.27
-roof repair,3.9,Rain,afternoon,friday,0.468
-mechanic,43.2,Fog,evening,friday,0.179
-roof repair,40.1,Thunderstorm,morning,friday,0.634
-painter,18.2,Thunderstorm,morning,sunday,0.464
-plumber,17.3,Fog,night,thursday,0.358
-roof repair,10.9,Rain,evening,saturday,0.496
-roof repair,7.9,Fog,morning,thursday,0.183
-tutor,43.0,Cloudy,morning,wednesday,0.141
-painter,43.2,Snow,morning,wednesday,0.14
-tutor,10.3,Fog,evening,wednesday,0.0
-doctor,-4.1,Clear,evening,wednesday,0.35
-carpenter,19.7,Snow,morning,thursday,0.266
-other,29.0,Thunderstorm,evening,tuesday,0.181
-carpenter,7.0,Rain Showers,morning,tuesday,0.139
-mechanic,6.3,Rain,morning,sunday,0.269
-other,39.7,Clear,afternoon,sunday,0.31
-cleaner,-3.8,Fog,afternoon,tuesday,0.095
-tutor,1.5,Fog,afternoon,sunday,0.351
-cleaner,4.6,Fog,night,thursday,0.0
-plumber,36.1,Cloudy,afternoon,monday,0.133
-roof repair,4.2,Clear,afternoon,thursday,0.304
-tutor,-3.0,Fog,morning,tuesday,0.184
-mechanic,12.0,Clear,evening,thursday,0.243
-roof repair,26.2,Clear,night,thursday,0.227
-ac repair,28.6,Snow,morning,thursday,0.276
-roof repair,-1.0,Snow,evening,sunday,0.283
-other,39.8,Clear,afternoon,thursday,0.315
-tutor,39.0,Thunderstorm,morning,monday,0.249
-carpenter,34.2,Rain Showers,morning,sunday,0.472
-carpenter,31.8,Snow,night,sunday,0.545
-mechanic,1.0,Rain,night,friday,0.334
-doctor,19.5,Rain Showers,evening,monday,0.255
-mechanic,23.0,Clear,morning,saturday,0.15
-ac repair,5.8,Rain,night,friday,0.168
-other,-1.6,Thunderstorm,evening,tuesday,0.319
-mechanic,30.3,Thunderstorm,evening,monday,0.284
-roof repair,40.6,Cloudy,morning,sunday,0.369
-ac repair,38.6,Fog,morning,friday,0.798
-ac repair,22.3,Rain,morning,monday,0.252
-roof repair,23.4,Cloudy,afternoon,saturday,0.119
-electrician,29.4,Cloudy,morning,monday,0.374
-tutor,0.4,Rain Showers,evening,monday,0.091
-roof repair,9.4,Snow,night,saturday,0.353
-other,-1.9,Clear,night,wednesday,0.173
-cleaner,18.0,Clear,evening,monday,0.105
-roof repair,30.8,Fog,evening,friday,0.063
-doctor,24.2,Rain,evening,saturday,0.148
-roof repair,37.4,Rain,night,monday,0.59
-plumber,36.0,Rain,afternoon,tuesday,0.568
-doctor,34.8,Fog,afternoon,monday,0.209
-ac repair,33.5,Thunderstorm,afternoon,sunday,0.779
-plumber,7.3,Rain,morning,friday,0.608
-electrician,40.9,Fog,night,wednesday,0.474
-ac repair,7.0,Snow,morning,friday,0.317
-other,1.0,Rain Showers,night,sunday,0.215
-mechanic,2.9,Cloudy,afternoon,sunday,0.309
-roof repair,9.9,Fog,morning,wednesday,0.305
-mechanic,23.5,Thunderstorm,morning,wednesday,0.213
-roof repair,31.3,Thunderstorm,afternoon,tuesday,0.501
-plumber,22.7,Rain,afternoon,tuesday,0.813
-doctor,8.6,Rain Showers,afternoon,thursday,0.168
-doctor,32.9,Cloudy,night,saturday,0.216
-painter,-1.8,Snow,afternoon,thursday,0.094
-other,38.1,Snow,afternoon,sunday,0.046
-tutor,15.2,Clear,night,wednesday,0.084
-carpenter,-3.1,Thunderstorm,afternoon,saturday,0.478
-painter,24.3,Snow,night,sunday,0.523
-plumber,19.4,Cloudy,morning,saturday,0.21
-roof repair,39.4,Snow,morning,tuesday,0.325
-ac repair,15.5,Rain Showers,morning,thursday,0.314
-roof repair,35.6,Cloudy,afternoon,tuesday,0.248
-cleaner,28.7,Thunderstorm,night,tuesday,0.115
-doctor,18.2,Clear,afternoon,thursday,0.165
-tutor,11.1,Rain,afternoon,thursday,0.168
-painter,30.8,Thunderstorm,morning,thursday,0.334
-mechanic,8.9,Clear,afternoon,monday,0.144
-mechanic,-5.0,Rain,night,thursday,0.045
-plumber,39.7,Fog,morning,friday,0.309
-carpenter,44.6,Clear,evening,monday,0.233
-roof repair,8.0,Snow,morning,friday,0.129
-mechanic,-1.1,Thunderstorm,evening,friday,0.322
-roof repair,3.0,Rain,morning,sunday,0.766
-painter,7.0,Rain Showers,morning,friday,0.235
-electrician,17.9,Thunderstorm,morning,sunday,0.833
-cleaner,15.9,Rain Showers,night,friday,0.0
-mechanic,30.3,Cloudy,morning,friday,0.207
-tutor,8.0,Rain Showers,morning,saturday,0.375
-plumber,18.7,Thunderstorm,afternoon,wednesday,0.752
-tutor,1.8,Cloudy,morning,thursday,0.335
-ac repair,30.8,Clear,evening,saturday,0.585
-roof repair,7.8,Rain Showers,afternoon,sunday,0.755
-tutor,24.3,Clear,afternoon,saturday,0.533
-cleaner,29.9,Rain Showers,evening,thursday,0.031
-plumber,8.1,Snow,evening,sunday,0.118
-cleaner,8.1,Cloudy,evening,wednesday,0.128
-plumber,39.1,Rain Showers,night,friday,0.516
-carpenter,8.7,Rain Showers,night,wednesday,0.12
-electrician,21.2,Cloudy,evening,wednesday,0.392
-ac repair,32.4,Rain Showers,evening,wednesday,0.755
-mechanic,25.0,Clear,morning,friday,0.268
-carpenter,39.3,Thunderstorm,afternoon,saturday,0.762
-mechanic,-0.6,Thunderstorm,morning,saturday,0.211
-ac repair,7.2,Cloudy,afternoon,saturday,0.374
-mechanic,4.3,Snow,morning,saturday,0.367
-roof repair,17.1,Cloudy,morning,sunday,0.169
-other,38.2,Fog,morning,wednesday,0.424
-electrician,35.0,Rain Showers,afternoon,thursday,1.0
-mechanic,5.7,Snow,night,saturday,0.601
-cleaner,-2.1,Fog,night,friday,0.0
-plumber,25.2,Thunderstorm,night,wednesday,0.786
-roof repair,12.9,Snow,evening,thursday,0.325
-ac repair,0.2,Rain,afternoon,monday,0.348
-ac repair,23.9,Thunderstorm,night,saturday,0.303
-carpenter,-3.6,Rain Showers,morning,monday,0.36
-electrician,29.3,Rain,afternoon,thursday,0.627
-plumber,29.3,Rain,afternoon,monday,0.567
-other,43.5,Clear,morning,wednesday,0.271
-other,12.3,Thunderstorm,morning,thursday,0.353
-tutor,24.0,Rain Showers,night,friday,0.274
-roof repair,-2.8,Rain,afternoon,wednesday,0.687
-painter,39.2,Cloudy,morning,friday,0.0
-mechanic,26.2,Thunderstorm,night,friday,0.082
-other,22.3,Clear,evening,monday,0.062
-doctor,2.8,Rain,morning,monday,0.28
-roof repair,-1.6,Snow,night,tuesday,0.281
-other,1.6,Cloudy,afternoon,saturday,0.417
-tutor,31.2,Rain,night,saturday,0.0
-other,38.6,Fog,evening,saturday,0.2
-cleaner,21.6,Fog,night,sunday,0.374
-plumber,1.4,Rain,evening,wednesday,0.845
-tutor,36.9,Snow,evening,saturday,0.0
-carpenter,15.5,Fog,night,sunday,0.682
-doctor,17.3,Snow,morning,saturday,0.235
-ac repair,20.5,Cloudy,evening,friday,0.161
-other,38.7,Clear,afternoon,friday,0.403
-doctor,19.6,Rain Showers,afternoon,sunday,0.071
-roof repair,8.2,Fog,afternoon,friday,0.302
-carpenter,-1.0,Fog,evening,tuesday,0.258
-carpenter,38.6,Clear,night,friday,0.151
-ac repair,13.2,Rain Showers,afternoon,monday,0.264
-tutor,30.1,Snow,night,sunday,0.024
-other,-4.6,Thunderstorm,afternoon,monday,0.275
-painter,7.1,Fog,evening,wednesday,0.302
-ac repair,8.5,Fog,evening,tuesday,0.408
-carpenter,20.7,Rain,evening,sunday,0.604
-tutor,32.8,Rain Showers,night,wednesday,0.158
-painter,42.9,Rain,afternoon,friday,0.378
-ac repair,37.8,Thunderstorm,afternoon,saturday,0.681
-doctor,30.3,Rain Showers,night,wednesday,0.174
-carpenter,19.7,Thunderstorm,afternoon,saturday,0.399
-tutor,41.2,Thunderstorm,evening,tuesday,0.021
-other,16.1,Clear,night,monday,0.325
-cleaner,42.6,Clear,afternoon,saturday,0.603
-mechanic,23.0,Cloudy,afternoon,friday,0.141
-carpenter,26.1,Rain Showers,morning,friday,0.19
-painter,19.8,Cloudy,evening,friday,0.265
-mechanic,14.6,Snow,afternoon,monday,0.511
-ac repair,39.6,Cloudy,evening,monday,0.484
-painter,2.8,Clear,night,saturday,0.678
-doctor,42.0,Fog,night,friday,0.165
-ac repair,4.3,Snow,morning,wednesday,0.281
-electrician,-3.5,Rain,night,tuesday,0.569
-other,2.2,Fog,afternoon,saturday,0.173
-ac repair,28.9,Fog,afternoon,friday,0.372
-ac repair,36.0,Rain,morning,monday,0.527
-cleaner,18.2,Snow,afternoon,friday,0.221
-tutor,28.7,Cloudy,morning,friday,0.224
-carpenter,10.7,Rain,night,friday,0.404
-electrician,33.5,Rain Showers,afternoon,thursday,1.0
-ac repair,-2.8,Clear,afternoon,friday,0.209
-carpenter,9.7,Thunderstorm,morning,sunday,0.518
-mechanic,5.3,Clear,afternoon,wednesday,0.248
-carpenter,23.0,Cloudy,evening,thursday,0.33
-carpenter,17.3,Fog,afternoon,tuesday,0.419
-ac repair,10.9,Cloudy,evening,saturday,0.058
-electrician,34.7,Rain,morning,thursday,0.905
-cleaner,23.8,Snow,night,thursday,0.002
-mechanic,10.6,Rain,morning,tuesday,0.46
-painter,36.2,Cloudy,evening,friday,0.222
-electrician,31.1,Rain,morning,friday,1.0
-other,28.7,Rain,afternoon,wednesday,0.384
-other,-2.4,Clear,morning,friday,0.363
-plumber,44.1,Fog,afternoon,thursday,0.345
-tutor,11.0,Clear,morning,tuesday,0.068
-painter,4.2,Thunderstorm,evening,saturday,0.46
-painter,-1.2,Rain Showers,night,saturday,0.534
-roof repair,29.2,Snow,afternoon,friday,0.283
-mechanic,-2.7,Rain Showers,night,tuesday,0.261
-electrician,22.8,Rain,evening,friday,0.476
-painter,38.2,Fog,evening,sunday,0.666
-mechanic,-0.4,Rain Showers,evening,thursday,0.286
-ac repair,-0.7,Fog,night,wednesday,0.226
-mechanic,5.0,Rain Showers,morning,sunday,0.28
-doctor,13.7,Fog,afternoon,wednesday,0.285
-tutor,17.9,Snow,afternoon,thursday,0.372
-tutor,10.9,Rain,night,saturday,0.063
-ac repair,32.4,Cloudy,morning,thursday,0.521
-roof repair,24.3,Cloudy,night,friday,0.353
-ac repair,41.3,Snow,night,thursday,0.742
-painter,-1.9,Cloudy,afternoon,monday,0.227
-plumber,25.5,Rain,morning,thursday,0.716
-mechanic,8.6,Clear,afternoon,tuesday,0.129
-painter,0.8,Thunderstorm,evening,monday,0.311
-doctor,-3.7,Snow,evening,monday,0.215
-cleaner,17.7,Cloudy,evening,monday,0.034
-doctor,17.1,Fog,afternoon,tuesday,0.455
-painter,14.7,Fog,night,monday,0.319
-mechanic,19.1,Fog,evening,sunday,0.128
-painter,5.7,Clear,afternoon,wednesday,0.347
-tutor,9.2,Snow,afternoon,sunday,0.349
-ac repair,28.1,Snow,night,tuesday,0.255
-electrician,5.8,Clear,night,wednesday,0.074
-ac repair,33.8,Rain Showers,afternoon,friday,0.613
-tutor,12.2,Clear,afternoon,tuesday,0.292
-mechanic,27.7,Snow,morning,tuesday,0.424
-plumber,29.7,Rain,afternoon,saturday,0.577
-ac repair,34.3,Rain,morning,monday,0.735
-cleaner,20.5,Snow,morning,thursday,0.052
-cleaner,7.9,Rain,night,thursday,0.111
-other,28.9,Snow,morning,sunday,0.292
-painter,-4.7,Thunderstorm,evening,monday,0.306
-mechanic,19.0,Rain,night,sunday,0.353
-doctor,-4.7,Rain Showers,afternoon,tuesday,0.148
-roof repair,21.7,Cloudy,evening,monday,0.11
-roof repair,20.6,Cloudy,evening,saturday,0.163
-mechanic,20.2,Snow,morning,sunday,0.457
-painter,9.7,Snow,afternoon,wednesday,0.246
-other,10.5,Rain,afternoon,friday,0.366
-carpenter,17.3,Thunderstorm,night,saturday,0.703
-electrician,21.3,Cloudy,night,friday,0.195
-painter,36.7,Cloudy,night,thursday,0.332
-doctor,21.8,Snow,afternoon,thursday,0.313
-doctor,39.8,Fog,morning,monday,0.32
-cleaner,-1.3,Rain,morning,thursday,0.186
-other,29.2,Thunderstorm,morning,monday,0.247
-mechanic,24.2,Rain,morning,monday,0.202
-mechanic,8.6,Snow,night,monday,0.605
-electrician,7.9,Cloudy,evening,tuesday,0.255
-tutor,21.9,Rain,night,tuesday,0.0
-painter,-1.7,Rain Showers,evening,saturday,0.615
-carpenter,-3.8,Clear,night,tuesday,0.315
-carpenter,35.1,Rain Showers,afternoon,sunday,0.642
-doctor,12.4,Thunderstorm,afternoon,thursday,0.219
-mechanic,7.4,Clear,night,friday,0.39
-other,19.6,Rain,night,friday,0.121
-tutor,36.2,Rain Showers,night,sunday,0.143
-electrician,14.6,Rain Showers,night,monday,0.737
-cleaner,11.5,Fog,morning,sunday,0.466
-cleaner,15.0,Cloudy,morning,thursday,0.349
-cleaner,15.7,Rain,night,saturday,0.095
-tutor,11.8,Thunderstorm,evening,thursday,0.0
-ac repair,38.3,Rain Showers,afternoon,friday,0.662
-doctor,21.9,Rain,night,saturday,0.342
-other,40.2,Rain Showers,night,tuesday,0.249
-roof repair,1.6,Cloudy,afternoon,saturday,0.148
-mechanic,14.4,Thunderstorm,morning,monday,0.129
-carpenter,11.1,Snow,evening,friday,0.1
-carpenter,22.0,Rain,evening,saturday,0.601
-painter,-3.5,Rain,night,wednesday,0.188
-doctor,39.6,Cloudy,evening,friday,0.213
-carpenter,10.3,Fog,night,saturday,0.502
-cleaner,41.8,Thunderstorm,afternoon,wednesday,0.14
-doctor,3.2,Rain Showers,afternoon,monday,0.135
-roof repair,12.9,Rain,night,thursday,0.658
-other,17.8,Thunderstorm,evening,friday,0.306
-plumber,9.2,Cloudy,afternoon,tuesday,0.289
-mechanic,12.9,Clear,night,sunday,0.268
-roof repair,42.3,Rain,morning,wednesday,0.642
-tutor,28.3,Thunderstorm,night,tuesday,0.0
-mechanic,11.2,Cloudy,night,saturday,0.138
-roof repair,-0.3,Clear,night,friday,0.163
-tutor,10.9,Thunderstorm,afternoon,saturday,0.055
-electrician,31.3,Snow,night,sunday,0.525
-plumber,31.7,Thunderstorm,evening,sunday,0.807
-roof repair,40.6,Snow,morning,monday,0.21
-carpenter,25.8,Snow,night,friday,0.165
-doctor,1.1,Snow,morning,friday,0.205
-cleaner,43.3,Rain Showers,night,sunday,0.286
-cleaner,-3.0,Snow,evening,friday,0.0
-ac repair,36.1,Cloudy,morning,friday,0.688
-cleaner,37.5,Cloudy,afternoon,sunday,0.563
-electrician,35.4,Fog,afternoon,monday,0.634
-electrician,-2.7,Snow,night,thursday,0.115
-other,21.6,Rain Showers,evening,saturday,0.24
-plumber,7.7,Rain Showers,afternoon,friday,0.543
-other,42.9,Rain,evening,tuesday,0.212
-mechanic,33.5,Rain,evening,monday,0.122
-tutor,9.5,Snow,night,tuesday,0.0
-ac repair,-0.1,Fog,night,wednesday,0.236
-painter,3.7,Rain,evening,thursday,0.265
-carpenter,2.6,Rain Showers,morning,wednesday,0.163
-tutor,-0.5,Cloudy,afternoon,thursday,0.094
-ac repair,37.1,Snow,morning,wednesday,0.679
-carpenter,33.7,Thunderstorm,morning,saturday,0.52
-ac repair,31.8,Cloudy,afternoon,wednesday,0.788
-plumber,22.3,Snow,night,tuesday,0.223
-carpenter,23.7,Clear,evening,wednesday,0.426
-doctor,0.2,Cloudy,morning,friday,0.24
-ac repair,32.6,Clear,evening,sunday,0.556
-cleaner,17.8,Cloudy,afternoon,monday,0.059
-other,5.2,Rain,evening,wednesday,0.181
-roof repair,6.6,Snow,evening,wednesday,0.345
-electrician,34.1,Thunderstorm,evening,saturday,1.0
-cleaner,29.9,Clear,afternoon,thursday,0.342
-ac repair,37.8,Fog,afternoon,thursday,0.815
-electrician,43.5,Cloudy,evening,wednesday,0.625
-roof repair,30.8,Snow,night,saturday,0.241
-mechanic,32.5,Fog,afternoon,wednesday,0.121
-electrician,10.8,Snow,evening,sunday,0.269
-plumber,5.5,Clear,afternoon,friday,0.142
-doctor,23.8,Clear,evening,monday,0.403
-mechanic,29.5,Cloudy,morning,tuesday,0.298
-tutor,0.3,Rain,night,sunday,0.0
-plumber,22.7,Cloudy,night,tuesday,0.348
-doctor,32.4,Fog,afternoon,friday,0.216
-electrician,14.0,Thunderstorm,morning,saturday,0.788
-electrician,-4.8,Fog,morning,friday,0.266
-doctor,-3.3,Rain Showers,evening,sunday,0.094
-roof repair,17.8,Rain Showers,evening,wednesday,0.719
-tutor,4.4,Thunderstorm,morning,thursday,0.361
-cleaner,15.8,Rain Showers,afternoon,friday,0.307
-cleaner,13.8,Rain Showers,afternoon,friday,0.192
-electrician,37.2,Cloudy,afternoon,sunday,0.67
-roof repair,29.8,Cloudy,evening,saturday,0.09
-carpenter,2.3,Snow,morning,saturday,0.597
-doctor,42.6,Thunderstorm,morning,monday,0.41
-mechanic,-3.0,Fog,night,thursday,0.419
-doctor,2.0,Thunderstorm,evening,thursday,0.316
-roof repair,18.7,Rain,morning,monday,0.698
-ac repair,9.0,Rain,afternoon,monday,0.228
-electrician,27.4,Cloudy,afternoon,wednesday,0.061
-electrician,39.7,Cloudy,morning,saturday,0.572
-electrician,32.1,Cloudy,night,monday,0.765
-electrician,30.3,Thunderstorm,afternoon,friday,1.0
-other,-1.8,Fog,night,tuesday,0.134
-cleaner,-2.4,Rain Showers,afternoon,sunday,0.697
-doctor,36.0,Rain Showers,morning,friday,0.139
-ac repair,44.3,Snow,night,wednesday,0.796
-plumber,44.8,Clear,night,wednesday,0.101
-roof repair,3.5,Rain Showers,evening,monday,0.685
-other,9.9,Thunderstorm,night,wednesday,0.342
-tutor,18.6,Clear,evening,sunday,0.186
-cleaner,14.6,Fog,afternoon,wednesday,0.201
-doctor,23.1,Rain Showers,evening,saturday,0.286
-plumber,31.5,Snow,night,saturday,0.379
-painter,43.7,Thunderstorm,afternoon,wednesday,0.224
-doctor,28.4,Rain Showers,evening,wednesday,0.151
-other,13.1,Fog,morning,sunday,0.308
-doctor,31.2,Snow,evening,sunday,0.36
-cleaner,18.9,Clear,night,saturday,0.381
-carpenter,34.4,Rain Showers,morning,tuesday,0.166
-carpenter,11.6,Rain,morning,saturday,0.615
-ac repair,-4.2,Rain,afternoon,tuesday,0.18
-carpenter,43.7,Rain,morning,saturday,0.647
-ac repair,28.9,Rain Showers,evening,tuesday,0.242
-tutor,9.1,Cloudy,afternoon,sunday,0.227
-tutor,17.3,Cloudy,evening,tuesday,0.095
-painter,6.8,Fog,night,thursday,0.048
-roof repair,31.3,Fog,morning,tuesday,0.385
-plumber,33.9,Rain Showers,afternoon,friday,0.731
-ac repair,33.4,Fog,evening,friday,0.619
-electrician,2.6,Rain Showers,morning,friday,0.672
-tutor,22.6,Snow,night,thursday,0.0
-electrician,18.5,Rain Showers,afternoon,thursday,0.844
-tutor,1.8,Cloudy,night,wednesday,0.02
-tutor,15.0,Fog,evening,saturday,0.123
-painter,16.6,Cloudy,afternoon,saturday,0.563
-electrician,40.7,Clear,morning,friday,0.726
-carpenter,31.1,Rain Showers,night,tuesday,0.379
-painter,11.7,Rain,night,sunday,0.608
-other,28.1,Thunderstorm,evening,monday,0.106
-tutor,1.5,Fog,afternoon,thursday,0.259
-cleaner,9.6,Fog,evening,sunday,0.48
-plumber,21.5,Rain Showers,night,sunday,0.79
-doctor,23.4,Snow,morning,friday,0.278
-carpenter,19.2,Rain Showers,evening,wednesday,0.114
-carpenter,-2.9,Rain,morning,wednesday,0.154
-electrician,28.1,Fog,morning,monday,0.071
-tutor,28.4,Thunderstorm,afternoon,tuesday,0.334
-plumber,7.1,Rain Showers,evening,saturday,0.632
-ac repair,-2.4,Snow,afternoon,wednesday,0.378
-mechanic,-4.4,Snow,night,sunday,0.458
-electrician,2.8,Thunderstorm,afternoon,monday,0.659
-carpenter,44.1,Fog,evening,friday,0.224
-plumber,4.5,Rain,morning,wednesday,0.746
-cleaner,32.0,Rain,evening,wednesday,0.119
-electrician,11.5,Thunderstorm,morning,sunday,0.463
-cleaner,14.0,Snow,afternoon,friday,0.199
-roof repair,-0.8,Cloudy,evening,friday,0.218
-plumber,21.6,Clear,afternoon,thursday,0.325
-other,8.2,Rain Showers,morning,friday,0.22
-painter,31.4,Thunderstorm,evening,sunday,0.683
-painter,25.6,Thunderstorm,afternoon,tuesday,0.16
-tutor,-2.7,Snow,evening,saturday,0.136
-painter,15.2,Clear,evening,tuesday,0.235
-tutor,-4.9,Cloudy,evening,sunday,0.029
-electrician,17.0,Fog,night,wednesday,0.214
-doctor,38.3,Clear,night,monday,0.358
-carpenter,42.4,Clear,evening,thursday,0.293
-plumber,14.4,Fog,night,wednesday,0.116
-plumber,21.1,Clear,afternoon,friday,0.227
-mechanic,26.0,Fog,evening,wednesday,0.341
-painter,26.9,Clear,night,wednesday,0.185
-tutor,30.2,Rain Showers,evening,friday,0.128
-mechanic,-2.9,Rain,evening,monday,0.35
-mechanic,12.6,Clear,evening,monday,0.406
-cleaner,17.8,Clear,afternoon,friday,0.362
-roof repair,27.3,Snow,evening,sunday,0.403
-plumber,19.0,Rain,morning,saturday,0.576
-tutor,1.6,Rain,evening,tuesday,0.021
-doctor,13.6,Snow,afternoon,thursday,0.171
-roof repair,43.2,Clear,night,friday,0.098
-tutor,10.6,Rain Showers,afternoon,thursday,0.319
-electrician,10.4,Snow,afternoon,sunday,0.267
-ac repair,7.7,Snow,morning,sunday,0.18
-plumber,17.1,Thunderstorm,afternoon,friday,0.489
-electrician,10.5,Cloudy,evening,sunday,0.255
-other,4.7,Clear,night,tuesday,0.384
-electrician,32.8,Fog,afternoon,monday,0.573
-other,29.1,Clear,evening,sunday,0.238
-cleaner,42.7,Fog,night,wednesday,0.0
-plumber,27.5,Rain,morning,friday,0.826
-carpenter,20.0,Rain Showers,morning,friday,0.307
-doctor,-3.0,Rain,morning,tuesday,0.316
-mechanic,27.4,Rain,night,friday,0.196
-doctor,28.9,Cloudy,evening,monday,0.132
-tutor,13.0,Snow,morning,sunday,0.392
-other,43.0,Rain,night,tuesday,0.326
-plumber,2.6,Fog,morning,saturday,0.3
-ac repair,44.4,Cloudy,afternoon,sunday,0.643
-painter,5.7,Clear,night,wednesday,0.339
-cleaner,22.4,Snow,night,tuesday,0.0
-electrician,3.8,Rain Showers,afternoon,sunday,0.761
-ac repair,14.5,Snow,morning,friday,0.318
-tutor,18.8,Cloudy,morning,saturday,0.197
-ac repair,17.6,Cloudy,afternoon,tuesday,0.095
-plumber,29.7,Rain,afternoon,tuesday,0.581
-mechanic,28.7,Rain,evening,thursday,0.295
-plumber,3.4,Clear,night,wednesday,0.336
-tutor,12.3,Snow,morning,tuesday,0.329
-plumber,40.3,Snow,night,tuesday,0.165
-roof repair,1.3,Cloudy,evening,friday,0.295
-roof repair,24.4,Snow,morning,sunday,0.13
-other,15.1,Fog,morning,wednesday,0.427
-other,7.4,Rain Showers,afternoon,friday,0.1
-plumber,43.0,Thunderstorm,afternoon,wednesday,0.742
-painter,21.7,Rain Showers,afternoon,wednesday,0.184
-electrician,40.5,Clear,morning,tuesday,0.713
-mechanic,34.2,Clear,morning,wednesday,0.254
-electrician,45.0,Cloudy,evening,friday,0.594
-mechanic,-3.0,Rain Showers,morning,wednesday,0.154
-plumber,3.4,Snow,afternoon,friday,0.26
-carpenter,2.0,Cloudy,morning,wednesday,0.228
-carpenter,32.2,Cloudy,evening,wednesday,0.041
-painter,24.0,Thunderstorm,night,friday,0.392
-roof repair,5.4,Clear,morning,monday,0.185
-tutor,28.3,Snow,evening,saturday,0.0
-doctor,-4.2,Rain Showers,afternoon,thursday,0.289
-doctor,-3.3,Fog,evening,tuesday,0.33
-mechanic,34.9,Thunderstorm,night,friday,0.137
-electrician,-0.5,Rain Showers,evening,thursday,0.686
-doctor,0.8,Thunderstorm,evening,saturday,0.107
-electrician,33.2,Clear,morning,monday,0.603
-electrician,26.2,Cloudy,night,tuesday,0.275
-tutor,1.2,Rain,night,friday,0.0
-cleaner,21.2,Fog,evening,saturday,0.384
-plumber,19.6,Rain Showers,evening,saturday,0.681
-carpenter,19.9,Thunderstorm,evening,wednesday,0.308
-plumber,34.2,Rain,night,sunday,0.871
-plumber,17.2,Thunderstorm,afternoon,thursday,0.464
-carpenter,1.6,Snow,night,saturday,0.617
-ac repair,0.4,Snow,evening,friday,0.125
-doctor,25.6,Fog,morning,monday,0.205
-doctor,-3.6,Thunderstorm,evening,wednesday,0.084
-other,40.3,Fog,evening,wednesday,0.194
-roof repair,22.2,Rain,evening,wednesday,0.681
-electrician,2.7,Rain Showers,evening,wednesday,0.686
-doctor,16.6,Snow,night,friday,0.285
-ac repair,43.7,Thunderstorm,evening,monday,0.528
-electrician,35.5,Rain Showers,evening,friday,0.846
-carpenter,45.0,Cloudy,morning,saturday,0.553
-painter,11.3,Clear,night,sunday,0.301
-carpenter,15.2,Rain,morning,friday,0.288
-doctor,34.6,Fog,afternoon,tuesday,0.226
-cleaner,4.7,Cloudy,night,monday,0.0
-carpenter,42.3,Rain Showers,night,thursday,0.192
-electrician,31.2,Rain,afternoon,tuesday,0.957
-doctor,11.5,Snow,evening,thursday,0.332
-mechanic,-2.7,Rain,evening,wednesday,0.356
-plumber,15.8,Clear,morning,friday,0.323
-tutor,31.0,Clear,afternoon,tuesday,0.269
-ac repair,-4.8,Rain,morning,wednesday,0.108
-carpenter,2.1,Cloudy,afternoon,wednesday,0.367
-ac repair,27.5,Thunderstorm,evening,thursday,0.476
-tutor,-2.8,Snow,night,monday,0.0
-other,29.7,Cloudy,night,wednesday,0.073
-plumber,41.3,Cloudy,evening,monday,0.096
-mechanic,4.9,Rain,afternoon,thursday,0.323
-painter,40.9,Snow,afternoon,saturday,0.633
-doctor,10.5,Fog,afternoon,friday,0.321
-plumber,30.1,Fog,morning,friday,0.171
-plumber,29.9,Thunderstorm,morning,thursday,0.816
-doctor,43.8,Cloudy,afternoon,tuesday,0.369
-roof repair,31.4,Rain Showers,night,wednesday,0.689
-carpenter,26.5,Fog,evening,sunday,0.474
-plumber,32.0,Rain Showers,afternoon,sunday,0.654
-mechanic,0.8,Thunderstorm,morning,friday,0.334
-doctor,44.2,Fog,evening,tuesday,0.088
-doctor,24.2,Fog,morning,friday,0.385
-mechanic,39.8,Fog,night,tuesday,0.287
-carpenter,34.0,Snow,afternoon,wednesday,0.191
-roof repair,11.7,Thunderstorm,night,tuesday,0.574
-electrician,14.4,Snow,evening,monday,0.224
-mechanic,31.5,Thunderstorm,night,thursday,0.23
-tutor,18.4,Cloudy,evening,saturday,0.0
-carpenter,1.9,Rain,afternoon,sunday,0.512
-tutor,14.2,Thunderstorm,afternoon,saturday,0.193
-plumber,7.9,Rain Showers,night,friday,0.579
-cleaner,4.1,Fog,morning,sunday,0.446
-doctor,7.8,Rain Showers,evening,thursday,0.228
-electrician,23.4,Snow,afternoon,tuesday,0.231
-doctor,11.6,Clear,night,friday,0.135
-mechanic,1.2,Fog,night,wednesday,0.397
-tutor,37.7,Cloudy,night,friday,0.0
-plumber,7.3,Rain,afternoon,friday,0.469
-ac repair,5.4,Cloudy,morning,saturday,0.24
-tutor,30.3,Snow,morning,saturday,0.377
-mechanic,31.5,Thunderstorm,evening,sunday,0.322
-electrician,27.8,Rain,evening,sunday,0.545
-cleaner,3.8,Thunderstorm,night,friday,0.053
-electrician,22.6,Cloudy,afternoon,saturday,0.149
-doctor,31.7,Cloudy,morning,tuesday,0.169
-other,9.8,Snow,morning,tuesday,0.31
-tutor,11.9,Thunderstorm,afternoon,friday,0.143
-electrician,30.9,Cloudy,night,sunday,0.72
-painter,36.2,Fog,afternoon,thursday,0.378
-mechanic,9.7,Thunderstorm,evening,monday,0.382
-carpenter,32.8,Fog,evening,friday,0.156
-doctor,33.3,Cloudy,evening,thursday,0.422
-ac repair,36.0,Rain Showers,afternoon,wednesday,0.794
-other,18.5,Fog,evening,friday,0.113
-mechanic,32.1,Rain,morning,friday,0.154
-carpenter,6.5,Snow,night,thursday,0.159
-tutor,29.3,Clear,morning,sunday,0.213
-plumber,5.5,Fog,morning,monday,0.059
-cleaner,22.7,Cloudy,night,tuesday,0.162
-plumber,10.1,Fog,night,monday,0.2
-roof repair,23.7,Clear,morning,tuesday,0.12
-ac repair,-2.4,Rain Showers,night,monday,0.147
-mechanic,19.7,Rain Showers,night,monday,0.097
-ac repair,3.8,Thunderstorm,evening,sunday,0.108
-ac repair,31.5,Cloudy,afternoon,saturday,0.745
-doctor,35.3,Clear,evening,friday,0.263
-carpenter,33.0,Rain,evening,tuesday,0.327
-electrician,35.6,Fog,night,saturday,0.615
-plumber,13.2,Thunderstorm,afternoon,tuesday,0.724
-tutor,28.4,Rain,afternoon,wednesday,0.357
-carpenter,20.6,Snow,afternoon,thursday,0.196
-cleaner,20.9,Snow,evening,thursday,0.125
-roof repair,34.7,Rain Showers,night,saturday,0.54
-doctor,37.6,Cloudy,morning,friday,0.212
-doctor,12.4,Snow,evening,wednesday,0.218
-ac repair,7.3,Cloudy,evening,monday,0.126
-roof repair,37.9,Snow,night,wednesday,0.172
-mechanic,39.8,Cloudy,morning,thursday,0.386
-other,15.8,Thunderstorm,night,sunday,0.415
-carpenter,26.3,Clear,evening,tuesday,0.126
-doctor,9.9,Cloudy,morning,monday,0.305
-carpenter,17.1,Clear,morning,thursday,0.299
-electrician,30.7,Rain,night,sunday,1.0
-electrician,2.9,Cloudy,afternoon,thursday,0.33
-carpenter,37.2,Rain,evening,friday,0.327
-painter,25.3,Thunderstorm,morning,monday,0.289
-cleaner,43.7,Rain Showers,afternoon,tuesday,0.195
-mechanic,39.0,Rain Showers,morning,tuesday,0.202
-cleaner,29.1,Cloudy,afternoon,saturday,0.486
-painter,16.5,Fog,evening,friday,0.218
-mechanic,33.6,Rain Showers,evening,sunday,0.388
-cleaner,34.4,Fog,afternoon,monday,0.086
-cleaner,8.9,Fog,morning,saturday,0.642
-electrician,33.5,Thunderstorm,morning,tuesday,1.0
-electrician,20.6,Clear,night,saturday,0.221
-other,-3.3,Rain,evening,friday,0.358
-carpenter,32.5,Fog,afternoon,friday,0.166
-doctor,10.8,Rain,afternoon,saturday,0.325
-carpenter,9.1,Snow,morning,wednesday,0.142
-other,31.0,Rain Showers,night,saturday,0.308
-carpenter,4.2,Rain,morning,friday,0.162
-painter,43.2,Thunderstorm,morning,sunday,0.467
-other,29.8,Fog,morning,wednesday,0.303
-doctor,19.3,Fog,night,thursday,0.321
-mechanic,40.8,Clear,morning,tuesday,0.224
-roof repair,38.5,Rain,evening,friday,0.623
-carpenter,5.8,Cloudy,evening,thursday,0.242
-carpenter,40.6,Rain Showers,afternoon,monday,0.167
-ac repair,19.5,Cloudy,morning,saturday,0.274
-roof repair,35.2,Rain Showers,morning,monday,0.57
-plumber,24.3,Cloudy,night,thursday,0.138
-carpenter,27.4,Rain,afternoon,thursday,0.083
-cleaner,16.4,Cloudy,evening,friday,0.0
-ac repair,22.1,Rain,evening,wednesday,0.206
-ac repair,14.5,Rain,afternoon,saturday,0.224
-painter,41.6,Thunderstorm,night,thursday,0.217
-plumber,36.6,Snow,morning,monday,0.303
-carpenter,7.0,Rain,night,monday,0.272
-mechanic,11.7,Rain,evening,saturday,0.361
-cleaner,14.0,Fog,night,thursday,0.108
-painter,10.5,Rain Showers,night,tuesday,0.196
-doctor,6.4,Rain,night,sunday,0.295
-ac repair,28.8,Cloudy,night,friday,0.171
-cleaner,27.5,Thunderstorm,afternoon,sunday,0.608
-other,28.4,Rain,evening,saturday,0.263
-other,43.7,Clear,night,wednesday,0.193
-carpenter,41.0,Snow,night,sunday,0.599
-roof repair,20.5,Clear,night,tuesday,0.136
-electrician,43.0,Fog,night,wednesday,0.676
-painter,4.0,Cloudy,morning,friday,0.306
-roof repair,1.8,Fog,afternoon,tuesday,0.219
-electrician,4.9,Snow,night,tuesday,0.236
-plumber,6.0,Thunderstorm,night,thursday,0.613
-other,42.4,Snow,morning,monday,0.356
-mechanic,9.4,Rain,afternoon,monday,0.281
-other,9.8,Fog,afternoon,monday,0.323
-roof repair,17.0,Rain Showers,morning,monday,0.571
-roof repair,31.5,Fog,afternoon,wednesday,0.308
-plumber,44.0,Snow,evening,monday,0.319
-painter,24.6,Thunderstorm,evening,saturday,0.415
-mechanic,12.8,Fog,night,saturday,0.13
-ac repair,44.7,Clear,evening,saturday,0.589
-ac repair,-3.0,Clear,evening,sunday,0.132
-mechanic,36.5,Rain Showers,night,monday,0.301
-mechanic,28.5,Clear,evening,sunday,0.222
-ac repair,41.3,Rain Showers,morning,sunday,0.724
-ac repair,22.9,Cloudy,night,sunday,0.341
-ac repair,-2.7,Cloudy,night,saturday,0.343
-roof repair,38.6,Cloudy,evening,sunday,0.04
-roof repair,8.3,Thunderstorm,afternoon,monday,0.535
-tutor,21.7,Cloudy,evening,monday,0.123
-tutor,0.0,Snow,evening,friday,0.034
-painter,-0.3,Rain,morning,thursday,0.166
-plumber,24.4,Thunderstorm,morning,sunday,0.507
-ac repair,8.3,Fog,afternoon,saturday,0.331
-tutor,5.4,Rain,afternoon,sunday,0.121
-tutor,8.1,Thunderstorm,evening,sunday,0.0
-cleaner,26.1,Rain Showers,evening,thursday,0.018
-painter,14.4,Snow,morning,monday,0.236
-painter,9.0,Fog,night,thursday,0.333
-ac repair,13.3,Rain,afternoon,sunday,0.188
-roof repair,24.7,Rain Showers,afternoon,tuesday,0.575
-ac repair,8.4,Clear,night,monday,0.294
-roof repair,33.3,Thunderstorm,night,monday,0.661
-ac repair,17.4,Rain Showers,morning,thursday,0.324
-ac repair,15.6,Snow,afternoon,wednesday,0.049
-plumber,35.4,Rain Showers,evening,wednesday,0.746
-electrician,19.3,Thunderstorm,night,sunday,0.515
-roof repair,-1.9,Snow,night,friday,0.328
-carpenter,22.0,Thunderstorm,evening,thursday,0.279
-ac repair,30.6,Clear,night,monday,0.754
-carpenter,3.3,Snow,evening,friday,0.323
-tutor,22.0,Snow,morning,friday,0.422
-roof repair,4.5,Rain Showers,morning,monday,0.557
-doctor,15.3,Cloudy,evening,tuesday,0.34
-tutor,29.2,Cloudy,night,friday,0.155
-electrician,3.0,Snow,evening,monday,0.253
-doctor,37.6,Clear,evening,tuesday,0.12
-cleaner,0.7,Clear,night,saturday,0.245
-painter,36.5,Rain Showers,morning,monday,0.102
-ac repair,20.5,Clear,morning,sunday,0.169
-ac repair,7.6,Cloudy,afternoon,monday,0.367
-plumber,4.2,Fog,night,thursday,0.197
-roof repair,27.5,Clear,afternoon,friday,0.311
-doctor,0.7,Thunderstorm,night,friday,0.293
-tutor,16.3,Clear,afternoon,thursday,0.412
-plumber,4.2,Thunderstorm,afternoon,thursday,0.633
-other,18.1,Snow,afternoon,tuesday,0.179
-tutor,14.6,Clear,afternoon,saturday,0.102
-mechanic,30.2,Thunderstorm,morning,friday,0.174
-doctor,4.2,Clear,night,thursday,0.342
-ac repair,8.9,Rain Showers,morning,tuesday,0.086
-other,18.6,Rain Showers,afternoon,thursday,0.212
-plumber,31.2,Rain,afternoon,monday,0.635
-carpenter,41.9,Thunderstorm,afternoon,monday,0.115
-other,0.8,Snow,evening,wednesday,0.499
-painter,11.6,Thunderstorm,evening,saturday,0.672
-painter,10.3,Fog,night,wednesday,0.35
-doctor,42.3,Cloudy,evening,saturday,0.378
-painter,25.7,Rain Showers,morning,friday,0.176
-doctor,30.4,Rain Showers,night,sunday,0.163
-mechanic,3.0,Snow,morning,tuesday,0.642
-electrician,13.0,Rain,afternoon,tuesday,0.573
-carpenter,25.3,Cloudy,evening,thursday,0.173
-plumber,13.8,Cloudy,evening,saturday,0.192
-electrician,-0.8,Rain Showers,afternoon,friday,0.571
-cleaner,26.2,Cloudy,morning,sunday,0.783
-other,30.9,Snow,afternoon,friday,0.412
-cleaner,32.1,Snow,evening,thursday,0.185
-roof repair,27.6,Clear,morning,tuesday,0.137
-other,12.4,Rain,morning,tuesday,0.298
-carpenter,33.7,Thunderstorm,afternoon,wednesday,0.403
-plumber,13.0,Thunderstorm,night,monday,0.676
-mechanic,31.8,Cloudy,night,sunday,0.219
-tutor,20.1,Clear,afternoon,friday,0.226
-cleaner,-2.7,Rain Showers,night,saturday,0.374
-painter,7.8,Cloudy,night,tuesday,0.39
-doctor,14.7,Cloudy,morning,friday,0.302
-doctor,14.9,Cloudy,evening,saturday,0.254
-painter,44.4,Cloudy,evening,friday,0.171
-tutor,41.9,Rain,afternoon,thursday,0.384
-electrician,2.1,Snow,evening,monday,0.238
-mechanic,14.5,Snow,evening,monday,0.468
-ac repair,9.4,Rain,afternoon,friday,0.271
-tutor,38.5,Snow,afternoon,sunday,0.117
-ac repair,37.6,Snow,evening,tuesday,0.575
-electrician,6.1,Cloudy,afternoon,monday,0.155
-doctor,3.3,Fog,afternoon,friday,0.25
-cleaner,31.4,Snow,morning,friday,0.222
-other,15.3,Fog,morning,monday,0.307
-painter,34.0,Fog,night,saturday,0.577
-mechanic,25.8,Fog,afternoon,friday,0.252
-painter,36.8,Thunderstorm,afternoon,tuesday,0.276
-cleaner,24.8,Fog,night,saturday,0.313
-doctor,-3.1,Snow,afternoon,thursday,0.403
-plumber,17.1,Cloudy,night,sunday,0.158
-plumber,27.1,Fog,afternoon,monday,0.14
-plumber,-0.4,Rain Showers,night,friday,0.688
-carpenter,9.3,Fog,afternoon,saturday,0.447
-roof repair,28.8,Rain Showers,night,thursday,0.617
-cleaner,28.8,Rain,evening,thursday,0.019
-electrician,42.9,Thunderstorm,afternoon,thursday,1.0
-carpenter,37.6,Thunderstorm,morning,monday,0.457
-other,34.5,Rain,night,wednesday,0.253
-mechanic,29.2,Cloudy,night,saturday,0.212
-painter,38.3,Snow,afternoon,monday,0.337
-cleaner,10.3,Clear,afternoon,thursday,0.239
-cleaner,29.5,Thunderstorm,evening,sunday,0.39
-plumber,-4.3,Thunderstorm,evening,monday,0.709
-roof repair,19.3,Rain Showers,morning,monday,0.633
-mechanic,29.0,Clear,evening,wednesday,0.324
-other,16.0,Clear,afternoon,monday,0.305
-carpenter,30.9,Rain Showers,morning,thursday,0.385
-mechanic,-2.8,Snow,night,wednesday,0.393
-doctor,34.4,Fog,evening,wednesday,0.25
-mechanic,1.7,Fog,evening,thursday,0.412
-roof repair,36.9,Cloudy,evening,sunday,0.264
-carpenter,25.3,Rain,evening,sunday,0.445
-plumber,26.8,Fog,night,tuesday,0.348
-roof repair,10.6,Clear,morning,friday,0.348
-tutor,5.4,Rain,night,saturday,0.0
-tutor,26.8,Clear,evening,sunday,0.163
-carpenter,32.4,Clear,morning,thursday,0.426
-cleaner,37.5,Thunderstorm,night,friday,0.051
-roof repair,4.9,Clear,night,friday,0.327
-plumber,41.2,Clear,morning,tuesday,0.321
-roof repair,-0.5,Snow,morning,wednesday,0.131
-carpenter,38.2,Rain,night,wednesday,0.187
-electrician,42.9,Thunderstorm,morning,wednesday,1.0
-plumber,2.8,Rain Showers,afternoon,monday,0.534
-carpenter,15.9,Thunderstorm,night,friday,0.302
-other,-1.9,Cloudy,afternoon,friday,0.094
-doctor,18.1,Cloudy,night,thursday,0.379
-plumber,43.3,Clear,evening,saturday,0.3
-tutor,24.8,Rain,night,saturday,0.012
-carpenter,28.7,Thunderstorm,morning,monday,0.287
-cleaner,-1.6,Thunderstorm,morning,thursday,0.182
-cleaner,3.1,Snow,evening,thursday,0.094
-other,41.4,Clear,afternoon,sunday,0.269
-electrician,-2.1,Snow,night,thursday,0.173
-plumber,35.3,Rain,afternoon,tuesday,0.619
-other,-2.2,Cloudy,evening,monday,0.229
-electrician,-4.7,Fog,afternoon,tuesday,0.043
-carpenter,11.1,Rain,afternoon,wednesday,0.306
-ac repair,17.6,Cloudy,evening,saturday,0.379
-doctor,6.6,Cloudy,morning,monday,0.118
-ac repair,4.8,Cloudy,night,wednesday,0.087
-roof repair,10.7,Thunderstorm,afternoon,monday,0.611
-plumber,20.9,Thunderstorm,afternoon,monday,0.732
-mechanic,13.6,Rain Showers,night,tuesday,0.18
-mechanic,21.5,Thunderstorm,evening,wednesday,0.203
-painter,5.0,Thunderstorm,evening,monday,0.08
-electrician,40.3,Clear,afternoon,monday,0.722
-electrician,0.2,Fog,morning,friday,0.207
-doctor,36.9,Thunderstorm,evening,friday,0.338
-plumber,-4.4,Clear,afternoon,saturday,0.198
-cleaner,34.6,Thunderstorm,evening,friday,0.156
-carpenter,16.9,Thunderstorm,night,saturday,0.492
-doctor,39.4,Clear,morning,tuesday,0.364
-tutor,31.0,Rain Showers,afternoon,thursday,0.289
-doctor,2.2,Thunderstorm,night,friday,0.21
-cleaner,44.2,Fog,morning,sunday,0.362
-tutor,6.4,Rain Showers,night,friday,0.194
-plumber,5.3,Thunderstorm,evening,saturday,0.56
-ac repair,3.3,Rain,night,wednesday,0.382
-other,17.3,Rain Showers,afternoon,wednesday,0.103
-doctor,-3.6,Snow,night,thursday,0.181
-ac repair,27.8,Snow,morning,friday,0.098
-painter,4.0,Rain Showers,afternoon,monday,0.234
-ac repair,18.6,Snow,afternoon,saturday,0.17
-painter,-4.2,Cloudy,evening,saturday,0.398
-carpenter,43.2,Cloudy,night,thursday,0.227
-mechanic,-1.9,Thunderstorm,night,thursday,0.188
-ac repair,28.4,Clear,evening,wednesday,0.185
-electrician,3.3,Rain,evening,monday,0.62
-carpenter,25.5,Cloudy,morning,tuesday,0.364
-electrician,12.9,Clear,afternoon,tuesday,0.364
-ac repair,32.7,Rain Showers,afternoon,saturday,0.653
-mechanic,13.4,Snow,morning,monday,0.351
-electrician,29.1,Cloudy,evening,tuesday,0.319
-cleaner,32.7,Rain,morning,friday,0.271
-ac repair,29.6,Clear,morning,friday,0.333
-ac repair,10.9,Rain,morning,monday,0.267
-electrician,38.2,Thunderstorm,morning,wednesday,1.0
-cleaner,3.1,Snow,night,tuesday,0.0
-mechanic,-3.8,Clear,night,monday,0.361
-electrician,19.5,Snow,night,monday,0.057
-carpenter,14.0,Fog,night,thursday,0.28
-doctor,40.1,Thunderstorm,afternoon,tuesday,0.377
-doctor,-3.5,Rain,morning,wednesday,0.151
-ac repair,-2.8,Rain Showers,night,saturday,0.12
-doctor,12.7,Cloudy,afternoon,saturday,0.151
-ac repair,14.3,Cloudy,night,sunday,0.291
-painter,0.8,Thunderstorm,afternoon,thursday,0.295
-tutor,20.5,Thunderstorm,morning,tuesday,0.276
-ac repair,19.8,Thunderstorm,evening,saturday,0.224
-cleaner,38.2,Clear,afternoon,thursday,0.164
-doctor,17.6,Thunderstorm,afternoon,friday,0.293
-ac repair,-4.2,Fog,night,sunday,0.233
-plumber,33.7,Cloudy,afternoon,monday,0.253
-other,14.6,Snow,morning,sunday,0.355
-ac repair,33.1,Cloudy,afternoon,wednesday,0.636
-roof repair,9.7,Rain Showers,evening,friday,0.535
-doctor,12.7,Thunderstorm,evening,monday,0.422
-mechanic,30.7,Cloudy,morning,thursday,0.234
-roof repair,37.5,Rain,evening,friday,0.581
-roof repair,42.5,Thunderstorm,morning,thursday,0.807
-carpenter,32.0,Rain Showers,evening,friday,0.248
-electrician,29.5,Rain,evening,tuesday,0.709
-carpenter,-2.4,Snow,morning,monday,0.229
-carpenter,23.2,Cloudy,afternoon,wednesday,0.176
-other,-2.1,Rain Showers,night,monday,0.323
-carpenter,36.7,Fog,evening,wednesday,0.168
-roof repair,-0.3,Snow,night,thursday,0.228
-roof repair,24.6,Clear,evening,friday,0.212
-cleaner,13.7,Cloudy,night,sunday,0.24
-electrician,21.9,Fog,night,tuesday,0.144
-roof repair,36.6,Snow,night,thursday,0.278
-tutor,23.0,Clear,morning,saturday,0.259
-tutor,43.3,Snow,evening,friday,0.005
-mechanic,39.4,Thunderstorm,evening,wednesday,0.306
-painter,4.6,Thunderstorm,evening,saturday,0.617
-doctor,43.3,Fog,morning,wednesday,0.41
-ac repair,25.6,Clear,morning,friday,0.088
-ac repair,39.7,Thunderstorm,afternoon,friday,0.567
-carpenter,28.0,Thunderstorm,evening,saturday,0.515
-cleaner,34.6,Cloudy,afternoon,tuesday,0.119
-doctor,40.6,Rain,evening,sunday,0.398
-cleaner,38.4,Snow,afternoon,thursday,0.392
-painter,40.6,Clear,afternoon,monday,0.098
-mechanic,21.8,Clear,night,thursday,0.19
-mechanic,18.3,Snow,evening,saturday,0.699
-mechanic,18.8,Rain Showers,night,thursday,0.17
-other,34.4,Rain,morning,wednesday,0.285
-doctor,2.4,Fog,evening,sunday,0.311
-tutor,34.6,Rain Showers,afternoon,monday,0.39
-doctor,11.1,Clear,afternoon,saturday,0.129
-doctor,5.6,Cloudy,night,thursday,0.309
-ac repair,39.0,Clear,morning,saturday,0.787
-cleaner,32.7,Thunderstorm,evening,sunday,0.168
-electrician,3.5,Clear,evening,sunday,0.238
-other,-3.7,Rain Showers,night,thursday,0.285
-doctor,27.3,Snow,afternoon,tuesday,0.481
-painter,11.2,Thunderstorm,morning,friday,0.388
-doctor,12.3,Thunderstorm,afternoon,tuesday,0.35
-doctor,1.0,Fog,afternoon,sunday,0.443
-tutor,29.6,Rain Showers,night,sunday,0.035
-ac repair,21.5,Rain Showers,evening,saturday,0.238
-painter,31.8,Cloudy,evening,saturday,0.603
-carpenter,34.2,Rain,morning,tuesday,0.124
-tutor,-0.6,Thunderstorm,evening,wednesday,0.097
-ac repair,34.6,Thunderstorm,evening,wednesday,0.659
-doctor,31.8,Rain Showers,afternoon,sunday,0.226
-ac repair,13.0,Cloudy,morning,sunday,0.348
-roof repair,0.3,Clear,night,monday,0.188
-roof repair,24.3,Clear,night,wednesday,0.079
-electrician,37.2,Cloudy,night,monday,0.632
-roof repair,42.7,Cloudy,afternoon,thursday,0.308
-electrician,35.5,Cloudy,morning,thursday,0.731
-other,-0.6,Thunderstorm,evening,sunday,0.335
-carpenter,39.4,Rain,night,saturday,0.46
-carpenter,38.4,Clear,morning,friday,0.026
-painter,-0.5,Fog,morning,sunday,0.6
-cleaner,16.9,Rain Showers,afternoon,saturday,0.582
-electrician,44.0,Snow,evening,saturday,0.708
-carpenter,10.1,Rain Showers,morning,friday,0.242
-tutor,26.2,Snow,afternoon,thursday,0.303
-carpenter,40.6,Snow,afternoon,wednesday,0.389
-mechanic,38.1,Clear,evening,thursday,0.423
-cleaner,31.0,Snow,night,thursday,0.223
-roof repair,-1.0,Thunderstorm,evening,monday,0.675
-cleaner,0.2,Clear,morning,wednesday,0.149
-plumber,9.1,Snow,evening,thursday,0.094
-plumber,-1.2,Thunderstorm,morning,tuesday,0.633
-plumber,-3.2,Rain Showers,evening,tuesday,0.736
-doctor,7.3,Clear,morning,saturday,0.24
-painter,41.7,Thunderstorm,night,monday,0.177
-cleaner,19.6,Rain Showers,evening,saturday,0.232
-plumber,3.5,Cloudy,morning,saturday,0.17
-painter,17.8,Cloudy,afternoon,tuesday,0.245
-carpenter,10.9,Fog,night,sunday,0.467
-ac repair,16.4,Clear,night,saturday,0.152
-roof repair,-4.9,Rain,morning,sunday,0.664
-doctor,7.8,Rain,night,tuesday,0.223
-roof repair,-4.7,Snow,afternoon,saturday,0.238
-doctor,16.4,Fog,afternoon,monday,0.062
-electrician,4.7,Clear,afternoon,saturday,0.394
-cleaner,16.5,Rain Showers,afternoon,sunday,0.397
-ac repair,44.3,Rain Showers,morning,wednesday,0.571
-doctor,44.2,Fog,afternoon,thursday,0.279
-tutor,42.5,Clear,morning,monday,0.251
-mechanic,17.6,Snow,afternoon,thursday,0.489
-roof repair,43.3,Cloudy,night,friday,0.248
-other,17.7,Thunderstorm,night,sunday,0.358
-ac repair,6.7,Clear,afternoon,wednesday,0.232
-electrician,8.1,Rain Showers,afternoon,wednesday,0.529
-other,32.2,Snow,morning,friday,0.097
-tutor,9.2,Cloudy,morning,friday,0.405
-carpenter,42.1,Snow,morning,friday,0.069
-tutor,20.7,Rain Showers,night,friday,0.0
-mechanic,11.2,Thunderstorm,evening,monday,0.243
-plumber,20.3,Rain Showers,afternoon,thursday,0.764
-carpenter,31.0,Snow,morning,sunday,0.664
-plumber,15.1,Snow,morning,thursday,0.086
-doctor,27.7,Rain,evening,monday,0.092
-other,39.3,Rain,evening,thursday,0.197
-mechanic,28.7,Rain Showers,afternoon,wednesday,0.428
-tutor,20.8,Snow,evening,thursday,0.0
-roof repair,16.9,Thunderstorm,evening,sunday,0.637
-cleaner,22.8,Snow,afternoon,wednesday,0.198
-ac repair,29.2,Rain Showers,afternoon,wednesday,0.262
-mechanic,39.7,Rain,night,monday,0.272
-electrician,26.1,Cloudy,morning,sunday,0.056
-tutor,33.7,Fog,afternoon,monday,0.373
-roof repair,4.3,Thunderstorm,night,sunday,0.493
-electrician,42.6,Clear,night,friday,0.77
-electrician,30.4,Thunderstorm,night,friday,1.0
-roof repair,-4.9,Cloudy,evening,wednesday,0.379
-plumber,34.0,Snow,night,sunday,0.264
-mechanic,27.5,Fog,morning,monday,0.138
-other,18.2,Rain,evening,wednesday,0.062
-mechanic,21.3,Rain,afternoon,wednesday,0.041
-tutor,0.1,Rain,evening,saturday,0.015
-other,35.5,Cloudy,morning,wednesday,0.31
-plumber,37.6,Rain Showers,afternoon,thursday,0.825
-mechanic,25.0,Rain,night,sunday,0.174
-painter,14.3,Rain Showers,night,thursday,0.245
-ac repair,20.3,Rain,night,friday,0.253
-doctor,34.4,Fog,afternoon,thursday,0.315
-carpenter,38.6,Rain,evening,wednesday,0.13
-painter,22.3,Clear,afternoon,monday,0.109
-painter,5.2,Rain,afternoon,monday,0.117
-doctor,43.4,Thunderstorm,night,wednesday,0.376
-painter,-1.3,Thunderstorm,night,monday,0.21
-plumber,21.6,Rain,evening,friday,0.727
-carpenter,38.5,Thunderstorm,night,monday,0.218
-doctor,-4.5,Fog,afternoon,tuesday,0.343
-cleaner,5.9,Thunderstorm,morning,sunday,0.43
-other,-0.3,Cloudy,evening,friday,0.349
-electrician,24.3,Clear,morning,monday,0.239
-other,19.3,Cloudy,night,friday,0.215
-mechanic,25.3,Clear,evening,thursday,0.151
-ac repair,21.8,Rain,morning,wednesday,0.159
-painter,3.5,Thunderstorm,afternoon,thursday,0.123
-painter,26.5,Rain Showers,afternoon,thursday,0.099
-other,18.6,Rain,night,monday,0.369
-painter,34.3,Cloudy,night,thursday,0.166
-doctor,3.7,Thunderstorm,afternoon,friday,0.084
-other,28.9,Snow,evening,friday,0.171
-tutor,13.7,Fog,morning,sunday,0.377
-tutor,14.4,Rain,morning,tuesday,0.182
-mechanic,16.0,Thunderstorm,afternoon,tuesday,0.172
-doctor,15.4,Thunderstorm,morning,tuesday,0.431
-doctor,-3.6,Cloudy,afternoon,saturday,0.331
-doctor,15.3,Thunderstorm,night,tuesday,0.172
-tutor,23.8,Fog,afternoon,friday,0.413
-carpenter,0.4,Cloudy,evening,thursday,0.317
-painter,-0.7,Thunderstorm,night,monday,0.318
-carpenter,-0.7,Fog,evening,saturday,0.609
-other,27.3,Rain,afternoon,monday,0.301
-carpenter,40.8,Clear,evening,tuesday,0.31
-ac repair,21.8,Clear,night,wednesday,0.178
-carpenter,24.4,Snow,night,friday,0.308
-tutor,19.5,Thunderstorm,evening,thursday,0.092
-doctor,19.0,Rain Showers,evening,monday,0.114
-carpenter,30.2,Cloudy,evening,saturday,0.459
-carpenter,-4.4,Clear,night,saturday,0.543
-roof repair,7.5,Cloudy,night,friday,0.275
-mechanic,43.0,Snow,evening,sunday,0.716
-ac repair,33.0,Rain,morning,saturday,0.718
-electrician,34.8,Rain Showers,night,tuesday,1.0
-carpenter,31.4,Rain Showers,night,saturday,0.613
-painter,23.0,Thunderstorm,evening,wednesday,0.189
-cleaner,34.4,Clear,morning,sunday,0.683
-tutor,9.5,Clear,evening,friday,0.014
-tutor,9.7,Snow,afternoon,saturday,0.212
-plumber,23.3,Snow,night,monday,0.318
-roof repair,37.1,Rain,night,monday,0.732
-doctor,45.0,Cloudy,morning,sunday,0.31
-other,-2.1,Cloudy,night,tuesday,0.355
-painter,31.6,Thunderstorm,night,friday,0.232
-plumber,35.2,Rain Showers,morning,thursday,0.602
-roof repair,33.9,Rain Showers,night,friday,0.73
-ac repair,7.1,Clear,evening,thursday,0.164
-cleaner,-4.4,Rain,morning,friday,0.378
-doctor,12.1,Rain,morning,friday,0.205
-electrician,3.8,Clear,night,saturday,0.255
-doctor,32.6,Cloudy,evening,tuesday,0.147
-electrician,28.0,Fog,evening,sunday,0.252
-ac repair,18.8,Rain,evening,friday,0.121
-mechanic,12.4,Fog,evening,monday,0.282
-other,14.3,Snow,morning,saturday,0.053
-cleaner,22.0,Fog,morning,thursday,0.159
-cleaner,3.2,Fog,afternoon,thursday,0.381
-mechanic,-2.8,Snow,afternoon,wednesday,0.439
-tutor,36.4,Snow,afternoon,friday,0.255
-doctor,30.9,Snow,afternoon,wednesday,0.111
-mechanic,-3.1,Clear,night,friday,0.381
-roof repair,41.9,Rain,morning,friday,0.73
-plumber,21.2,Rain Showers,afternoon,tuesday,0.679
-plumber,35.9,Rain,night,monday,0.648
-painter,29.2,Thunderstorm,morning,tuesday,0.134
-doctor,39.5,Clear,evening,tuesday,0.4
-painter,-3.0,Thunderstorm,evening,tuesday,0.16
-cleaner,9.4,Rain,evening,monday,0.046
-roof repair,41.0,Cloudy,night,wednesday,0.082
-cleaner,24.3,Cloudy,afternoon,tuesday,0.306
-plumber,20.0,Snow,night,thursday,0.11
-tutor,7.0,Snow,morning,sunday,0.373
-painter,44.7,Rain,morning,tuesday,0.397
-cleaner,18.0,Rain Showers,night,saturday,0.322
-electrician,-3.4,Rain,night,friday,0.707
-electrician,37.7,Rain Showers,night,tuesday,1.0
-carpenter,13.0,Clear,afternoon,thursday,0.165
-other,29.1,Rain,morning,thursday,0.284
-plumber,23.5,Rain,morning,thursday,0.666
-plumber,10.0,Fog,morning,friday,0.065
-electrician,34.6,Rain Showers,afternoon,friday,0.914
-mechanic,11.8,Cloudy,morning,wednesday,0.095
-other,40.0,Thunderstorm,evening,sunday,0.275
-painter,41.2,Thunderstorm,afternoon,wednesday,0.163
-other,25.8,Snow,evening,tuesday,0.381
-doctor,28.8,Thunderstorm,night,wednesday,0.441
-ac repair,5.1,Snow,night,monday,0.198
-doctor,13.8,Rain Showers,afternoon,saturday,0.295
-electrician,1.1,Rain Showers,morning,wednesday,0.513
-roof repair,7.4,Rain,morning,monday,0.766
-plumber,-4.7,Rain,night,wednesday,0.649
-electrician,-4.0,Snow,night,sunday,0.4
-doctor,13.6,Rain Showers,morning,tuesday,0.204
-cleaner,9.4,Cloudy,afternoon,saturday,0.771
-plumber,-1.5,Snow,afternoon,sunday,0.273
-other,28.8,Rain,afternoon,saturday,0.247
-tutor,44.4,Clear,night,sunday,0.0
-tutor,21.5,Cloudy,afternoon,monday,0.331
-cleaner,27.7,Rain Showers,night,saturday,0.327
-mechanic,32.5,Fog,morning,friday,0.207
-cleaner,3.7,Fog,evening,friday,0.037
-cleaner,12.4,Clear,morning,monday,0.0
-electrician,2.8,Rain,evening,tuesday,0.504
-tutor,25.2,Clear,afternoon,thursday,0.008
-mechanic,8.0,Snow,morning,friday,0.743
-ac repair,11.6,Cloudy,afternoon,tuesday,0.169
-plumber,37.7,Fog,afternoon,saturday,0.198
-plumber,42.9,Cloudy,evening,saturday,0.254
-tutor,43.2,Cloudy,afternoon,tuesday,0.327
-other,6.1,Thunderstorm,morning,wednesday,0.348
-cleaner,31.9,Rain,night,monday,0.0
-plumber,14.2,Fog,morning,monday,0.109
-painter,19.8,Rain,evening,wednesday,0.4
-other,-1.1,Clear,evening,monday,0.285
-other,18.3,Snow,afternoon,monday,0.108
-other,33.9,Thunderstorm,morning,friday,0.21
-plumber,26.8,Snow,morning,monday,0.406
-plumber,2.2,Clear,morning,friday,0.379
-carpenter,24.5,Cloudy,night,friday,0.38
-plumber,32.5,Fog,afternoon,friday,0.2
-ac repair,-1.2,Snow,afternoon,friday,0.177
-tutor,37.8,Rain,morning,monday,0.269
-ac repair,30.7,Snow,night,thursday,0.626
-electrician,2.6,Thunderstorm,afternoon,friday,0.727
-roof repair,31.4,Clear,afternoon,friday,0.315
-tutor,20.5,Rain,afternoon,sunday,0.288
-roof repair,34.2,Cloudy,night,monday,0.325
-roof repair,25.7,Fog,evening,sunday,0.387
-carpenter,13.9,Thunderstorm,evening,friday,0.387
-doctor,1.9,Rain Showers,evening,thursday,0.387
-roof repair,0.5,Clear,morning,monday,0.206
-other,35.3,Clear,night,wednesday,0.17
-doctor,5.0,Snow,evening,saturday,0.265
-doctor,-3.2,Rain,afternoon,tuesday,0.224
-carpenter,-4.8,Snow,night,sunday,0.684
-mechanic,21.1,Rain,morning,sunday,0.116
-plumber,5.2,Fog,night,wednesday,0.154
-cleaner,13.2,Fog,afternoon,friday,0.14
-painter,-3.0,Fog,evening,tuesday,0.155
-plumber,11.6,Rain,afternoon,tuesday,0.5
-roof repair,-2.1,Thunderstorm,afternoon,thursday,0.735
-doctor,13.1,Clear,night,sunday,0.264
-doctor,2.2,Rain Showers,night,friday,0.165
-mechanic,7.8,Rain,afternoon,tuesday,0.276
-electrician,0.6,Thunderstorm,afternoon,wednesday,0.528
-electrician,21.6,Clear,morning,saturday,0.398
-painter,-1.3,Rain Showers,evening,tuesday,0.25
-plumber,44.1,Rain,morning,wednesday,0.578
-electrician,43.2,Fog,afternoon,friday,0.726
-tutor,9.7,Cloudy,afternoon,wednesday,0.224
-mechanic,1.7,Fog,afternoon,sunday,0.333
-tutor,32.8,Cloudy,morning,thursday,0.317
-tutor,20.8,Clear,afternoon,thursday,0.278
-tutor,43.1,Cloudy,morning,tuesday,0.309
-doctor,8.8,Rain Showers,night,sunday,0.332
-doctor,19.8,Thunderstorm,morning,saturday,0.158
-cleaner,35.8,Rain,evening,monday,0.202
-painter,43.5,Snow,morning,friday,0.339
-doctor,26.1,Cloudy,night,sunday,0.204
-plumber,15.1,Rain,morning,sunday,0.722
-other,16.3,Snow,morning,monday,0.251
-carpenter,31.1,Snow,morning,tuesday,0.232
-ac repair,12.8,Fog,night,wednesday,0.179
-cleaner,-2.8,Clear,evening,thursday,0.148
-other,25.2,Rain Showers,night,tuesday,0.352
-doctor,42.6,Fog,evening,wednesday,0.392
-carpenter,5.9,Snow,night,saturday,0.424
-plumber,9.5,Fog,evening,friday,0.322
-other,35.5,Thunderstorm,evening,wednesday,0.367
-plumber,6.8,Cloudy,evening,monday,0.279
-cleaner,-0.3,Rain Showers,evening,sunday,0.464
-plumber,33.4,Rain,afternoon,wednesday,0.613
-other,-1.0,Thunderstorm,night,wednesday,0.247
-other,37.8,Thunderstorm,afternoon,sunday,0.101
-roof repair,28.9,Snow,night,friday,0.073
-electrician,19.8,Rain Showers,afternoon,monday,0.5
-other,41.5,Rain,night,tuesday,0.261
-cleaner,21.8,Clear,afternoon,monday,0.226
-doctor,23.4,Thunderstorm,evening,sunday,0.316
-mechanic,-1.9,Snow,evening,wednesday,0.533
-roof repair,24.5,Cloudy,night,thursday,0.226
-electrician,33.6,Fog,evening,sunday,0.751
-ac repair,2.2,Thunderstorm,night,friday,0.373
-doctor,19.1,Fog,night,friday,0.269
-ac repair,44.4,Cloudy,morning,sunday,0.605
-tutor,36.4,Fog,night,monday,0.099
-carpenter,-1.0,Thunderstorm,afternoon,friday,0.323
-electrician,41.1,Rain Showers,night,friday,1.0
-electrician,41.4,Thunderstorm,morning,thursday,1.0
-cleaner,28.7,Thunderstorm,night,saturday,0.315
-other,32.8,Rain,evening,tuesday,0.089
-painter,3.5,Clear,afternoon,tuesday,0.328
-cleaner,27.9,Thunderstorm,evening,sunday,0.502
-mechanic,11.2,Snow,afternoon,sunday,0.467
-electrician,11.6,Clear,evening,thursday,0.48
-painter,14.8,Rain,night,thursday,0.318
-electrician,13.1,Snow,night,monday,0.139
-mechanic,22.7,Rain Showers,evening,friday,0.179
-tutor,23.5,Rain Showers,evening,wednesday,0.0
-electrician,27.1,Clear,afternoon,tuesday,0.094
-other,14.4,Thunderstorm,night,tuesday,0.223
-painter,28.7,Rain Showers,morning,friday,0.357
-doctor,26.2,Clear,afternoon,monday,0.22
-other,10.2,Cloudy,morning,wednesday,0.218
-tutor,8.8,Snow,morning,saturday,0.366
-cleaner,-0.3,Rain Showers,morning,monday,0.278
-doctor,30.3,Thunderstorm,afternoon,friday,0.154
-painter,36.0,Clear,evening,friday,0.102
-other,20.7,Rain,afternoon,friday,0.272
-cleaner,38.9,Clear,evening,wednesday,0.083
-electrician,13.8,Rain,afternoon,wednesday,0.741
-mechanic,40.3,Rain Showers,night,sunday,0.282
-mechanic,37.1,Clear,evening,tuesday,0.214
-electrician,14.3,Fog,morning,saturday,0.391
-tutor,9.3,Clear,morning,sunday,0.316
-painter,2.3,Fog,night,thursday,0.352
-electrician,32.0,Rain Showers,morning,monday,0.95
-plumber,2.8,Snow,afternoon,tuesday,0.174
-mechanic,11.4,Clear,morning,monday,0.165
-roof repair,8.2,Fog,afternoon,tuesday,0.137
-other,10.5,Rain,evening,monday,0.189
-roof repair,41.8,Rain Showers,afternoon,friday,0.586
-carpenter,5.9,Rain Showers,afternoon,thursday,0.347
-mechanic,33.2,Snow,evening,thursday,0.619
-ac repair,9.5,Cloudy,night,saturday,0.398
-plumber,28.1,Snow,afternoon,saturday,0.127
-electrician,9.4,Rain Showers,night,thursday,0.77
-carpenter,5.5,Clear,morning,monday,0.185
-electrician,13.4,Snow,afternoon,friday,0.314
-painter,41.7,Rain Showers,evening,saturday,0.517
-carpenter,37.9,Rain Showers,night,monday,0.38
-ac repair,-0.6,Rain,afternoon,tuesday,0.161
-electrician,-0.4,Snow,night,saturday,0.427
-cleaner,19.6,Rain Showers,night,saturday,0.302
-mechanic,-3.3,Cloudy,night,monday,0.213
-roof repair,5.1,Cloudy,morning,monday,0.45
-cleaner,9.7,Rain Showers,night,thursday,0.2
-electrician,10.5,Rain Showers,morning,wednesday,0.571
-carpenter,15.8,Thunderstorm,afternoon,saturday,0.532
-electrician,37.5,Cloudy,evening,tuesday,0.677
-carpenter,18.6,Rain,evening,sunday,0.721
-cleaner,4.5,Rain,morning,tuesday,0.073
-other,26.1,Snow,morning,friday,0.315
-other,20.2,Snow,morning,friday,0.232
-roof repair,16.8,Cloudy,evening,wednesday,0.064
-cleaner,24.9,Snow,morning,thursday,0.236
-mechanic,10.2,Rain,afternoon,friday,0.335
-roof repair,33.8,Thunderstorm,night,friday,0.668
-other,15.1,Fog,evening,wednesday,0.141
-other,13.2,Rain Showers,afternoon,friday,0.183
-cleaner,16.5,Cloudy,evening,tuesday,0.224
-mechanic,8.6,Rain Showers,evening,monday,0.347
-tutor,6.5,Thunderstorm,afternoon,tuesday,0.201
-roof repair,12.5,Rain Showers,night,wednesday,0.679
-other,-1.2,Thunderstorm,afternoon,thursday,0.295
-plumber,39.9,Rain,evening,friday,0.539
-painter,-1.6,Clear,afternoon,saturday,0.435
-painter,32.9,Rain,afternoon,tuesday,0.343
-cleaner,14.1,Rain Showers,evening,monday,0.211
-plumber,28.9,Cloudy,night,sunday,0.191
-other,14.2,Clear,afternoon,saturday,0.111
-cleaner,12.0,Rain Showers,night,friday,0.0
-tutor,23.0,Clear,night,tuesday,0.201
-electrician,44.3,Fog,evening,monday,0.478
-painter,17.2,Rain Showers,morning,saturday,0.706
-carpenter,-1.7,Cloudy,night,tuesday,0.371
-plumber,3.5,Clear,night,wednesday,0.278
-tutor,14.1,Clear,afternoon,friday,0.275
-painter,33.8,Snow,evening,sunday,0.568
-doctor,41.5,Rain Showers,night,saturday,0.322
-other,18.1,Snow,morning,wednesday,0.223
-tutor,44.5,Rain,night,monday,0.108
-doctor,37.4,Fog,evening,wednesday,0.192
-mechanic,21.1,Cloudy,evening,monday,0.244
-electrician,-3.6,Rain Showers,night,wednesday,0.545
-plumber,7.8,Snow,night,wednesday,0.384
-doctor,-3.4,Rain,evening,tuesday,0.432
-ac repair,2.0,Snow,morning,sunday,0.204
-ac repair,3.0,Cloudy,evening,thursday,0.222
-ac repair,13.0,Rain Showers,afternoon,thursday,0.267
-electrician,4.6,Rain,afternoon,monday,0.661
-ac repair,12.0,Cloudy,night,thursday,0.451
-other,12.0,Thunderstorm,afternoon,wednesday,0.165
-mechanic,31.7,Thunderstorm,night,thursday,0.237
-plumber,24.6,Thunderstorm,night,tuesday,0.63
-tutor,38.7,Snow,morning,monday,0.32
-roof repair,20.8,Rain,evening,saturday,0.516
-carpenter,0.5,Rain,morning,thursday,0.24
-electrician,44.8,Snow,evening,monday,0.536
-electrician,20.6,Clear,evening,thursday,0.322
-cleaner,21.7,Rain Showers,evening,monday,0.091
-ac repair,19.9,Thunderstorm,evening,sunday,0.396
-roof repair,-2.3,Fog,evening,monday,0.151
-carpenter,8.6,Rain Showers,night,tuesday,0.184
-electrician,42.2,Cloudy,night,wednesday,0.693
-cleaner,-1.6,Rain Showers,evening,saturday,0.245
-other,23.9,Cloudy,night,sunday,0.315
-painter,7.2,Clear,night,tuesday,0.221
-tutor,29.0,Rain Showers,afternoon,monday,0.4
-cleaner,42.7,Snow,morning,friday,0.362
-ac repair,23.8,Clear,evening,wednesday,0.162
-cleaner,16.1,Fog,night,thursday,0.133
-ac repair,-1.2,Thunderstorm,morning,tuesday,0.297
-cleaner,35.0,Cloudy,morning,monday,0.354
-painter,9.6,Cloudy,afternoon,sunday,0.395
-electrician,25.1,Rain Showers,night,saturday,0.801
-tutor,40.3,Rain Showers,night,monday,0.076
-mechanic,15.5,Thunderstorm,morning,tuesday,0.289
-roof repair,9.5,Rain,night,sunday,0.782
-cleaner,3.1,Rain Showers,evening,monday,0.197
-doctor,25.2,Cloudy,night,friday,0.357
-other,15.7,Thunderstorm,evening,monday,0.176
-other,-3.6,Cloudy,evening,tuesday,0.264
-ac repair,12.9,Fog,afternoon,friday,0.115
-painter,43.6,Snow,morning,wednesday,0.082
-carpenter,-1.3,Rain Showers,night,friday,0.381
-painter,42.0,Cloudy,night,monday,0.117
-roof repair,44.9,Thunderstorm,morning,wednesday,0.666
-carpenter,31.7,Rain,evening,friday,0.104
-plumber,39.3,Rain,evening,tuesday,0.6
-ac repair,1.7,Rain Showers,night,friday,0.287
-carpenter,16.7,Cloudy,evening,thursday,0.249
-tutor,41.7,Cloudy,evening,wednesday,0.0
-cleaner,-1.7,Rain Showers,morning,sunday,0.547
-ac repair,19.4,Rain Showers,afternoon,tuesday,0.28
-plumber,15.6,Fog,afternoon,saturday,0.39
-painter,3.3,Rain Showers,night,saturday,0.571
-roof repair,30.8,Fog,afternoon,thursday,0.356
-roof repair,41.3,Cloudy,morning,friday,0.213
-ac repair,8.1,Snow,night,friday,0.225
-plumber,0.6,Rain,evening,saturday,0.59
-plumber,22.8,Fog,morning,monday,0.242
-electrician,27.4,Cloudy,night,saturday,0.294
-carpenter,1.5,Thunderstorm,evening,saturday,0.679
-mechanic,23.1,Rain,evening,saturday,0.249
-doctor,-0.9,Rain,night,sunday,0.375
-mechanic,41.2,Clear,evening,monday,0.229
-cleaner,13.8,Rain Showers,evening,wednesday,0.084
-plumber,35.6,Clear,afternoon,friday,0.223
-carpenter,8.9,Cloudy,evening,sunday,0.44
-electrician,43.4,Cloudy,evening,friday,0.7
-mechanic,12.4,Clear,afternoon,monday,0.416
-doctor,27.4,Thunderstorm,afternoon,saturday,0.36
-painter,24.2,Clear,night,wednesday,0.231
-electrician,22.1,Thunderstorm,afternoon,wednesday,0.592
-electrician,41.0,Fog,evening,wednesday,0.764
-roof repair,4.0,Fog,afternoon,thursday,0.092
-tutor,41.0,Fog,morning,friday,0.322
-electrician,0.0,Clear,afternoon,monday,0.202
-carpenter,28.7,Snow,evening,wednesday,0.326
-painter,24.0,Rain Showers,afternoon,monday,0.148
-tutor,30.5,Rain Showers,morning,saturday,0.303
-electrician,-1.3,Cloudy,morning,sunday,0.135
-doctor,28.4,Fog,morning,saturday,0.316
-roof repair,25.3,Rain,evening,sunday,0.755
-plumber,1.0,Thunderstorm,night,tuesday,0.808
-tutor,17.0,Cloudy,evening,friday,0.124
-roof repair,11.0,Rain Showers,morning,saturday,0.767
-plumber,26.1,Snow,morning,saturday,0.399
-other,-4.9,Cloudy,afternoon,tuesday,0.378
-mechanic,-3.2,Snow,night,wednesday,0.398
-roof repair,36.9,Fog,night,thursday,0.072
-tutor,19.8,Rain,evening,friday,0.085
-doctor,8.1,Rain Showers,morning,friday,0.359
-painter,-0.2,Rain,evening,monday,0.139
-ac repair,5.2,Cloudy,night,friday,0.341
-carpenter,13.2,Clear,afternoon,saturday,0.521
-electrician,10.1,Rain Showers,afternoon,wednesday,0.616
-carpenter,32.0,Thunderstorm,evening,wednesday,0.314
-ac repair,32.7,Thunderstorm,night,saturday,0.619
-electrician,30.3,Snow,afternoon,monday,0.47
-mechanic,10.8,Thunderstorm,night,tuesday,0.172
-ac repair,-0.2,Rain,morning,sunday,0.358
-painter,19.8,Fog,morning,tuesday,0.294
-cleaner,35.2,Rain Showers,evening,friday,0.164
-cleaner,1.7,Rain,morning,wednesday,0.291
-painter,-2.1,Snow,night,saturday,0.684
-cleaner,32.5,Snow,afternoon,monday,0.428
-roof repair,2.8,Thunderstorm,evening,monday,0.557
-painter,7.3,Thunderstorm,evening,sunday,0.407
-mechanic,38.0,Cloudy,morning,thursday,0.097
-electrician,15.7,Clear,morning,wednesday,0.268
-painter,11.9,Fog,evening,sunday,0.654
-doctor,10.8,Thunderstorm,afternoon,friday,0.213
-plumber,44.0,Thunderstorm,night,wednesday,0.768
-roof repair,41.1,Cloudy,morning,thursday,0.181
-ac repair,44.4,Rain Showers,night,thursday,0.62
-carpenter,9.6,Rain,afternoon,saturday,0.539
-other,6.9,Rain Showers,evening,thursday,0.17
-carpenter,4.0,Snow,evening,sunday,0.468
-ac repair,21.5,Rain Showers,morning,thursday,0.373
-doctor,8.5,Cloudy,morning,sunday,0.179
-doctor,18.8,Fog,morning,tuesday,0.415
-doctor,37.1,Rain,afternoon,saturday,0.267
-roof repair,37.8,Clear,afternoon,sunday,0.223
-tutor,44.0,Fog,night,monday,0.042
-cleaner,2.0,Cloudy,morning,monday,0.421
-doctor,44.3,Clear,afternoon,saturday,0.233
-mechanic,26.4,Clear,night,saturday,0.146
-carpenter,21.7,Snow,afternoon,saturday,0.426
-plumber,21.6,Rain Showers,afternoon,friday,0.65
-painter,-1.9,Snow,evening,saturday,0.632
-doctor,35.8,Thunderstorm,evening,saturday,0.329
-other,10.8,Thunderstorm,afternoon,saturday,0.34
-cleaner,28.8,Snow,night,saturday,0.372
-other,18.2,Rain,night,tuesday,0.406
-painter,28.6,Rain,afternoon,sunday,0.562
-plumber,12.0,Cloudy,afternoon,friday,0.111
-electrician,37.7,Fog,evening,monday,0.75
-other,13.4,Rain,evening,monday,0.202
-ac repair,33.2,Clear,evening,saturday,0.579
-electrician,35.9,Fog,evening,saturday,0.743
-doctor,-0.0,Clear,night,monday,0.218
-tutor,11.1,Snow,afternoon,monday,0.26
-mechanic,36.3,Cloudy,night,tuesday,0.245
-painter,31.3,Clear,evening,friday,0.208
-plumber,21.0,Thunderstorm,evening,wednesday,0.679
-mechanic,29.5,Rain,morning,tuesday,0.192
-electrician,27.6,Snow,morning,thursday,0.195
-doctor,-0.2,Clear,afternoon,saturday,0.134
-doctor,6.3,Fog,afternoon,saturday,0.237
-tutor,14.6,Rain Showers,morning,friday,0.13
-painter,43.8,Clear,night,saturday,0.401
-plumber,-3.2,Fog,morning,tuesday,0.391
-carpenter,9.4,Rain,night,saturday,0.507
-electrician,30.7,Snow,afternoon,monday,0.645
-electrician,20.7,Snow,morning,monday,0.163
-tutor,44.7,Clear,night,tuesday,0.0
-other,22.3,Snow,evening,saturday,0.104
-doctor,15.5,Clear,evening,wednesday,0.138
-roof repair,19.2,Thunderstorm,morning,friday,0.725
-electrician,10.0,Rain,morning,sunday,0.543
-mechanic,22.1,Rain,evening,monday,0.141
-mechanic,14.1,Snow,morning,friday,0.463
-ac repair,29.7,Cloudy,morning,tuesday,0.247
-mechanic,25.6,Snow,morning,tuesday,0.715
-plumber,44.3,Fog,morning,friday,0.282
-painter,35.9,Thunderstorm,evening,sunday,0.736
-cleaner,32.6,Clear,evening,saturday,0.362
-ac repair,22.0,Snow,evening,wednesday,0.327
-cleaner,44.5,Rain Showers,afternoon,sunday,0.659
-electrician,44.3,Rain Showers,evening,thursday,0.975
-plumber,30.7,Snow,morning,saturday,0.316
-doctor,44.8,Clear,evening,friday,0.228
-other,32.3,Thunderstorm,night,thursday,0.35
-ac repair,16.8,Fog,afternoon,sunday,0.13
-other,0.4,Cloudy,afternoon,monday,0.328
-ac repair,-1.9,Fog,evening,monday,0.182
-cleaner,36.1,Clear,night,monday,0.173
-painter,4.4,Cloudy,afternoon,monday,0.105
-electrician,22.4,Clear,afternoon,sunday,0.38
-tutor,14.6,Cloudy,night,monday,0.0
-mechanic,10.5,Cloudy,afternoon,tuesday,0.259
-mechanic,3.0,Fog,afternoon,monday,0.27
-roof repair,17.7,Fog,night,thursday,0.383
-mechanic,28.9,Rain,night,friday,0.22
-roof repair,6.8,Thunderstorm,night,saturday,0.747
-electrician,16.6,Snow,morning,friday,0.231
-carpenter,35.7,Cloudy,night,saturday,0.491
-ac repair,33.9,Clear,morning,monday,0.555
-painter,43.8,Clear,night,wednesday,0.353
-electrician,42.0,Clear,night,saturday,0.706
-ac repair,39.5,Clear,afternoon,saturday,0.594
-painter,5.9,Rain,evening,wednesday,0.065
-other,44.7,Cloudy,afternoon,sunday,0.244
-painter,20.3,Rain Showers,morning,wednesday,0.452
-cleaner,-3.7,Thunderstorm,afternoon,monday,0.276
-roof repair,-2.8,Rain Showers,morning,tuesday,0.799
-mechanic,36.6,Clear,night,sunday,0.329
-tutor,10.9,Fog,night,thursday,0.0
-doctor,42.0,Rain Showers,morning,sunday,0.114
-plumber,26.3,Rain,afternoon,tuesday,0.543
-ac repair,44.7,Fog,morning,friday,0.484
-ac repair,-4.9,Rain,afternoon,wednesday,0.236
-doctor,31.9,Cloudy,afternoon,friday,0.129
-doctor,20.1,Rain,evening,saturday,0.149
-doctor,2.0,Cloudy,morning,thursday,0.143
-carpenter,35.1,Clear,night,monday,0.19
-carpenter,-2.8,Fog,night,sunday,0.63
-plumber,8.6,Clear,evening,monday,0.374
-carpenter,24.8,Thunderstorm,afternoon,monday,0.404
-carpenter,1.7,Rain,afternoon,sunday,0.56
-mechanic,-4.9,Rain Showers,night,wednesday,0.347
-carpenter,13.2,Cloudy,evening,sunday,0.501
-roof repair,5.1,Thunderstorm,morning,sunday,0.796
-cleaner,8.4,Rain Showers,night,friday,0.038
-plumber,19.9,Clear,evening,monday,0.296
-plumber,27.5,Fog,afternoon,sunday,0.141
-electrician,13.3,Rain Showers,evening,thursday,0.568
-carpenter,21.5,Fog,evening,monday,0.198
-doctor,35.9,Thunderstorm,night,sunday,0.22
-painter,14.2,Thunderstorm,evening,thursday,0.176
-cleaner,24.7,Snow,afternoon,monday,0.186
-tutor,42.4,Cloudy,afternoon,wednesday,0.242
-doctor,16.5,Fog,afternoon,thursday,0.43
-electrician,37.1,Rain,night,thursday,0.99
-roof repair,35.7,Cloudy,night,tuesday,0.251
-tutor,25.4,Cloudy,night,friday,0.0
-mechanic,40.9,Snow,afternoon,saturday,0.554
-doctor,35.6,Snow,morning,wednesday,0.343
-carpenter,44.6,Rain,evening,friday,0.151
-cleaner,40.3,Thunderstorm,evening,saturday,0.424
-ac repair,-0.2,Rain,morning,saturday,0.3
-cleaner,19.4,Clear,night,thursday,0.169
-electrician,-4.0,Rain,afternoon,friday,0.591
-electrician,9.6,Thunderstorm,morning,wednesday,0.654
-electrician,34.7,Clear,afternoon,thursday,0.732
-tutor,22.5,Fog,night,wednesday,0.0
-doctor,6.1,Fog,evening,monday,0.273
-tutor,37.9,Fog,night,saturday,0.0
-painter,10.4,Rain,evening,monday,0.291
-ac repair,3.0,Rain Showers,afternoon,saturday,0.377
-doctor,29.8,Fog,morning,saturday,0.233
-ac repair,39.9,Thunderstorm,evening,wednesday,0.702
-carpenter,37.8,Snow,night,tuesday,0.15
-carpenter,38.9,Cloudy,morning,sunday,0.429
-tutor,5.7,Fog,evening,tuesday,0.173
-doctor,33.6,Rain Showers,afternoon,saturday,0.296
-tutor,11.5,Clear,morning,sunday,0.353
-cleaner,5.8,Clear,night,wednesday,0.0
-tutor,23.4,Snow,evening,wednesday,0.194
-cleaner,19.0,Fog,afternoon,saturday,0.64
-ac repair,28.6,Thunderstorm,morning,wednesday,0.27
-other,9.2,Rain,morning,friday,0.178
-tutor,7.1,Rain,afternoon,sunday,0.113
-carpenter,1.5,Fog,morning,friday,0.354
-doctor,8.8,Snow,evening,saturday,0.053
-roof repair,8.1,Cloudy,night,tuesday,0.354
-tutor,5.7,Clear,evening,monday,0.092
-electrician,20.4,Thunderstorm,afternoon,wednesday,0.662
-ac repair,44.9,Clear,morning,friday,0.619
-tutor,33.2,Fog,evening,friday,0.045
-carpenter,27.9,Fog,evening,sunday,0.494
-painter,7.5,Thunderstorm,afternoon,friday,0.399
-other,36.4,Cloudy,morning,thursday,0.4
-mechanic,44.0,Cloudy,evening,friday,0.234
-carpenter,-0.2,Rain,morning,sunday,0.524
-tutor,27.9,Cloudy,night,saturday,0.0
-other,-4.1,Rain,morning,wednesday,0.341
-mechanic,18.8,Rain,evening,friday,0.259
-doctor,32.6,Cloudy,morning,friday,0.216
-mechanic,14.9,Fog,afternoon,sunday,0.242
-electrician,26.3,Thunderstorm,morning,saturday,0.68
-mechanic,19.2,Rain Showers,afternoon,monday,0.23
-cleaner,24.3,Rain Showers,evening,saturday,0.233
-electrician,29.5,Thunderstorm,evening,wednesday,0.538
-doctor,18.6,Clear,evening,wednesday,0.316
-roof repair,9.8,Rain,evening,thursday,0.694
-mechanic,39.5,Clear,afternoon,monday,0.439
-roof repair,-1.5,Thunderstorm,afternoon,sunday,0.581
-roof repair,24.3,Rain,night,saturday,0.586
-mechanic,24.2,Rain,night,wednesday,0.337
-doctor,-3.4,Fog,night,tuesday,0.19
-roof repair,3.3,Fog,evening,sunday,0.126
-other,26.3,Fog,night,sunday,0.412
-electrician,18.9,Snow,afternoon,wednesday,0.215
-other,43.6,Clear,afternoon,sunday,0.242
-tutor,40.5,Clear,evening,thursday,0.081
-roof repair,14.3,Thunderstorm,afternoon,tuesday,0.542
-mechanic,8.1,Thunderstorm,night,wednesday,0.26
-doctor,43.3,Fog,afternoon,friday,0.247
-ac repair,20.6,Rain,night,friday,0.315
-electrician,23.4,Fog,morning,tuesday,0.208
-carpenter,28.6,Fog,afternoon,sunday,0.5
-other,14.5,Thunderstorm,afternoon,saturday,0.274
-other,4.9,Cloudy,night,friday,0.284
-doctor,-3.1,Clear,night,friday,0.084
-tutor,32.0,Clear,night,tuesday,0.147
-cleaner,11.3,Snow,night,thursday,0.071
-doctor,16.9,Snow,morning,saturday,0.373
-doctor,5.4,Cloudy,evening,friday,0.277
-mechanic,-4.4,Rain,afternoon,friday,0.324
-cleaner,38.4,Clear,evening,tuesday,0.0
-electrician,32.7,Rain Showers,afternoon,wednesday,0.92
-ac repair,5.2,Fog,evening,saturday,0.362
-mechanic,9.8,Thunderstorm,night,friday,0.276
-painter,18.9,Snow,night,thursday,0.263
-tutor,5.5,Thunderstorm,evening,tuesday,0.0
-mechanic,-3.4,Fog,evening,tuesday,0.178
-electrician,2.6,Thunderstorm,evening,saturday,0.755
-plumber,29.6,Thunderstorm,morning,tuesday,0.74
-tutor,39.6,Rain,night,sunday,0.215
-tutor,8.0,Rain Showers,night,monday,0.095
-mechanic,25.0,Rain Showers,evening,wednesday,0.366
-mechanic,1.8,Cloudy,afternoon,thursday,0.269
-carpenter,12.1,Thunderstorm,afternoon,friday,0.417
-cleaner,22.6,Cloudy,evening,friday,0.078
-ac repair,2.5,Snow,afternoon,saturday,0.125
-mechanic,28.3,Snow,afternoon,monday,0.63
-roof repair,38.9,Fog,night,sunday,0.213
-doctor,6.3,Clear,night,tuesday,0.124
-doctor,39.2,Fog,evening,friday,0.32
-cleaner,44.8,Rain Showers,evening,wednesday,0.07
-other,11.1,Thunderstorm,night,monday,0.053
-tutor,33.6,Fog,morning,saturday,0.159
-plumber,30.8,Clear,afternoon,monday,0.325
-plumber,11.8,Thunderstorm,evening,sunday,0.625
-other,0.4,Clear,evening,friday,0.133
-cleaner,15.6,Snow,morning,tuesday,0.196
-other,5.1,Rain Showers,night,friday,0.176
-painter,5.0,Snow,afternoon,monday,0.489
-roof repair,1.5,Cloudy,evening,tuesday,0.311
-other,43.5,Fog,evening,friday,0.313
-painter,36.1,Clear,evening,sunday,0.472
-plumber,7.1,Fog,night,monday,0.415
-carpenter,33.8,Cloudy,afternoon,wednesday,0.237
-ac repair,43.2,Snow,night,sunday,0.757
-other,39.4,Thunderstorm,night,monday,0.188
-doctor,28.4,Rain Showers,evening,sunday,0.132
-tutor,-3.3,Thunderstorm,night,tuesday,0.241
-tutor,-1.2,Clear,night,monday,0.171
-doctor,25.9,Snow,afternoon,saturday,0.222
-carpenter,9.4,Rain Showers,night,saturday,0.423
-doctor,36.0,Fog,evening,thursday,0.034
-carpenter,23.3,Snow,afternoon,saturday,0.656
-carpenter,26.9,Thunderstorm,night,saturday,0.678
-tutor,24.4,Cloudy,evening,sunday,0.16
-carpenter,20.2,Thunderstorm,evening,friday,0.27
-painter,8.7,Clear,afternoon,saturday,0.592
-plumber,31.3,Cloudy,afternoon,monday,0.187
-mechanic,30.4,Rain,morning,sunday,0.22
-mechanic,22.2,Thunderstorm,night,monday,0.449
-roof repair,43.7,Cloudy,night,sunday,0.349
-tutor,-1.1,Snow,afternoon,wednesday,0.384
-ac repair,21.9,Cloudy,night,thursday,0.267
-electrician,34.8,Fog,morning,sunday,0.621
-cleaner,16.2,Rain,evening,tuesday,0.0
-plumber,0.8,Cloudy,morning,sunday,0.255
-painter,5.6,Snow,afternoon,saturday,0.561
-carpenter,27.2,Thunderstorm,evening,friday,0.252
-mechanic,-1.3,Rain Showers,morning,wednesday,0.151
-carpenter,20.1,Clear,morning,friday,0.25
-other,4.6,Cloudy,afternoon,wednesday,0.3
-carpenter,17.1,Clear,afternoon,wednesday,0.125
-cleaner,19.8,Clear,night,monday,0.0
-other,15.1,Rain,night,wednesday,0.155
-painter,15.9,Snow,afternoon,monday,0.2
-tutor,34.6,Cloudy,morning,monday,0.17
-roof repair,10.0,Rain Showers,evening,friday,0.669
-tutor,5.2,Clear,night,sunday,0.028
-mechanic,24.6,Rain,night,tuesday,0.186
-cleaner,23.4,Fog,afternoon,friday,0.249
-electrician,17.9,Rain Showers,morning,monday,0.598
-other,10.3,Clear,evening,monday,0.154
-painter,3.0,Snow,evening,tuesday,0.123
-carpenter,19.0,Snow,evening,monday,0.302
-electrician,14.3,Rain,morning,saturday,0.588
-painter,26.0,Snow,morning,wednesday,0.376
-cleaner,42.2,Thunderstorm,evening,thursday,0.0
-roof repair,41.5,Thunderstorm,evening,saturday,0.858
-cleaner,40.2,Clear,night,monday,0.149
-plumber,4.7,Cloudy,afternoon,sunday,0.453
-cleaner,28.0,Rain,afternoon,friday,0.22
-mechanic,17.0,Cloudy,morning,sunday,0.341
-carpenter,0.7,Cloudy,evening,monday,0.3
-plumber,15.8,Cloudy,afternoon,tuesday,0.271
-electrician,28.5,Rain,night,wednesday,0.562
-doctor,7.8,Cloudy,morning,thursday,0.262
-plumber,6.0,Fog,morning,saturday,0.432
-doctor,25.6,Cloudy,morning,monday,0.374
-cleaner,37.3,Rain,afternoon,thursday,0.215
-painter,19.9,Thunderstorm,night,friday,0.277
-electrician,13.5,Snow,afternoon,friday,0.211
-cleaner,11.2,Thunderstorm,evening,tuesday,0.0
-mechanic,-2.4,Rain,night,thursday,0.316
-ac repair,33.6,Rain Showers,night,monday,0.634
-cleaner,11.2,Clear,evening,tuesday,0.0
-cleaner,24.8,Snow,afternoon,friday,0.155
-tutor,10.4,Clear,afternoon,monday,0.119
-carpenter,23.1,Rain Showers,afternoon,monday,0.246
-ac repair,38.2,Snow,afternoon,monday,0.745
-painter,35.2,Cloudy,afternoon,wednesday,0.141
-ac repair,5.0,Rain,evening,thursday,0.318
-mechanic,17.4,Rain,night,thursday,0.35
-carpenter,-0.5,Rain,afternoon,friday,0.182
-plumber,38.2,Rain Showers,morning,thursday,0.705
-roof repair,30.4,Rain,afternoon,friday,0.646
-other,-0.5,Clear,morning,monday,0.142
-mechanic,23.5,Clear,morning,saturday,0.13
-doctor,15.9,Cloudy,evening,friday,0.413
-cleaner,16.6,Clear,night,saturday,0.566
-tutor,13.9,Thunderstorm,night,monday,0.07
-ac repair,41.3,Rain,night,tuesday,0.581
-plumber,32.2,Cloudy,night,saturday,0.333
-cleaner,23.5,Cloudy,night,wednesday,0.122
-electrician,7.4,Rain Showers,evening,sunday,0.731
-roof repair,31.6,Thunderstorm,afternoon,wednesday,0.563
-plumber,-1.1,Fog,morning,thursday,0.354
-cleaner,21.7,Clear,afternoon,friday,0.252
-tutor,43.4,Fog,night,monday,0.0
-roof repair,15.9,Fog,evening,wednesday,0.362
-carpenter,-2.4,Clear,night,tuesday,0.238
-tutor,6.8,Fog,night,friday,0.154
-other,34.2,Thunderstorm,afternoon,thursday,0.199
-tutor,5.8,Thunderstorm,morning,saturday,0.05
-roof repair,5.0,Clear,night,sunday,0.334
-plumber,40.9,Fog,night,friday,0.206
-electrician,40.4,Rain,night,monday,0.98
-cleaner,24.6,Thunderstorm,morning,thursday,0.143
-plumber,5.6,Rain,afternoon,wednesday,0.58
-cleaner,22.1,Clear,night,sunday,0.456
-electrician,44.4,Rain,evening,thursday,0.971
-roof repair,0.6,Thunderstorm,morning,sunday,0.633
-other,20.4,Snow,night,friday,0.193
-tutor,39.1,Cloudy,night,saturday,0.0
-ac repair,-2.3,Thunderstorm,night,friday,0.348
-other,10.1,Snow,morning,saturday,0.185
-painter,11.0,Thunderstorm,evening,wednesday,0.145
-other,28.3,Rain Showers,evening,thursday,0.228
-other,17.0,Rain,morning,sunday,0.348
-electrician,6.7,Clear,evening,monday,0.092
-painter,38.2,Rain Showers,afternoon,wednesday,0.313
-doctor,-3.3,Rain,night,saturday,0.168
-doctor,12.2,Rain Showers,morning,tuesday,0.187
-painter,31.7,Snow,night,thursday,0.37
-plumber,0.8,Snow,night,friday,0.341
-other,6.8,Clear,night,saturday,0.266
-cleaner,34.2,Cloudy,afternoon,saturday,0.476
-plumber,19.9,Rain Showers,evening,friday,0.57
-carpenter,36.6,Rain,afternoon,friday,0.07
-electrician,12.3,Cloudy,night,friday,0.068
-roof repair,19.1,Rain Showers,evening,wednesday,0.603
-roof repair,39.7,Snow,afternoon,friday,0.244
-roof repair,33.2,Fog,evening,monday,0.209
-ac repair,21.4,Thunderstorm,afternoon,friday,0.428
-electrician,31.7,Fog,afternoon,friday,0.635
-plumber,2.8,Fog,evening,thursday,0.232
-roof repair,33.4,Snow,evening,tuesday,0.396
-carpenter,9.8,Rain Showers,morning,thursday,0.128
-ac repair,15.3,Thunderstorm,night,thursday,0.093
-doctor,10.7,Cloudy,evening,thursday,0.311
-mechanic,0.5,Fog,morning,friday,0.402
-tutor,9.4,Snow,evening,saturday,0.077
-roof repair,43.4,Fog,afternoon,monday,0.328
-carpenter,34.5,Thunderstorm,afternoon,thursday,0.173
-roof repair,42.9,Thunderstorm,evening,wednesday,0.673
-electrician,14.4,Fog,evening,friday,0.261
-doctor,27.5,Rain Showers,evening,sunday,0.193
-other,29.7,Fog,night,tuesday,0.138
-other,39.8,Rain Showers,morning,friday,0.211
-carpenter,18.0,Rain Showers,afternoon,tuesday,0.101
-electrician,22.4,Fog,morning,sunday,0.159
-plumber,34.3,Fog,night,monday,0.336
-tutor,32.3,Clear,afternoon,friday,0.314
-mechanic,31.5,Snow,evening,monday,0.501
-other,6.8,Rain,night,monday,0.191
-tutor,17.5,Rain,afternoon,friday,0.261
-roof repair,41.4,Snow,evening,friday,0.347
-doctor,11.2,Snow,afternoon,tuesday,0.226
-painter,16.1,Fog,evening,thursday,0.281
-doctor,35.2,Rain,morning,friday,0.197
-plumber,44.1,Fog,afternoon,wednesday,0.3
-painter,13.4,Clear,afternoon,sunday,0.471
-plumber,15.8,Cloudy,afternoon,tuesday,0.274
-doctor,9.1,Clear,afternoon,monday,0.388
-ac repair,1.2,Rain,evening,thursday,0.18
-other,31.5,Rain,night,thursday,0.229
-mechanic,37.3,Fog,night,monday,0.159
-doctor,44.8,Rain Showers,afternoon,sunday,0.246
-plumber,19.0,Cloudy,morning,tuesday,0.159
-painter,-4.9,Rain Showers,afternoon,thursday,0.32
-electrician,31.1,Fog,night,friday,0.544
-roof repair,26.1,Rain,night,sunday,0.663
-doctor,15.3,Fog,afternoon,sunday,0.367
-electrician,32.9,Snow,afternoon,wednesday,0.538
-electrician,12.3,Cloudy,evening,saturday,0.193
-painter,21.1,Snow,evening,sunday,0.738
-cleaner,31.3,Rain Showers,morning,wednesday,0.177
-plumber,20.9,Rain,evening,monday,0.518
-carpenter,-3.3,Thunderstorm,evening,thursday,0.171
-carpenter,0.8,Fog,night,monday,0.329
-carpenter,5.9,Thunderstorm,morning,friday,0.24
-electrician,-4.7,Cloudy,afternoon,saturday,0.348
-tutor,7.9,Clear,night,wednesday,0.031
-mechanic,23.8,Cloudy,afternoon,thursday,0.187
-tutor,-0.1,Rain Showers,evening,saturday,0.161
-doctor,27.4,Rain Showers,afternoon,saturday,0.168
-tutor,11.4,Fog,night,tuesday,0.0
-electrician,39.8,Rain Showers,night,friday,0.98
-carpenter,41.2,Rain Showers,evening,friday,0.318
-painter,7.5,Fog,afternoon,thursday,0.152
-roof repair,2.3,Thunderstorm,night,saturday,0.718
-painter,-4.3,Rain Showers,evening,saturday,0.484
-electrician,43.1,Fog,evening,sunday,0.606
-ac repair,44.3,Cloudy,evening,thursday,0.773
-painter,43.6,Rain,night,thursday,0.258
-mechanic,44.2,Fog,night,sunday,0.22
-mechanic,12.2,Rain,evening,friday,0.211
-ac repair,-4.9,Snow,morning,friday,0.206
-roof repair,20.8,Snow,night,sunday,0.105
-ac repair,16.9,Thunderstorm,evening,thursday,0.348
-plumber,38.8,Cloudy,night,wednesday,0.342
-cleaner,9.0,Cloudy,night,saturday,0.581
-other,13.6,Thunderstorm,morning,sunday,0.389
-electrician,27.3,Thunderstorm,afternoon,saturday,0.579
-plumber,27.1,Fog,evening,saturday,0.101
-painter,18.1,Fog,morning,sunday,0.674
-roof repair,27.9,Snow,evening,friday,0.192
-plumber,30.7,Fog,evening,wednesday,0.393
-ac repair,40.7,Rain Showers,morning,monday,0.596
-electrician,7.1,Thunderstorm,evening,sunday,0.763
-mechanic,33.7,Cloudy,evening,monday,0.229
-cleaner,11.6,Fog,afternoon,wednesday,0.303
-ac repair,7.0,Fog,evening,sunday,0.319
-other,-4.8,Clear,morning,monday,0.297
-cleaner,40.3,Thunderstorm,evening,sunday,0.378
-electrician,22.5,Rain Showers,night,tuesday,0.639
-plumber,17.7,Thunderstorm,morning,friday,0.506
-plumber,-3.9,Fog,night,sunday,0.063
-tutor,2.3,Cloudy,morning,friday,0.337
+carpenter,36.8,clear,evening,wednesday,0.237
+electrician,27.3,cloudy,evening,tuesday,0.177
+tutor,23.9,snow,morning,thursday,0.406
+doctor,9.5,rain,evening,wednesday,0.398
+doctor,24.2,thunderstorm,afternoon,thursday,0.261
+cleaner,1.7,rain showers,evening,wednesday,0.048
+electrician,15.2,rain,night,monday,0.365
+roof repair,14.8,cloudy,night,monday,0.31
+tutor,28.3,clear,evening,thursday,0.0
+carpenter,0.7,cloudy,afternoon,monday,0.196
+roof repair,1.8,rain showers,evening,tuesday,0.127
+other,30.2,clear,night,saturday,0.239
+cleaner,41.4,cloudy,morning,wednesday,0.268
+roof repair,43.9,rain showers,night,monday,0.18
+plumber,-3.7,rain showers,night,tuesday,0.354
+ac repair,44.7,thunderstorm,morning,thursday,0.701
+cleaner,11.8,snow,afternoon,saturday,0.755
+plumber,1.3,fog,afternoon,monday,0.177
+carpenter,40.4,snow,morning,saturday,0.492
+cleaner,5.3,rain showers,morning,monday,0.21
+carpenter,5.8,clear,evening,friday,0.2
+roof repair,31.5,fog,evening,friday,0.268
+other,34.9,rain,evening,monday,0.17
+mechanic,1.0,clear,evening,saturday,0.273
+other,-1.7,rain showers,evening,saturday,0.283
+painter,39.7,thunderstorm,night,thursday,0.148
+plumber,8.0,cloudy,morning,sunday,0.309
+tutor,-1.1,cloudy,morning,wednesday,0.302
+other,13.0,thunderstorm,afternoon,friday,0.278
+cleaner,41.1,rain,night,wednesday,0.147
+ac repair,37.1,thunderstorm,afternoon,monday,0.697
+other,33.9,thunderstorm,morning,wednesday,0.374
+painter,44.3,cloudy,afternoon,thursday,0.212
+tutor,9.3,clear,afternoon,wednesday,0.459
+other,21.8,rain,evening,thursday,0.315
+doctor,14.9,cloudy,afternoon,monday,0.295
+plumber,17.8,thunderstorm,afternoon,saturday,0.253
+roof repair,-1.1,rain showers,afternoon,monday,0.173
+cleaner,17.8,rain showers,night,monday,0.0
+electrician,-1.8,snow,night,saturday,0.381
+electrician,42.2,snow,evening,wednesday,0.541
+doctor,2.0,cloudy,evening,saturday,0.418
+mechanic,21.6,cloudy,afternoon,friday,0.435
+painter,11.5,clear,afternoon,thursday,0.184
+ac repair,-2.5,cloudy,night,friday,0.128
+ac repair,2.8,rain,morning,saturday,0.311
+ac repair,41.7,rain showers,evening,friday,0.661
+cleaner,3.1,cloudy,afternoon,saturday,0.599
+electrician,5.5,cloudy,afternoon,saturday,0.361
+carpenter,10.7,rain showers,afternoon,saturday,0.592
+carpenter,-4.0,thunderstorm,afternoon,friday,0.139
+cleaner,44.7,thunderstorm,afternoon,thursday,0.209
+other,27.5,fog,evening,tuesday,0.42
+cleaner,11.8,fog,night,saturday,0.264
+plumber,8.8,thunderstorm,night,wednesday,0.257
+cleaner,39.2,rain,evening,thursday,0.0
+roof repair,18.2,snow,night,saturday,0.447
+painter,8.0,rain,night,saturday,0.544
+carpenter,35.2,fog,evening,monday,0.261
+carpenter,1.0,thunderstorm,morning,sunday,0.746
+carpenter,1.0,clear,night,monday,0.211
+ac repair,28.8,cloudy,afternoon,friday,0.178
+mechanic,5.5,clear,afternoon,thursday,0.07
+doctor,6.4,fog,afternoon,friday,0.168
+tutor,-2.9,thunderstorm,afternoon,sunday,0.279
+carpenter,40.9,thunderstorm,afternoon,thursday,0.344
+ac repair,43.2,rain,night,saturday,0.695
+electrician,29.9,rain showers,night,sunday,0.101
+other,14.8,rain showers,evening,monday,0.162
+roof repair,-0.0,rain showers,afternoon,saturday,0.201
+electrician,9.5,clear,morning,monday,0.209
+painter,22.0,fog,evening,saturday,0.416
+tutor,11.9,snow,night,tuesday,0.105
+cleaner,3.9,rain,afternoon,monday,0.258
+electrician,13.7,rain,night,wednesday,0.096
+painter,13.0,thunderstorm,evening,wednesday,0.084
+carpenter,30.1,rain showers,night,monday,0.248
+tutor,10.2,cloudy,evening,saturday,0.0
+plumber,-1.7,rain showers,morning,friday,0.376
+electrician,8.7,cloudy,morning,friday,0.33
+other,38.4,rain showers,evening,tuesday,0.321
+electrician,6.3,rain,afternoon,sunday,0.226
+electrician,35.9,clear,night,tuesday,0.581
+other,3.8,rain showers,afternoon,saturday,0.261
+plumber,5.9,cloudy,evening,thursday,0.139
+painter,44.6,cloudy,afternoon,thursday,0.144
+electrician,35.1,snow,morning,monday,0.633
+mechanic,5.3,snow,morning,wednesday,0.268
+ac repair,15.1,rain,night,sunday,0.266
+mechanic,0.3,rain showers,night,tuesday,0.165
+electrician,16.2,cloudy,afternoon,tuesday,0.294
+mechanic,45.0,clear,evening,sunday,0.089
+cleaner,23.9,snow,afternoon,monday,0.326
+ac repair,39.5,snow,evening,monday,0.529
+carpenter,9.2,clear,afternoon,thursday,0.376
+ac repair,30.5,cloudy,afternoon,tuesday,0.577
+plumber,43.0,rain showers,evening,wednesday,0.28
+ac repair,1.4,rain showers,evening,tuesday,0.338
+roof repair,29.8,cloudy,night,thursday,0.175
+electrician,17.4,rain showers,evening,wednesday,0.08
+painter,44.2,clear,morning,thursday,0.108
+tutor,5.3,clear,morning,wednesday,0.288
+ac repair,35.3,clear,afternoon,sunday,0.679
+plumber,34.5,rain,afternoon,saturday,0.108
+ac repair,21.1,rain showers,night,thursday,0.053
+roof repair,19.6,fog,morning,wednesday,0.37
+other,11.3,cloudy,afternoon,thursday,0.162
+roof repair,35.1,fog,morning,friday,0.286
+other,34.1,thunderstorm,morning,monday,0.302
+painter,35.6,clear,night,sunday,0.485
+other,18.1,rain,evening,thursday,0.086
+mechanic,32.1,clear,evening,monday,0.143
+plumber,30.5,rain,morning,wednesday,0.427
+roof repair,5.7,clear,morning,wednesday,0.334
+ac repair,9.0,rain showers,morning,friday,0.071
+cleaner,33.3,fog,morning,thursday,0.324
+cleaner,39.5,fog,evening,tuesday,0.107
+roof repair,41.3,snow,night,sunday,0.332
+ac repair,38.7,clear,evening,tuesday,0.558
+painter,36.0,thunderstorm,evening,sunday,0.604
+ac repair,16.4,thunderstorm,morning,sunday,0.211
+painter,18.2,rain showers,night,thursday,0.122
+other,-2.6,rain showers,afternoon,thursday,0.361
+ac repair,42.3,snow,afternoon,friday,0.759
+painter,39.9,snow,evening,thursday,0.129
+plumber,13.7,thunderstorm,night,wednesday,0.232
+other,34.2,fog,night,friday,0.287
+doctor,-4.6,thunderstorm,afternoon,thursday,0.127
+roof repair,23.3,snow,afternoon,friday,0.353
+roof repair,23.9,rain,afternoon,tuesday,0.226
+roof repair,28.8,rain,evening,tuesday,0.131
+other,29.9,snow,afternoon,sunday,0.212
+cleaner,6.0,cloudy,afternoon,friday,0.472
+electrician,44.7,clear,morning,wednesday,0.708
+tutor,20.4,thunderstorm,night,sunday,0.067
+tutor,25.6,thunderstorm,night,monday,0.104
+cleaner,42.8,rain,morning,tuesday,0.173
+electrician,23.6,fog,morning,sunday,0.339
+other,13.9,rain showers,night,saturday,0.289
+doctor,32.1,cloudy,evening,wednesday,0.396
+mechanic,41.9,snow,morning,tuesday,0.139
+carpenter,27.3,rain showers,afternoon,friday,0.11
+mechanic,6.6,snow,evening,sunday,0.27
+mechanic,33.0,rain,morning,friday,0.156
+ac repair,12.6,rain,evening,friday,0.245
+tutor,33.1,cloudy,evening,monday,0.041
+electrician,-3.2,snow,afternoon,monday,0.036
+doctor,-3.6,clear,night,saturday,0.094
+doctor,22.1,rain,morning,friday,0.16
+ac repair,32.0,rain showers,night,friday,0.64
+doctor,31.8,snow,evening,tuesday,0.097
+carpenter,31.3,cloudy,afternoon,tuesday,0.327
+painter,-3.6,clear,morning,tuesday,0.161
+cleaner,19.6,rain showers,night,tuesday,0.0
+ac repair,27.3,rain,evening,thursday,0.147
+electrician,22.9,rain showers,evening,wednesday,0.294
+other,7.2,fog,night,sunday,0.26
+plumber,12.3,fog,morning,wednesday,0.302
+roof repair,33.5,clear,afternoon,monday,0.226
+mechanic,34.3,fog,night,tuesday,0.177
+electrician,41.1,cloudy,afternoon,tuesday,0.75
+plumber,33.5,thunderstorm,evening,friday,0.065
+mechanic,14.3,snow,night,monday,0.272
+doctor,16.8,thunderstorm,morning,friday,0.141
+tutor,36.0,cloudy,night,saturday,0.17
+electrician,20.9,fog,night,thursday,0.282
+tutor,26.2,rain showers,afternoon,thursday,0.282
+tutor,29.8,cloudy,afternoon,thursday,0.184
+ac repair,38.9,cloudy,afternoon,friday,0.632
+plumber,29.1,rain showers,morning,monday,0.431
+tutor,43.2,clear,night,monday,0.11
+other,25.5,cloudy,evening,monday,0.317
+plumber,28.3,rain,morning,sunday,0.21
+mechanic,1.9,cloudy,night,sunday,0.233
+doctor,23.2,cloudy,evening,monday,0.226
+roof repair,38.7,rain showers,afternoon,friday,0.401
+painter,-4.6,rain,night,wednesday,0.414
+roof repair,21.1,cloudy,night,wednesday,0.225
+electrician,5.0,cloudy,night,wednesday,0.262
+other,33.6,snow,evening,saturday,0.304
+cleaner,43.8,rain showers,afternoon,sunday,0.413
+plumber,28.0,rain,evening,friday,0.415
+electrician,0.2,cloudy,night,friday,0.348
+plumber,1.5,cloudy,afternoon,monday,0.379
+doctor,31.6,rain,morning,sunday,0.211
+electrician,18.2,cloudy,afternoon,sunday,0.18
+ac repair,-4.0,snow,afternoon,friday,0.16
+carpenter,9.9,cloudy,night,thursday,0.386
+carpenter,14.5,snow,evening,thursday,0.161
+roof repair,5.4,rain,morning,wednesday,0.338
+carpenter,9.9,snow,morning,saturday,0.434
+other,-1.0,rain showers,evening,tuesday,0.451
+painter,20.4,fog,evening,saturday,0.727
+ac repair,23.2,snow,night,tuesday,0.344
+roof repair,27.4,snow,evening,monday,0.295
+other,44.3,rain,evening,sunday,0.355
+electrician,44.0,rain,night,tuesday,0.607
+carpenter,-3.0,cloudy,evening,saturday,0.64
+doctor,13.0,thunderstorm,morning,friday,0.163
+doctor,34.9,cloudy,afternoon,sunday,0.145
+tutor,0.9,clear,evening,thursday,0.0
+electrician,35.9,snow,evening,wednesday,0.634
+cleaner,-0.5,fog,night,friday,0.146
+electrician,4.3,cloudy,morning,wednesday,0.167
+roof repair,18.3,thunderstorm,night,saturday,0.068
+plumber,19.1,cloudy,morning,friday,0.093
+tutor,1.7,clear,afternoon,thursday,0.285
+cleaner,0.8,thunderstorm,evening,monday,0.0
+roof repair,25.5,clear,night,monday,0.129
+painter,19.4,clear,evening,tuesday,0.176
+electrician,39.5,rain,evening,thursday,0.645
+other,36.4,thunderstorm,evening,sunday,0.038
+roof repair,16.9,rain showers,night,sunday,0.351
+mechanic,41.7,fog,night,sunday,0.215
+other,-2.3,clear,afternoon,tuesday,0.3
+carpenter,31.4,thunderstorm,morning,tuesday,0.179
+cleaner,6.7,rain showers,evening,saturday,0.301
+tutor,10.1,cloudy,night,sunday,0.184
+carpenter,36.0,fog,evening,friday,0.303
+tutor,0.4,clear,afternoon,thursday,0.288
+doctor,28.1,rain,evening,saturday,0.226
+doctor,11.2,thunderstorm,morning,friday,0.0
+cleaner,29.9,rain,afternoon,tuesday,0.164
+carpenter,19.2,rain showers,evening,monday,0.384
+roof repair,24.5,clear,night,wednesday,0.097
+electrician,31.7,thunderstorm,evening,sunday,0.792
+cleaner,18.1,cloudy,evening,monday,0.127
+mechanic,12.5,rain,evening,friday,0.108
+roof repair,1.7,clear,evening,saturday,0.241
+cleaner,29.7,cloudy,afternoon,saturday,0.724
+plumber,14.1,clear,morning,friday,0.375
+painter,-0.2,snow,afternoon,tuesday,0.132
+electrician,32.0,rain showers,night,monday,0.527
+doctor,-1.9,rain,afternoon,friday,0.457
+electrician,44.2,thunderstorm,afternoon,thursday,0.788
+tutor,12.3,fog,evening,wednesday,0.017
+carpenter,21.1,rain,morning,tuesday,0.404
+tutor,44.1,rain showers,evening,monday,0.0
+doctor,32.7,clear,morning,saturday,0.433
+ac repair,4.2,fog,night,thursday,0.17
+ac repair,36.3,clear,night,tuesday,0.563
+mechanic,6.6,fog,evening,tuesday,0.386
+cleaner,4.8,rain showers,night,wednesday,0.058
+ac repair,4.9,rain showers,afternoon,thursday,0.244
+electrician,2.7,thunderstorm,evening,thursday,0.321
+painter,38.2,fog,evening,thursday,0.224
+tutor,-4.8,rain showers,night,sunday,0.0
+tutor,13.8,clear,night,tuesday,0.206
+ac repair,44.2,snow,evening,wednesday,0.783
+cleaner,2.7,snow,night,friday,0.0
+carpenter,11.6,fog,night,tuesday,0.063
+painter,0.8,fog,morning,sunday,0.599
+tutor,40.8,snow,afternoon,friday,0.267
+ac repair,11.0,thunderstorm,afternoon,tuesday,0.16
+tutor,-2.9,cloudy,morning,thursday,0.297
+roof repair,0.3,snow,afternoon,sunday,0.156
+plumber,-0.9,rain,night,sunday,0.104
+doctor,10.2,rain showers,morning,wednesday,0.227
+painter,31.9,thunderstorm,evening,wednesday,0.323
+mechanic,33.1,rain,morning,friday,0.181
+tutor,5.2,cloudy,morning,tuesday,0.305
+tutor,11.3,rain,night,sunday,0.223
+roof repair,7.7,rain,afternoon,friday,0.309
+doctor,40.5,snow,morning,friday,0.156
+plumber,42.5,snow,evening,thursday,0.23
+mechanic,6.1,rain,afternoon,tuesday,0.226
+ac repair,8.2,rain showers,night,wednesday,0.31
+painter,38.4,cloudy,afternoon,sunday,0.691
+roof repair,14.8,fog,afternoon,monday,0.232
+tutor,-1.1,snow,morning,wednesday,0.339
+tutor,-2.3,thunderstorm,morning,tuesday,0.277
+plumber,17.3,rain showers,morning,tuesday,0.117
+mechanic,25.0,thunderstorm,night,wednesday,0.271
+doctor,20.9,clear,evening,thursday,0.429
+roof repair,6.7,thunderstorm,morning,sunday,0.266
+carpenter,39.7,clear,evening,friday,0.342
+ac repair,36.1,clear,afternoon,thursday,0.727
+roof repair,17.4,rain showers,morning,wednesday,0.39
+plumber,27.2,rain showers,night,wednesday,0.311
+carpenter,18.2,snow,afternoon,sunday,0.736
+other,31.6,fog,evening,monday,0.349
+other,22.7,thunderstorm,afternoon,saturday,0.239
+painter,22.5,cloudy,afternoon,friday,0.324
+ac repair,15.0,clear,night,tuesday,0.176
+carpenter,5.1,snow,evening,sunday,0.391
+tutor,-1.3,fog,morning,saturday,0.343
+roof repair,41.1,rain,night,monday,0.33
+plumber,43.4,cloudy,evening,saturday,0.297
+roof repair,41.8,clear,afternoon,sunday,0.121
+other,-3.5,thunderstorm,morning,monday,0.397
+cleaner,39.7,clear,afternoon,saturday,0.659
+painter,-1.4,clear,morning,monday,0.242
+painter,35.8,snow,evening,monday,0.204
+plumber,21.9,rain,night,tuesday,0.255
+mechanic,39.6,snow,afternoon,friday,0.369
+cleaner,10.5,fog,evening,thursday,0.088
+plumber,12.2,rain,evening,thursday,0.154
+roof repair,19.9,fog,night,thursday,0.147
+carpenter,38.5,rain,morning,wednesday,0.252
+electrician,6.6,rain showers,evening,saturday,0.185
+ac repair,43.4,snow,night,sunday,0.623
+tutor,31.7,fog,night,saturday,0.087
+mechanic,5.9,fog,night,tuesday,0.387
+roof repair,13.6,rain,afternoon,monday,0.097
+cleaner,0.2,fog,evening,wednesday,0.124
+cleaner,19.6,thunderstorm,afternoon,monday,0.301
+other,30.9,thunderstorm,afternoon,saturday,0.121
+ac repair,1.6,rain,evening,thursday,0.067
+other,25.2,snow,evening,wednesday,0.383
+roof repair,1.0,cloudy,night,tuesday,0.25
+carpenter,33.0,cloudy,morning,wednesday,0.064
+plumber,-3.3,snow,evening,monday,0.327
+carpenter,-3.7,rain,night,tuesday,0.276
+cleaner,28.8,rain,morning,friday,0.365
+tutor,5.6,fog,night,thursday,0.0
+carpenter,-4.8,snow,afternoon,saturday,0.413
+mechanic,25.3,rain showers,morning,friday,0.36
+cleaner,40.2,rain showers,night,monday,0.181
+roof repair,28.4,rain,evening,thursday,0.264
+doctor,23.4,snow,night,wednesday,0.322
+carpenter,22.6,rain,evening,friday,0.243
+mechanic,-0.6,fog,morning,sunday,0.272
+electrician,12.3,fog,morning,sunday,0.242
+electrician,-2.6,clear,night,wednesday,0.469
+roof repair,6.4,rain,afternoon,sunday,0.357
+mechanic,27.2,fog,evening,wednesday,0.21
+roof repair,10.4,thunderstorm,afternoon,thursday,0.236
+carpenter,6.6,rain,morning,sunday,0.478
+carpenter,43.1,fog,morning,monday,0.209
+carpenter,15.4,cloudy,morning,tuesday,0.175
+plumber,31.8,fog,evening,tuesday,0.145
+mechanic,4.7,rain,morning,tuesday,0.374
+plumber,5.1,thunderstorm,night,thursday,0.198
+carpenter,3.7,snow,evening,sunday,0.541
+other,40.2,thunderstorm,evening,saturday,0.247
+other,6.4,rain,afternoon,monday,0.325
+cleaner,24.6,fog,morning,wednesday,0.35
+roof repair,22.9,snow,morning,friday,0.217
+plumber,25.2,rain showers,morning,tuesday,0.193
+carpenter,0.9,thunderstorm,morning,tuesday,0.345
+ac repair,27.4,clear,evening,tuesday,0.34
+plumber,33.7,fog,afternoon,sunday,0.17
+roof repair,17.9,fog,morning,thursday,0.367
+doctor,36.2,thunderstorm,morning,sunday,0.295
+plumber,0.1,thunderstorm,afternoon,friday,0.377
+cleaner,44.4,cloudy,night,thursday,0.191
+mechanic,6.4,rain showers,night,saturday,0.169
+doctor,2.1,snow,evening,thursday,0.454
+roof repair,25.8,fog,afternoon,monday,0.176
+cleaner,21.4,thunderstorm,night,wednesday,0.067
+roof repair,21.2,fog,morning,friday,0.339
+cleaner,26.4,snow,evening,saturday,0.23
+ac repair,33.7,thunderstorm,afternoon,wednesday,0.703
+doctor,43.1,snow,night,saturday,0.258
+ac repair,22.6,snow,night,thursday,0.105
+plumber,4.8,rain,night,wednesday,0.111
+ac repair,41.7,cloudy,afternoon,friday,0.457
+roof repair,30.0,rain showers,afternoon,saturday,0.356
+painter,40.5,snow,morning,thursday,0.338
+ac repair,30.7,rain showers,morning,sunday,0.681
+tutor,30.3,thunderstorm,evening,saturday,0.0
+doctor,-1.5,rain showers,evening,saturday,0.141
+painter,8.5,rain showers,night,monday,0.357
+cleaner,37.7,thunderstorm,evening,tuesday,0.189
+carpenter,-4.2,thunderstorm,morning,friday,0.374
+carpenter,40.8,cloudy,morning,friday,0.182
+mechanic,11.9,rain,afternoon,wednesday,0.162
+ac repair,43.9,cloudy,evening,monday,0.596
+electrician,21.2,rain,afternoon,thursday,0.365
+roof repair,-0.6,cloudy,afternoon,friday,0.366
+other,41.4,fog,evening,tuesday,0.244
+roof repair,0.7,snow,evening,sunday,0.337
+painter,8.8,rain,night,monday,0.238
+mechanic,38.2,cloudy,morning,tuesday,0.159
+plumber,7.6,clear,morning,sunday,0.397
+doctor,8.5,snow,afternoon,monday,0.364
+plumber,10.2,cloudy,afternoon,thursday,0.228
+doctor,38.3,fog,afternoon,saturday,0.141
+painter,0.3,snow,night,wednesday,0.394
+carpenter,16.2,cloudy,night,sunday,0.678
+painter,8.2,rain showers,evening,wednesday,0.185
+carpenter,41.8,rain,evening,thursday,0.324
+doctor,2.7,rain showers,night,saturday,0.333
+electrician,1.8,snow,evening,wednesday,0.291
+cleaner,2.0,thunderstorm,evening,sunday,0.305
+painter,28.6,cloudy,evening,sunday,0.412
+roof repair,23.3,clear,evening,friday,0.298
+cleaner,41.0,snow,morning,monday,0.254
+mechanic,12.4,snow,evening,sunday,0.39
+cleaner,22.3,rain,night,monday,0.0
+painter,37.5,thunderstorm,afternoon,friday,0.351
+tutor,43.3,rain,afternoon,friday,0.344
+plumber,17.8,rain,morning,sunday,0.365
+plumber,26.1,fog,evening,wednesday,0.378
+tutor,11.6,snow,evening,sunday,0.11
+plumber,-1.3,thunderstorm,morning,thursday,0.41
+plumber,20.3,thunderstorm,afternoon,saturday,0.093
+ac repair,23.5,snow,evening,thursday,0.368
+painter,36.3,fog,night,monday,0.149
+tutor,-2.6,cloudy,evening,tuesday,0.083
+plumber,15.4,snow,afternoon,wednesday,0.358
+mechanic,22.7,rain,evening,sunday,0.439
+plumber,-0.3,rain,afternoon,sunday,0.089
+roof repair,-3.6,thunderstorm,afternoon,saturday,0.303
+roof repair,33.0,thunderstorm,afternoon,thursday,0.284
+mechanic,-3.3,fog,evening,saturday,0.335
+tutor,14.8,snow,morning,monday,0.268
+carpenter,44.4,snow,afternoon,friday,0.334
+cleaner,43.2,snow,morning,thursday,0.256
+other,18.9,cloudy,afternoon,friday,0.165
+carpenter,41.7,cloudy,evening,tuesday,0.288
+doctor,1.5,thunderstorm,evening,thursday,0.35
+ac repair,34.0,rain,afternoon,sunday,0.764
+ac repair,37.3,fog,morning,tuesday,0.594
+roof repair,19.3,rain showers,afternoon,friday,0.344
+other,23.0,cloudy,evening,sunday,0.321
+doctor,30.2,rain,morning,friday,0.328
+plumber,-1.4,rain,night,monday,0.308
+other,20.7,rain showers,evening,saturday,0.354
+tutor,31.3,rain showers,evening,friday,0.0
+carpenter,24.9,rain showers,afternoon,monday,0.401
+carpenter,40.7,thunderstorm,afternoon,tuesday,0.282
+other,9.4,thunderstorm,night,friday,0.088
+other,41.3,rain showers,morning,tuesday,0.12
+other,44.9,rain,afternoon,thursday,0.172
+tutor,-3.4,snow,afternoon,friday,0.282
+other,-4.2,snow,morning,wednesday,0.114
+ac repair,26.8,thunderstorm,night,saturday,0.391
+ac repair,8.2,fog,morning,tuesday,0.218
+cleaner,-2.4,clear,evening,sunday,0.288
+doctor,4.2,snow,night,thursday,0.304
+plumber,31.0,snow,morning,thursday,0.169
+plumber,-0.7,cloudy,morning,thursday,0.267
+carpenter,21.3,clear,afternoon,sunday,0.479
+cleaner,21.3,clear,evening,wednesday,0.104
+electrician,26.1,thunderstorm,morning,tuesday,0.209
+carpenter,9.9,clear,evening,monday,0.184
+other,4.1,rain showers,night,wednesday,0.39
+carpenter,39.7,clear,morning,saturday,0.532
+ac repair,39.8,fog,afternoon,monday,0.686
+painter,-4.7,fog,night,wednesday,0.313
+tutor,31.9,cloudy,afternoon,saturday,0.201
+other,-1.0,rain,evening,monday,0.241
+roof repair,32.2,cloudy,afternoon,sunday,0.244
+plumber,42.4,cloudy,night,sunday,0.226
+doctor,18.2,snow,evening,monday,0.221
+mechanic,38.2,cloudy,night,monday,0.163
+cleaner,10.6,cloudy,evening,tuesday,0.005
+tutor,34.7,thunderstorm,morning,sunday,0.207
+tutor,41.8,clear,night,sunday,0.147
+carpenter,25.5,fog,night,wednesday,0.307
+plumber,31.0,fog,night,friday,0.152
+painter,41.0,rain,afternoon,tuesday,0.053
+painter,29.6,cloudy,evening,tuesday,0.091
+electrician,21.1,rain,evening,friday,0.158
+painter,20.5,cloudy,morning,thursday,0.224
+cleaner,16.7,clear,morning,friday,0.148
+other,14.1,clear,evening,sunday,0.3
+doctor,16.4,fog,morning,monday,0.147
+ac repair,10.0,thunderstorm,afternoon,tuesday,0.129
+ac repair,10.3,rain showers,evening,friday,0.169
+carpenter,13.8,thunderstorm,morning,monday,0.346
+other,5.5,thunderstorm,night,thursday,0.141
+ac repair,6.2,cloudy,afternoon,tuesday,0.307
+mechanic,-0.4,rain showers,evening,thursday,0.371
+electrician,14.1,cloudy,evening,friday,0.214
+ac repair,26.2,rain,morning,wednesday,0.224
+doctor,1.1,rain,evening,saturday,0.297
+mechanic,9.5,cloudy,afternoon,wednesday,0.332
+tutor,-4.3,thunderstorm,evening,thursday,0.0
+electrician,15.7,thunderstorm,evening,tuesday,0.302
+carpenter,36.1,rain showers,evening,monday,0.16
+roof repair,41.7,cloudy,night,sunday,0.235
+plumber,-4.0,rain,morning,friday,0.283
+tutor,42.4,rain,afternoon,tuesday,0.368
+carpenter,17.7,snow,morning,monday,0.352
+tutor,12.0,fog,evening,sunday,0.053
+plumber,19.6,fog,afternoon,thursday,0.406
+plumber,13.5,rain showers,morning,sunday,0.254
+mechanic,19.5,fog,afternoon,friday,0.05
+electrician,1.5,fog,evening,saturday,0.264
+ac repair,21.8,clear,afternoon,sunday,0.087
+carpenter,-3.1,snow,afternoon,thursday,0.161
+electrician,32.1,thunderstorm,afternoon,saturday,0.646
+other,9.6,thunderstorm,evening,thursday,0.248
+other,42.5,snow,evening,wednesday,0.278
+plumber,-3.4,clear,night,sunday,0.272
+cleaner,34.0,rain,evening,wednesday,0.0
+tutor,30.4,clear,night,sunday,0.183
+cleaner,13.8,thunderstorm,morning,friday,0.091
+carpenter,-2.8,clear,afternoon,monday,0.09
+carpenter,37.2,thunderstorm,afternoon,tuesday,0.179
+other,32.0,fog,evening,thursday,0.251
+ac repair,4.8,rain showers,morning,monday,0.198
+doctor,23.3,snow,night,wednesday,0.415
+other,8.1,thunderstorm,morning,tuesday,0.121
+other,12.3,snow,night,sunday,0.383
+mechanic,31.6,fog,night,friday,0.234
+mechanic,30.9,rain,night,thursday,0.345
+painter,5.0,fog,evening,sunday,0.612
+roof repair,-2.8,cloudy,afternoon,wednesday,0.372
+carpenter,-2.2,cloudy,night,saturday,0.646
+electrician,33.5,fog,afternoon,tuesday,0.604
+electrician,22.1,clear,night,tuesday,0.393
+electrician,2.5,rain,morning,tuesday,0.435
+mechanic,15.0,rain showers,night,monday,0.197
+other,10.0,thunderstorm,night,wednesday,0.259
+roof repair,8.3,snow,evening,friday,0.163
+carpenter,43.8,fog,night,sunday,0.416
+cleaner,40.9,fog,morning,wednesday,0.369
+painter,18.2,rain showers,afternoon,sunday,0.627
+roof repair,0.4,rain,evening,thursday,0.279
+other,40.1,snow,night,thursday,0.112
+cleaner,-4.7,cloudy,afternoon,thursday,0.364
+plumber,39.9,clear,evening,friday,0.213
+mechanic,35.7,rain,night,wednesday,0.296
+tutor,4.1,snow,morning,tuesday,0.088
+cleaner,-3.4,cloudy,afternoon,tuesday,0.096
+mechanic,17.2,snow,morning,monday,0.359
+mechanic,39.3,rain,night,saturday,0.091
+other,10.6,fog,night,thursday,0.144
+painter,14.1,fog,night,thursday,0.229
+plumber,20.7,fog,afternoon,monday,0.314
+ac repair,0.5,cloudy,morning,thursday,0.186
+mechanic,13.4,thunderstorm,night,monday,0.3
+mechanic,40.7,rain showers,afternoon,sunday,0.212
+painter,28.3,clear,morning,wednesday,0.136
+carpenter,5.8,fog,night,thursday,0.116
+tutor,-3.9,clear,morning,friday,0.296
+electrician,3.1,cloudy,night,sunday,0.161
+tutor,8.8,fog,morning,thursday,0.251
+doctor,27.7,thunderstorm,evening,thursday,0.16
+roof repair,10.0,rain,morning,friday,0.173
+roof repair,23.9,snow,morning,wednesday,0.176
+plumber,0.2,rain showers,evening,thursday,0.383
+ac repair,22.2,rain,morning,friday,0.403
+mechanic,13.3,rain,afternoon,monday,0.199
+plumber,12.0,fog,afternoon,sunday,0.275
+tutor,-0.2,cloudy,morning,friday,0.298
+other,-3.1,snow,afternoon,saturday,0.0
+ac repair,0.7,thunderstorm,night,friday,0.354
+carpenter,3.8,clear,afternoon,friday,0.342
+cleaner,20.5,snow,afternoon,sunday,0.496
+cleaner,41.2,snow,evening,tuesday,0.019
+doctor,-3.1,fog,afternoon,wednesday,0.392
+tutor,37.5,cloudy,morning,friday,0.249
+roof repair,20.1,rain,evening,thursday,0.273
+ac repair,-4.4,rain showers,night,thursday,0.26
+other,9.9,clear,morning,monday,0.12
+cleaner,13.8,thunderstorm,afternoon,thursday,0.109
+plumber,44.4,fog,evening,tuesday,0.181
+plumber,20.9,snow,night,monday,0.402
+mechanic,42.7,thunderstorm,afternoon,sunday,0.132
+carpenter,39.3,snow,morning,saturday,0.772
+other,43.3,fog,afternoon,thursday,0.284
+doctor,25.4,fog,night,saturday,0.189
+painter,-1.4,cloudy,night,wednesday,0.259
+painter,25.0,clear,morning,wednesday,0.239
+ac repair,3.8,thunderstorm,night,saturday,0.461
+plumber,36.4,thunderstorm,evening,wednesday,0.107
+electrician,21.8,rain,night,saturday,0.339
+plumber,13.3,cloudy,afternoon,tuesday,0.282
+electrician,6.0,cloudy,afternoon,thursday,0.276
+doctor,7.2,rain,evening,friday,0.181
+doctor,4.6,clear,night,tuesday,0.031
+cleaner,-0.4,rain showers,afternoon,tuesday,0.117
+mechanic,13.4,rain showers,evening,friday,0.083
+roof repair,44.5,rain,morning,sunday,0.227
+ac repair,5.0,rain showers,afternoon,friday,0.338
+mechanic,32.0,clear,evening,thursday,0.098
+cleaner,2.8,clear,evening,saturday,0.351
+ac repair,19.2,thunderstorm,afternoon,saturday,0.184
+cleaner,10.7,snow,morning,friday,0.343
+cleaner,4.2,rain,night,sunday,0.282
+carpenter,10.0,rain,afternoon,wednesday,0.154
+cleaner,5.9,cloudy,afternoon,saturday,0.583
+tutor,22.0,rain,morning,tuesday,0.336
+painter,40.2,thunderstorm,morning,sunday,0.509
+other,-0.1,cloudy,night,thursday,0.41
+painter,-0.8,thunderstorm,evening,friday,0.372
+mechanic,15.6,clear,afternoon,saturday,0.439
+electrician,21.5,snow,night,monday,0.144
+tutor,-2.2,rain,night,friday,0.0
+tutor,41.0,clear,afternoon,saturday,0.363
+carpenter,19.6,snow,afternoon,tuesday,0.246
+ac repair,13.2,thunderstorm,evening,friday,0.017
+electrician,10.5,cloudy,evening,wednesday,0.42
+roof repair,18.6,thunderstorm,morning,friday,0.243
+electrician,35.2,snow,night,sunday,0.642
+painter,40.2,snow,morning,monday,0.262
+mechanic,32.9,snow,evening,saturday,0.178
+ac repair,12.2,snow,night,wednesday,0.275
+mechanic,39.6,fog,morning,saturday,0.372
+ac repair,13.3,snow,evening,tuesday,0.1
+painter,39.6,rain showers,morning,tuesday,0.21
+carpenter,22.0,clear,morning,wednesday,0.232
+cleaner,20.0,cloudy,afternoon,tuesday,0.217
+plumber,-3.7,rain,night,monday,0.273
+carpenter,17.4,fog,morning,wednesday,0.282
+ac repair,20.5,rain showers,evening,thursday,0.278
+tutor,41.0,thunderstorm,morning,thursday,0.202
+mechanic,29.0,cloudy,evening,wednesday,0.155
+painter,39.7,snow,night,thursday,0.057
+electrician,28.3,clear,morning,sunday,0.294
+mechanic,5.1,rain,night,monday,0.343
+plumber,7.0,fog,evening,saturday,0.085
+ac repair,3.2,clear,evening,saturday,0.196
+cleaner,12.1,clear,night,friday,0.0
+plumber,-0.6,snow,evening,thursday,0.34
+other,22.3,fog,night,wednesday,0.416
+carpenter,3.8,cloudy,evening,thursday,0.251
+carpenter,35.3,fog,afternoon,wednesday,0.156
+doctor,11.3,rain,morning,sunday,0.282
+mechanic,29.6,rain,night,tuesday,0.175
+doctor,23.5,rain,night,thursday,0.357
+doctor,6.2,cloudy,afternoon,tuesday,0.369
+electrician,24.0,snow,morning,tuesday,0.281
+other,41.2,fog,morning,friday,0.197
+carpenter,22.3,fog,morning,monday,0.149
+other,39.1,fog,morning,saturday,0.114
+ac repair,36.4,thunderstorm,evening,saturday,0.633
+doctor,5.1,clear,afternoon,monday,0.352
+carpenter,32.5,rain showers,morning,tuesday,0.164
+ac repair,18.4,thunderstorm,morning,wednesday,0.339
+roof repair,36.9,rain showers,night,tuesday,0.393
+carpenter,7.4,fog,evening,monday,0.278
+ac repair,22.1,rain showers,evening,friday,0.338
+electrician,36.6,clear,evening,tuesday,0.663
+electrician,26.1,fog,night,thursday,0.113
+other,9.1,cloudy,afternoon,wednesday,0.395
+other,5.8,cloudy,evening,friday,0.349
+carpenter,7.3,clear,night,friday,0.423
+painter,44.8,snow,evening,thursday,0.295
+doctor,39.7,clear,night,sunday,0.264
+doctor,42.6,thunderstorm,afternoon,thursday,0.403
+plumber,26.6,cloudy,evening,friday,0.418
+other,22.8,rain,night,tuesday,0.122
+doctor,8.7,rain,afternoon,saturday,0.157
+cleaner,31.7,snow,morning,sunday,0.565
+plumber,33.0,thunderstorm,morning,friday,0.242
+mechanic,16.3,rain,night,thursday,0.176
+tutor,37.0,rain showers,afternoon,wednesday,0.14
+roof repair,10.2,fog,morning,wednesday,0.14
+electrician,16.3,rain showers,night,friday,0.341
+roof repair,2.5,cloudy,evening,sunday,0.174
+painter,35.1,clear,night,monday,0.101
+ac repair,29.9,thunderstorm,morning,sunday,0.462
+tutor,24.0,clear,evening,monday,0.0
+plumber,22.3,fog,morning,saturday,0.119
+carpenter,36.4,clear,morning,sunday,0.478
+doctor,39.4,clear,morning,monday,0.276
+doctor,39.5,fog,afternoon,sunday,0.362
+ac repair,0.1,thunderstorm,evening,friday,0.243
+roof repair,16.0,fog,night,wednesday,0.187
+ac repair,31.5,cloudy,evening,saturday,0.653
+plumber,41.0,snow,night,sunday,0.185
+plumber,0.2,thunderstorm,night,sunday,0.177
+mechanic,42.5,cloudy,morning,friday,0.13
+doctor,24.4,thunderstorm,night,saturday,0.263
+ac repair,20.5,clear,night,sunday,0.355
+electrician,27.5,cloudy,afternoon,friday,0.212
+cleaner,17.6,snow,afternoon,sunday,0.717
+doctor,-3.6,fog,afternoon,thursday,0.061
+cleaner,24.0,snow,night,thursday,0.111
+cleaner,29.9,rain showers,afternoon,monday,0.163
+tutor,25.5,snow,evening,friday,0.145
+carpenter,7.4,fog,morning,saturday,0.759
+tutor,8.2,thunderstorm,evening,monday,0.0
+painter,27.4,fog,afternoon,monday,0.16
+painter,0.2,thunderstorm,morning,thursday,0.266
+other,33.0,cloudy,night,thursday,0.12
+roof repair,24.8,fog,afternoon,thursday,0.148
+doctor,21.8,fog,morning,wednesday,0.275
+carpenter,13.0,snow,afternoon,monday,0.384
+carpenter,36.4,rain,morning,tuesday,0.307
+carpenter,-0.0,snow,afternoon,saturday,0.461
+ac repair,36.9,clear,night,tuesday,0.736
+doctor,15.0,thunderstorm,afternoon,saturday,0.023
+carpenter,20.4,rain showers,evening,thursday,0.322
+carpenter,2.3,thunderstorm,afternoon,sunday,0.625
+painter,43.7,rain showers,night,monday,0.384
+carpenter,28.3,clear,morning,sunday,0.652
+other,3.7,clear,afternoon,sunday,0.149
+cleaner,-0.6,cloudy,morning,friday,0.395
+doctor,1.7,rain showers,afternoon,thursday,0.365
+carpenter,20.9,clear,evening,saturday,0.684
+painter,32.6,clear,night,tuesday,0.162
+carpenter,28.1,snow,morning,saturday,0.448
+plumber,15.8,cloudy,night,monday,0.036
+other,31.7,thunderstorm,evening,sunday,0.247
+other,39.6,fog,morning,tuesday,0.013
+tutor,22.0,rain showers,night,friday,0.057
+carpenter,15.1,rain showers,evening,monday,0.28
+tutor,44.5,thunderstorm,afternoon,sunday,0.314
+plumber,24.2,rain showers,night,thursday,0.247
+painter,18.7,rain showers,afternoon,tuesday,0.29
+carpenter,18.9,thunderstorm,evening,sunday,0.506
+painter,14.4,fog,night,wednesday,0.234
+carpenter,21.7,thunderstorm,afternoon,wednesday,0.138
+electrician,44.9,fog,night,monday,0.738
+cleaner,13.5,clear,evening,wednesday,0.058
+electrician,13.6,rain,night,friday,0.235
+mechanic,-3.2,fog,evening,sunday,0.107
+mechanic,15.7,clear,evening,thursday,0.326
+ac repair,20.1,cloudy,evening,wednesday,0.36
+mechanic,32.1,rain,evening,thursday,0.131
+plumber,43.3,fog,afternoon,friday,0.302
+doctor,40.5,cloudy,afternoon,friday,0.136
+other,33.0,thunderstorm,night,monday,0.232
+other,12.0,thunderstorm,evening,monday,0.277
+carpenter,6.9,rain,night,friday,0.149
+carpenter,-2.6,thunderstorm,evening,saturday,0.589
+plumber,35.8,clear,morning,friday,0.345
+carpenter,6.9,fog,night,monday,0.31
+cleaner,24.6,rain,evening,saturday,0.399
+carpenter,21.3,clear,evening,monday,0.238
+plumber,28.3,clear,morning,tuesday,0.276
+doctor,34.7,snow,afternoon,saturday,0.094
+painter,39.3,snow,afternoon,saturday,0.393
+carpenter,1.1,snow,morning,monday,0.238
+plumber,28.2,rain,night,saturday,0.322
+carpenter,18.2,snow,night,thursday,0.394
+painter,43.8,clear,night,tuesday,0.19
+ac repair,-0.7,fog,evening,sunday,0.354
+tutor,37.9,fog,evening,sunday,0.008
+plumber,36.9,rain showers,morning,wednesday,0.306
+other,31.2,clear,afternoon,tuesday,0.146
+plumber,37.0,fog,afternoon,friday,0.2
+carpenter,11.9,thunderstorm,night,monday,0.073
+plumber,18.4,rain,night,friday,0.133
+other,21.3,rain showers,morning,thursday,0.285
+painter,1.0,rain showers,morning,tuesday,0.177
+plumber,1.6,fog,evening,thursday,0.217
+carpenter,40.8,snow,night,wednesday,0.116
+ac repair,44.4,rain,night,tuesday,0.661
+roof repair,11.4,cloudy,afternoon,sunday,0.399
+roof repair,2.8,clear,morning,wednesday,0.247
+other,-1.5,cloudy,night,monday,0.33
+tutor,11.3,cloudy,night,thursday,0.082
+painter,28.0,fog,afternoon,sunday,0.505
+electrician,12.8,thunderstorm,night,sunday,0.127
+carpenter,34.6,thunderstorm,evening,tuesday,0.263
+roof repair,32.1,rain showers,night,thursday,0.315
+mechanic,11.1,snow,morning,friday,0.14
+ac repair,32.2,thunderstorm,afternoon,monday,0.564
+other,26.1,clear,afternoon,sunday,0.094
+doctor,-3.1,clear,morning,sunday,0.377
+electrician,10.6,thunderstorm,night,sunday,0.189
+tutor,0.5,snow,evening,saturday,0.0
+doctor,42.3,rain,afternoon,friday,0.169
+other,-3.8,clear,night,tuesday,0.33
+other,20.2,cloudy,evening,monday,0.173
+electrician,27.3,rain,morning,thursday,0.148
+roof repair,9.2,snow,evening,thursday,0.201
+plumber,20.5,rain showers,night,friday,0.226
+cleaner,17.9,thunderstorm,night,wednesday,0.099
+doctor,42.5,fog,afternoon,thursday,0.424
+ac repair,26.0,fog,evening,saturday,0.224
+painter,27.5,clear,night,sunday,0.512
+plumber,35.7,snow,afternoon,monday,0.324
+other,42.7,clear,night,thursday,0.074
+painter,17.4,rain showers,evening,sunday,0.513
+other,3.6,rain showers,night,saturday,0.46
+ac repair,44.2,rain,evening,tuesday,0.666
+plumber,6.0,snow,evening,wednesday,0.2
+electrician,24.0,rain showers,afternoon,saturday,0.209
+tutor,13.9,clear,morning,monday,0.348
+doctor,-3.2,clear,morning,sunday,0.112
+ac repair,-4.0,cloudy,morning,thursday,0.247
+plumber,14.8,cloudy,morning,monday,0.324
+roof repair,12.0,rain showers,morning,monday,0.328
+tutor,23.6,clear,evening,wednesday,0.0
+tutor,6.8,clear,evening,thursday,0.056
+carpenter,5.3,thunderstorm,evening,thursday,0.412
+ac repair,22.2,rain showers,morning,tuesday,0.338
+painter,12.0,thunderstorm,afternoon,sunday,0.6
+carpenter,16.4,snow,evening,monday,0.284
+painter,31.3,snow,night,wednesday,0.115
+electrician,7.5,cloudy,night,friday,0.389
+plumber,-1.5,rain,morning,tuesday,0.246
+other,37.2,rain showers,night,saturday,0.373
+painter,44.0,cloudy,night,friday,0.086
+electrician,35.3,clear,evening,sunday,0.682
+mechanic,27.4,clear,morning,monday,0.404
+electrician,25.3,snow,evening,thursday,0.234
+tutor,43.1,snow,morning,saturday,0.351
+roof repair,12.8,thunderstorm,morning,wednesday,0.403
+plumber,23.3,fog,afternoon,monday,0.105
+plumber,17.5,fog,afternoon,sunday,0.297
+carpenter,31.2,fog,night,tuesday,0.342
+tutor,13.2,rain,afternoon,friday,0.152
+ac repair,27.7,thunderstorm,night,monday,0.221
+ac repair,35.9,thunderstorm,morning,tuesday,0.803
+mechanic,43.1,fog,afternoon,thursday,0.059
+tutor,16.9,clear,evening,wednesday,0.091
+painter,21.0,rain showers,night,sunday,0.57
+plumber,44.0,clear,night,tuesday,0.257
+mechanic,28.7,cloudy,night,saturday,0.255
+other,24.2,snow,night,tuesday,0.291
+painter,22.2,rain showers,night,saturday,0.626
+tutor,4.8,clear,night,sunday,0.101
+ac repair,20.0,rain showers,evening,monday,0.327
+doctor,35.2,thunderstorm,night,monday,0.121
+mechanic,15.7,clear,evening,saturday,0.055
+plumber,13.5,thunderstorm,evening,thursday,0.084
+electrician,29.2,fog,evening,monday,0.207
+cleaner,27.4,rain,night,tuesday,0.195
+other,43.8,rain,evening,tuesday,0.122
+painter,27.7,snow,evening,sunday,0.631
+other,22.9,snow,morning,thursday,0.095
+painter,11.8,thunderstorm,night,saturday,0.558
+tutor,32.3,clear,afternoon,thursday,0.143
+other,36.5,fog,evening,monday,0.196
+roof repair,10.2,thunderstorm,morning,thursday,0.242
+ac repair,40.6,rain,night,tuesday,0.598
+roof repair,28.2,thunderstorm,evening,tuesday,0.321
+ac repair,17.9,cloudy,evening,thursday,0.038
+electrician,2.6,thunderstorm,afternoon,wednesday,0.314
+mechanic,24.3,rain showers,evening,friday,0.252
+ac repair,34.5,snow,evening,thursday,0.725
+roof repair,32.8,fog,morning,saturday,0.241
+carpenter,7.2,fog,morning,tuesday,0.214
+plumber,32.9,fog,morning,monday,0.354
+painter,14.3,clear,morning,saturday,0.718
+doctor,13.3,thunderstorm,afternoon,sunday,0.239
+tutor,12.5,clear,afternoon,saturday,0.093
+painter,8.2,cloudy,afternoon,saturday,0.595
+painter,6.8,fog,afternoon,wednesday,0.217
+tutor,1.2,snow,morning,friday,0.262
+plumber,24.2,rain showers,morning,friday,0.407
+tutor,8.2,clear,evening,thursday,0.0
+doctor,42.8,fog,morning,monday,0.26
+painter,18.4,rain,night,saturday,0.651
+mechanic,28.8,thunderstorm,night,sunday,0.134
+electrician,34.1,rain,night,monday,0.502
+mechanic,30.4,rain,night,wednesday,0.374
+tutor,13.5,rain showers,afternoon,tuesday,0.218
+painter,26.0,fog,afternoon,monday,0.175
+doctor,7.7,cloudy,night,sunday,0.192
+ac repair,26.6,thunderstorm,afternoon,saturday,0.265
+electrician,-4.7,thunderstorm,morning,saturday,0.377
+carpenter,25.4,rain,night,sunday,0.546
+other,9.8,snow,evening,tuesday,0.365
+cleaner,18.0,snow,afternoon,wednesday,0.16
+other,27.7,rain showers,morning,friday,0.195
+electrician,3.8,thunderstorm,morning,saturday,0.238
+tutor,-0.7,rain showers,evening,friday,0.177
+tutor,5.2,fog,evening,saturday,0.001
+mechanic,3.0,thunderstorm,afternoon,monday,0.155
+mechanic,7.1,rain,evening,friday,0.301
+painter,37.2,snow,morning,saturday,0.658
+mechanic,34.6,rain showers,afternoon,sunday,0.352
+tutor,6.8,snow,afternoon,monday,0.18
+electrician,4.7,thunderstorm,evening,thursday,0.383
+electrician,-1.8,thunderstorm,evening,sunday,0.343
+roof repair,16.2,clear,afternoon,saturday,0.388
+tutor,42.8,rain showers,night,monday,0.203
+carpenter,44.5,clear,night,thursday,0.086
+ac repair,12.5,clear,night,sunday,0.196
+electrician,43.1,snow,afternoon,tuesday,0.655
+cleaner,9.7,rain showers,evening,friday,0.0
+painter,32.5,snow,evening,thursday,0.185
+tutor,5.6,rain,night,thursday,0.044
+painter,31.8,rain showers,night,friday,0.42
+ac repair,6.0,thunderstorm,evening,thursday,0.262
+electrician,0.1,clear,morning,friday,0.259
+electrician,2.3,fog,morning,thursday,0.367
+mechanic,13.3,rain showers,night,wednesday,0.349
+tutor,31.7,fog,afternoon,monday,0.049
+plumber,42.1,thunderstorm,evening,monday,0.246
+roof repair,27.7,fog,morning,saturday,0.399
+cleaner,27.5,clear,evening,friday,0.038
+tutor,3.7,fog,night,sunday,0.114
+roof repair,42.5,fog,morning,thursday,0.128
+plumber,4.0,snow,morning,thursday,0.08
+doctor,8.5,thunderstorm,night,monday,0.227
+roof repair,15.8,rain,morning,thursday,0.083
+roof repair,44.2,clear,afternoon,thursday,0.165
+electrician,0.9,fog,night,monday,0.38
+other,6.1,rain,night,tuesday,0.235
+ac repair,32.7,rain,afternoon,wednesday,0.672
+painter,29.2,snow,afternoon,wednesday,0.193
+plumber,9.2,rain showers,morning,thursday,0.249
+painter,37.3,fog,afternoon,monday,0.182
+mechanic,24.7,fog,night,monday,0.137
+painter,44.1,fog,afternoon,tuesday,0.239
+painter,5.4,cloudy,afternoon,sunday,0.396
+electrician,39.2,clear,night,tuesday,0.674
+doctor,16.5,cloudy,night,thursday,0.441
+electrician,7.1,thunderstorm,morning,saturday,0.107
+tutor,9.4,clear,evening,wednesday,0.089
+plumber,8.1,rain showers,morning,saturday,0.284
+electrician,39.2,cloudy,evening,wednesday,0.83
+roof repair,37.4,cloudy,night,thursday,0.351
+mechanic,26.2,snow,evening,wednesday,0.354
+painter,16.3,fog,morning,sunday,0.437
+mechanic,10.1,rain showers,evening,sunday,0.242
+painter,28.5,fog,evening,thursday,0.35
+painter,19.8,cloudy,morning,wednesday,0.006
+painter,40.5,rain,morning,tuesday,0.385
+painter,30.5,fog,morning,tuesday,0.177
+carpenter,40.4,rain,night,thursday,0.074
+tutor,39.6,thunderstorm,evening,sunday,0.117
+painter,15.2,rain showers,morning,saturday,0.599
+roof repair,2.5,rain,night,sunday,0.185
+ac repair,1.3,fog,night,saturday,0.378
+tutor,-4.3,thunderstorm,morning,thursday,0.098
+roof repair,35.1,cloudy,morning,friday,0.406
+cleaner,16.0,rain showers,night,tuesday,0.0
+mechanic,21.3,clear,night,saturday,0.193
+ac repair,-2.6,fog,morning,tuesday,0.232
+painter,40.6,clear,afternoon,sunday,0.632
+other,42.6,rain,afternoon,tuesday,0.284
+doctor,44.5,snow,night,saturday,0.156
+ac repair,36.0,fog,morning,sunday,0.578
+ac repair,38.4,rain,afternoon,friday,0.674
+painter,40.6,rain,night,sunday,0.744
+doctor,42.0,clear,night,tuesday,0.543
+painter,9.2,fog,afternoon,tuesday,0.14
+electrician,33.5,rain,evening,tuesday,0.661
+electrician,41.5,snow,evening,friday,0.703
+painter,28.5,snow,evening,sunday,0.396
+mechanic,38.1,cloudy,night,monday,0.285
+cleaner,-4.6,clear,morning,thursday,0.388
+ac repair,7.6,clear,night,saturday,0.196
+electrician,39.4,rain,evening,saturday,0.706
+electrician,41.6,snow,morning,thursday,0.688
+electrician,32.9,clear,afternoon,sunday,0.59
+painter,27.1,cloudy,evening,saturday,0.676
+carpenter,6.8,clear,night,sunday,0.519
+mechanic,26.7,clear,evening,sunday,0.211
+electrician,37.8,clear,morning,sunday,0.534
+carpenter,20.0,fog,night,thursday,0.236
+ac repair,39.6,thunderstorm,afternoon,saturday,0.54
+roof repair,12.8,thunderstorm,evening,thursday,0.38
+plumber,9.4,rain showers,afternoon,monday,0.279
+ac repair,0.7,fog,evening,sunday,0.315
+ac repair,34.4,rain,morning,tuesday,0.61
+electrician,31.6,rain,morning,saturday,0.621
+other,22.3,cloudy,morning,thursday,0.181
+cleaner,40.9,rain,night,saturday,0.325
+carpenter,33.2,snow,afternoon,thursday,0.008
+mechanic,0.5,snow,night,monday,0.155
+tutor,29.2,snow,afternoon,sunday,0.317
+painter,9.1,cloudy,morning,friday,0.28
+roof repair,34.6,clear,morning,thursday,0.157
+doctor,17.7,clear,night,thursday,0.099
+painter,7.1,fog,night,tuesday,0.187
+carpenter,31.4,rain,afternoon,saturday,0.385
+ac repair,31.9,thunderstorm,afternoon,monday,0.586
+cleaner,4.1,snow,afternoon,monday,0.319
+other,34.5,fog,morning,tuesday,0.237
+mechanic,7.0,rain showers,night,thursday,0.33
+roof repair,29.5,thunderstorm,morning,monday,0.14
+roof repair,35.9,cloudy,night,thursday,0.195
+carpenter,21.1,fog,morning,wednesday,0.322
+mechanic,42.4,snow,evening,thursday,0.172
+plumber,19.7,snow,night,friday,0.373
+roof repair,28.2,rain,afternoon,monday,0.229
+carpenter,18.5,snow,evening,tuesday,0.322
+cleaner,16.6,cloudy,evening,thursday,0.0
+mechanic,39.3,cloudy,afternoon,wednesday,0.13
+ac repair,1.2,rain showers,evening,tuesday,0.446
+carpenter,11.1,snow,evening,wednesday,0.35
+mechanic,32.7,clear,evening,friday,0.209
+plumber,14.5,rain showers,evening,sunday,0.335
+doctor,36.9,cloudy,night,monday,0.309
+plumber,15.8,fog,afternoon,thursday,0.234
+tutor,10.0,thunderstorm,evening,sunday,0.187
+other,10.3,snow,night,monday,0.276
+cleaner,8.2,fog,morning,wednesday,0.187
+doctor,-2.4,rain showers,afternoon,thursday,0.26
+tutor,36.6,cloudy,afternoon,monday,0.376
+painter,43.6,thunderstorm,morning,thursday,0.258
+electrician,32.6,clear,night,monday,0.658
+other,34.5,thunderstorm,afternoon,friday,0.208
+cleaner,3.2,thunderstorm,morning,wednesday,0.341
+plumber,29.0,fog,morning,sunday,0.418
+plumber,21.7,snow,afternoon,tuesday,0.11
+doctor,30.6,thunderstorm,afternoon,friday,0.316
+tutor,34.5,clear,morning,sunday,0.287
+cleaner,20.8,fog,afternoon,tuesday,0.276
+plumber,38.6,rain,night,sunday,0.117
+carpenter,7.9,clear,evening,sunday,0.575
+painter,43.4,clear,evening,friday,0.234
+tutor,-3.5,rain showers,afternoon,sunday,0.223
+mechanic,41.2,rain showers,night,friday,0.273
+electrician,20.4,thunderstorm,afternoon,sunday,0.284
+ac repair,7.2,fog,afternoon,tuesday,0.363
+tutor,29.9,snow,night,monday,0.045
+tutor,11.9,fog,night,thursday,0.0
+ac repair,34.0,rain showers,night,saturday,0.666
+ac repair,32.8,clear,morning,friday,0.557
+plumber,26.8,cloudy,evening,friday,0.432
+roof repair,-4.1,clear,afternoon,saturday,0.22
+plumber,9.2,cloudy,evening,thursday,0.168
+plumber,-2.6,clear,evening,friday,0.303
+ac repair,5.0,cloudy,evening,saturday,0.26
+painter,44.9,thunderstorm,morning,friday,0.229
+other,33.1,snow,morning,friday,0.304
+electrician,38.6,cloudy,morning,monday,0.52
+electrician,2.8,cloudy,evening,tuesday,0.084
+other,42.6,cloudy,afternoon,monday,0.33
+other,26.0,snow,night,monday,0.174
+roof repair,23.2,fog,afternoon,wednesday,0.298
+other,35.0,snow,morning,friday,0.225
+ac repair,43.3,cloudy,night,friday,0.7
+doctor,7.0,fog,evening,friday,0.134
+cleaner,35.4,rain showers,evening,saturday,0.199
+carpenter,11.0,rain showers,evening,sunday,0.48
+plumber,28.9,rain,morning,sunday,0.389
+tutor,28.4,rain,night,sunday,0.0
+painter,31.0,fog,night,tuesday,0.338
+painter,32.1,snow,morning,wednesday,0.243
+tutor,17.2,rain showers,evening,sunday,0.054
+electrician,33.0,snow,evening,monday,0.655
+carpenter,7.9,snow,afternoon,wednesday,0.194
+doctor,32.5,rain showers,morning,thursday,0.239
+mechanic,1.7,rain showers,afternoon,wednesday,0.19
+carpenter,39.5,rain showers,afternoon,wednesday,0.264
+plumber,-2.9,clear,afternoon,saturday,0.248
+doctor,3.4,clear,afternoon,friday,0.169
+plumber,32.5,thunderstorm,evening,saturday,0.246
+mechanic,42.5,rain showers,morning,monday,0.404
+ac repair,43.0,snow,morning,sunday,0.458
+doctor,23.0,cloudy,afternoon,wednesday,0.241
+other,38.6,cloudy,evening,sunday,0.294
+doctor,35.5,cloudy,evening,friday,0.34
+carpenter,18.6,cloudy,afternoon,sunday,0.519
+cleaner,7.2,snow,night,wednesday,0.012
+cleaner,-3.7,fog,evening,wednesday,0.0
+roof repair,10.0,rain,afternoon,monday,0.104
+tutor,32.6,rain,night,sunday,0.023
+cleaner,-4.0,cloudy,morning,saturday,0.627
+doctor,22.4,rain,afternoon,friday,0.362
+cleaner,43.3,thunderstorm,afternoon,friday,0.112
+electrician,12.2,cloudy,night,saturday,0.25
+ac repair,14.4,rain,evening,saturday,0.223
+electrician,24.5,cloudy,morning,saturday,0.29
+other,27.6,rain,night,thursday,0.061
+plumber,40.0,fog,morning,tuesday,0.111
+cleaner,-0.0,cloudy,afternoon,sunday,0.68
+electrician,30.7,cloudy,afternoon,monday,0.738
+other,40.9,clear,afternoon,tuesday,0.206
+electrician,35.4,cloudy,night,sunday,0.578
+electrician,8.9,rain showers,morning,thursday,0.137
+ac repair,8.1,thunderstorm,night,wednesday,0.289
+mechanic,-3.1,rain showers,morning,tuesday,0.309
+painter,36.3,cloudy,evening,sunday,0.532
+cleaner,0.2,rain showers,afternoon,thursday,0.195
+electrician,5.6,snow,night,thursday,0.189
+tutor,-3.4,clear,evening,friday,0.133
+other,-3.0,rain showers,night,wednesday,0.3
+plumber,0.6,rain showers,morning,sunday,0.202
+other,18.9,rain showers,night,friday,0.204
+tutor,-0.7,fog,morning,wednesday,0.203
+carpenter,33.1,cloudy,morning,tuesday,0.232
+ac repair,26.9,snow,morning,monday,0.227
+electrician,41.2,rain,afternoon,sunday,0.611
+roof repair,12.4,cloudy,morning,saturday,0.249
+roof repair,39.1,thunderstorm,night,saturday,0.13
+cleaner,13.8,snow,night,thursday,0.0
+cleaner,6.2,fog,evening,wednesday,0.003
+tutor,-4.4,snow,morning,thursday,0.147
+tutor,28.2,rain showers,afternoon,wednesday,0.326
+cleaner,19.2,clear,morning,thursday,0.104
+ac repair,34.9,thunderstorm,morning,wednesday,0.698
+roof repair,42.2,cloudy,evening,thursday,0.36
+other,10.8,snow,night,thursday,0.082
+tutor,5.3,fog,evening,sunday,0.112
+ac repair,-2.5,cloudy,morning,sunday,0.146
+cleaner,20.5,clear,evening,sunday,0.268
+other,4.7,thunderstorm,evening,thursday,0.166
+cleaner,33.2,cloudy,afternoon,saturday,0.603
+tutor,7.3,thunderstorm,evening,wednesday,0.057
+ac repair,17.4,clear,evening,monday,0.207
+electrician,28.9,thunderstorm,night,friday,0.356
+roof repair,-0.9,cloudy,afternoon,tuesday,0.164
+ac repair,37.4,fog,morning,saturday,0.559
+cleaner,28.3,fog,morning,wednesday,0.224
+tutor,41.6,cloudy,afternoon,monday,0.347
+mechanic,6.7,fog,night,saturday,0.265
+tutor,26.4,fog,evening,saturday,0.0
+mechanic,8.3,clear,evening,friday,0.41
+painter,33.8,rain,morning,friday,0.333
+ac repair,43.5,cloudy,night,thursday,0.553
+mechanic,8.5,clear,afternoon,saturday,0.209
+tutor,23.4,cloudy,evening,wednesday,0.0
+ac repair,41.6,thunderstorm,afternoon,wednesday,0.634
+cleaner,43.3,fog,morning,thursday,0.257
+cleaner,34.0,rain,morning,tuesday,0.234
+mechanic,24.4,cloudy,afternoon,friday,0.23
+plumber,12.9,thunderstorm,afternoon,friday,0.347
+electrician,8.1,cloudy,afternoon,saturday,0.187
+electrician,15.4,snow,afternoon,thursday,0.402
+plumber,21.5,rain,morning,tuesday,0.219
+plumber,32.5,rain,evening,saturday,0.142
+electrician,22.2,cloudy,afternoon,friday,0.21
+doctor,32.1,rain showers,night,wednesday,0.135
+cleaner,33.1,clear,afternoon,friday,0.313
+doctor,19.4,fog,afternoon,thursday,0.099
+painter,39.5,thunderstorm,evening,friday,0.139
+roof repair,2.3,cloudy,evening,sunday,0.241
+ac repair,36.7,thunderstorm,morning,thursday,0.661
+cleaner,26.9,clear,afternoon,saturday,0.453
+plumber,25.7,cloudy,evening,saturday,0.033
+ac repair,36.3,snow,morning,monday,0.683
+doctor,38.9,rain showers,morning,wednesday,0.244
+mechanic,17.1,rain showers,night,saturday,0.365
+mechanic,5.8,rain,morning,saturday,0.26
+electrician,15.2,rain showers,evening,saturday,0.161
+cleaner,13.6,fog,night,monday,0.0
+tutor,-4.5,rain,evening,wednesday,0.094
+electrician,37.6,fog,night,wednesday,0.63
+roof repair,21.6,cloudy,evening,saturday,0.203
+painter,21.6,rain,night,friday,0.338
+tutor,16.3,cloudy,night,sunday,0.0
+painter,-2.7,cloudy,night,thursday,0.203
+painter,-0.1,clear,afternoon,friday,0.215
+other,35.8,rain showers,afternoon,saturday,0.17
+mechanic,14.6,clear,morning,sunday,0.304
+mechanic,36.8,clear,morning,tuesday,0.228
+other,2.8,thunderstorm,morning,saturday,0.455
+carpenter,5.4,cloudy,morning,tuesday,0.172
+carpenter,33.1,cloudy,morning,thursday,0.232
+carpenter,28.9,fog,night,tuesday,0.167
+carpenter,19.5,thunderstorm,afternoon,thursday,0.202
+plumber,29.2,snow,afternoon,wednesday,0.09
+ac repair,14.4,rain,evening,thursday,0.246
+painter,20.8,snow,afternoon,sunday,0.571
+ac repair,17.3,clear,morning,monday,0.191
+ac repair,-1.1,snow,morning,thursday,0.378
+carpenter,16.8,snow,afternoon,wednesday,0.04
+carpenter,16.5,rain,evening,friday,0.324
+cleaner,1.2,rain showers,evening,sunday,0.327
+carpenter,-2.6,rain showers,afternoon,friday,0.359
+painter,11.4,clear,afternoon,friday,0.307
+mechanic,36.3,fog,evening,thursday,0.276
+painter,35.6,fog,night,sunday,0.651
+cleaner,-2.7,snow,afternoon,tuesday,0.312
+doctor,14.2,rain,night,wednesday,0.251
+ac repair,6.1,clear,morning,tuesday,0.315
+carpenter,2.1,rain showers,afternoon,monday,0.345
+doctor,-3.0,cloudy,night,monday,0.178
+electrician,7.7,cloudy,afternoon,sunday,0.388
+doctor,32.0,cloudy,evening,thursday,0.401
+painter,11.4,snow,evening,friday,0.161
+mechanic,12.8,fog,morning,friday,0.363
+mechanic,3.3,fog,night,tuesday,0.421
+mechanic,-3.9,clear,morning,saturday,0.161
+ac repair,13.6,rain,afternoon,wednesday,0.287
+electrician,40.2,snow,morning,tuesday,0.666
+cleaner,41.5,cloudy,night,tuesday,0.0
+doctor,15.4,clear,morning,wednesday,0.239
+electrician,17.2,clear,night,friday,0.411
+mechanic,2.7,cloudy,evening,saturday,0.294
+doctor,36.7,cloudy,morning,friday,0.416
+plumber,44.9,rain showers,morning,thursday,0.143
+electrician,23.3,rain showers,evening,thursday,0.172
+other,23.9,rain showers,morning,wednesday,0.448
+roof repair,37.8,snow,night,friday,0.076
+ac repair,-0.3,rain showers,afternoon,thursday,0.299
+other,35.4,rain showers,morning,friday,0.316
+mechanic,2.5,cloudy,night,tuesday,0.097
+electrician,10.8,snow,night,monday,0.405
+carpenter,23.4,cloudy,night,thursday,0.451
+painter,18.4,rain showers,morning,monday,0.233
+cleaner,30.9,cloudy,morning,monday,0.268
+carpenter,43.0,fog,evening,friday,0.243
+mechanic,33.5,rain,afternoon,tuesday,0.127
+mechanic,26.1,thunderstorm,night,thursday,0.198
+roof repair,43.5,clear,evening,monday,0.364
+electrician,24.6,rain showers,evening,monday,0.252
+carpenter,4.9,fog,morning,friday,0.291
+tutor,23.9,cloudy,evening,monday,0.0
+plumber,28.4,thunderstorm,afternoon,sunday,0.353
+plumber,41.7,rain showers,night,thursday,0.265
+painter,6.7,clear,afternoon,wednesday,0.244
+carpenter,42.2,snow,afternoon,tuesday,0.165
+roof repair,-0.3,rain,evening,thursday,0.21
+mechanic,0.8,fog,evening,tuesday,0.178
+mechanic,4.4,fog,evening,wednesday,0.395
+other,-1.7,fog,night,monday,0.234
+painter,12.4,snow,morning,friday,0.225
+cleaner,22.3,cloudy,afternoon,saturday,0.699
+ac repair,3.3,thunderstorm,night,saturday,0.197
+painter,39.2,snow,evening,tuesday,0.174
+cleaner,4.8,snow,night,thursday,0.126
+painter,39.5,clear,night,saturday,0.691
+other,23.2,rain,afternoon,monday,0.198
+roof repair,12.3,clear,afternoon,thursday,0.291
+roof repair,31.6,cloudy,night,wednesday,0.152
+painter,33.6,cloudy,afternoon,friday,0.17
+carpenter,16.0,thunderstorm,night,saturday,0.666
+mechanic,13.6,snow,night,tuesday,0.158
+mechanic,32.0,thunderstorm,night,thursday,0.075
+tutor,11.4,snow,night,tuesday,0.153
+ac repair,4.8,thunderstorm,evening,saturday,0.223
+painter,12.9,rain showers,evening,friday,0.24
+ac repair,-1.6,clear,afternoon,tuesday,0.205
+cleaner,21.2,snow,night,wednesday,0.0
+cleaner,34.5,rain showers,morning,sunday,0.656
+carpenter,21.8,thunderstorm,night,thursday,0.15
+other,25.4,fog,afternoon,wednesday,0.188
+plumber,-0.2,rain showers,evening,wednesday,0.305
+tutor,28.6,cloudy,morning,saturday,0.195
+roof repair,35.7,rain,night,saturday,0.076
+ac repair,25.8,thunderstorm,morning,saturday,0.252
+roof repair,24.1,snow,afternoon,monday,0.166
+mechanic,32.5,fog,evening,saturday,0.127
+other,2.0,cloudy,morning,tuesday,0.21
+cleaner,-3.7,thunderstorm,evening,monday,0.0
+other,30.2,fog,morning,wednesday,0.339
+mechanic,14.3,fog,night,tuesday,0.291
+roof repair,20.6,thunderstorm,night,sunday,0.142
+doctor,38.8,thunderstorm,morning,tuesday,0.186
+doctor,-0.2,rain showers,evening,sunday,0.092
+other,-4.8,fog,morning,saturday,0.112
+plumber,43.9,cloudy,morning,sunday,0.196
+carpenter,14.6,fog,evening,friday,0.121
+roof repair,36.3,clear,morning,saturday,0.347
+tutor,0.8,cloudy,afternoon,friday,0.396
+tutor,24.8,clear,evening,monday,0.086
+other,21.3,rain showers,morning,tuesday,0.158
+painter,12.0,snow,night,tuesday,0.126
+roof repair,8.5,clear,afternoon,tuesday,0.337
+tutor,10.2,cloudy,night,sunday,0.019
+doctor,42.5,cloudy,afternoon,wednesday,0.191
+carpenter,-1.0,clear,morning,friday,0.197
+roof repair,17.8,rain showers,night,tuesday,0.231
+painter,34.6,thunderstorm,morning,wednesday,0.349
+tutor,41.6,fog,morning,friday,0.375
+mechanic,43.3,snow,afternoon,monday,0.16
+mechanic,12.2,rain,evening,wednesday,0.216
+painter,24.2,snow,morning,thursday,0.193
+other,-4.7,snow,evening,saturday,0.17
+carpenter,16.9,fog,evening,sunday,0.602
+carpenter,5.1,cloudy,night,sunday,0.539
+other,29.7,thunderstorm,afternoon,sunday,0.217
+plumber,13.5,rain showers,evening,sunday,0.236
+doctor,33.7,cloudy,night,wednesday,0.219
+painter,13.5,clear,evening,sunday,0.596
+mechanic,1.6,clear,night,thursday,0.375
+ac repair,30.1,rain,night,tuesday,0.676
+doctor,24.6,snow,afternoon,wednesday,0.406
+ac repair,37.8,fog,afternoon,monday,0.736
+electrician,10.7,cloudy,evening,sunday,0.322
+tutor,37.3,cloudy,afternoon,saturday,0.324
+painter,-4.4,fog,night,thursday,0.281
+other,27.7,snow,morning,sunday,0.355
+painter,16.6,thunderstorm,evening,tuesday,0.23
+plumber,37.5,rain,evening,saturday,0.375
+cleaner,38.1,snow,night,saturday,0.244
+painter,7.7,fog,evening,tuesday,0.157
+tutor,23.5,snow,night,sunday,0.114
+carpenter,39.8,rain,night,sunday,0.628
+cleaner,42.3,clear,afternoon,thursday,0.402
+painter,18.6,fog,evening,friday,0.173
+plumber,20.6,snow,evening,wednesday,0.21
+painter,43.9,cloudy,night,saturday,0.624
+doctor,20.4,rain showers,morning,saturday,0.14
+ac repair,-4.5,clear,night,saturday,0.299
+ac repair,13.2,fog,morning,thursday,0.333
+roof repair,38.4,snow,night,wednesday,0.212
+tutor,11.7,fog,afternoon,wednesday,0.337
+carpenter,5.8,cloudy,afternoon,tuesday,0.091
+tutor,10.5,fog,evening,tuesday,0.024
+plumber,44.1,rain showers,afternoon,thursday,0.202
+carpenter,27.7,snow,night,wednesday,0.296
+electrician,16.4,rain,afternoon,friday,0.26
+other,36.0,clear,night,monday,0.368
+painter,30.2,snow,evening,wednesday,0.238
+tutor,17.7,rain,afternoon,friday,0.143
+plumber,21.4,rain,evening,monday,0.107
+plumber,6.2,rain showers,night,wednesday,0.315
+mechanic,15.1,clear,morning,friday,0.323
+painter,19.0,rain showers,afternoon,saturday,0.566
+electrician,23.7,snow,evening,sunday,0.324
+carpenter,-1.4,clear,morning,sunday,0.634
+carpenter,28.5,cloudy,morning,monday,0.403
+other,14.1,fog,morning,sunday,0.117
+tutor,43.5,snow,night,sunday,0.0
+carpenter,34.3,thunderstorm,night,friday,0.378
+electrician,42.2,rain,evening,saturday,0.673
+mechanic,-4.4,cloudy,night,saturday,0.16
+mechanic,0.3,cloudy,afternoon,saturday,0.237
+electrician,40.7,fog,night,wednesday,0.601
+ac repair,42.5,rain,evening,thursday,0.775
+electrician,11.8,fog,morning,saturday,0.272
+roof repair,39.2,cloudy,evening,tuesday,0.36
+painter,33.6,rain showers,morning,thursday,0.387
+carpenter,19.0,cloudy,afternoon,friday,0.35
+cleaner,12.6,cloudy,night,sunday,0.227
+ac repair,35.4,rain,afternoon,monday,0.705
+doctor,-0.1,clear,morning,tuesday,0.295
+painter,3.5,rain,night,thursday,0.228
+cleaner,22.3,snow,afternoon,friday,0.181
+plumber,32.3,fog,afternoon,saturday,0.328
+plumber,11.4,rain showers,night,wednesday,0.236
+carpenter,-4.5,thunderstorm,night,saturday,0.671
+mechanic,36.9,rain showers,evening,sunday,0.371
+electrician,11.2,rain,afternoon,thursday,0.247
+ac repair,8.0,fog,afternoon,thursday,0.153
+plumber,40.0,thunderstorm,evening,monday,0.149
+electrician,22.8,cloudy,night,friday,0.245
+plumber,5.4,rain,evening,friday,0.141
+doctor,44.9,cloudy,evening,friday,0.174
+ac repair,-1.9,fog,afternoon,saturday,0.397
+tutor,23.5,cloudy,night,tuesday,0.0
+tutor,6.6,snow,morning,friday,0.253
+tutor,14.9,thunderstorm,night,tuesday,0.0
+tutor,32.4,rain,morning,tuesday,0.293
+tutor,9.4,thunderstorm,afternoon,tuesday,0.366
+cleaner,42.5,rain,night,monday,0.196
+plumber,-0.5,fog,afternoon,thursday,0.355
+other,30.5,fog,evening,thursday,0.106
+doctor,22.2,rain showers,morning,saturday,0.303
+roof repair,19.1,clear,evening,sunday,0.29
+other,35.0,thunderstorm,afternoon,wednesday,0.256
+cleaner,13.7,rain,night,sunday,0.354
+ac repair,19.2,rain,evening,thursday,0.468
+electrician,36.9,snow,afternoon,wednesday,0.483
+electrician,17.8,rain,morning,monday,0.32
+other,4.8,fog,night,wednesday,0.272
+doctor,34.4,rain showers,evening,monday,0.282
+roof repair,9.2,rain,morning,tuesday,0.345
+mechanic,3.6,thunderstorm,afternoon,monday,0.211
+other,17.9,fog,afternoon,wednesday,0.241
+tutor,-1.5,rain showers,night,monday,0.0
+ac repair,-3.0,rain,afternoon,sunday,0.304
+cleaner,19.8,rain showers,afternoon,tuesday,0.19
+mechanic,41.6,clear,evening,saturday,0.222
+other,-0.1,cloudy,evening,wednesday,0.347
+roof repair,9.6,thunderstorm,night,sunday,0.052
+cleaner,18.8,clear,evening,thursday,0.193
+other,34.7,rain showers,morning,friday,0.299
+cleaner,42.6,clear,night,thursday,0.134
+electrician,38.1,clear,afternoon,sunday,0.812
+doctor,3.0,rain showers,afternoon,thursday,0.033
+roof repair,30.3,rain,night,monday,0.157
+carpenter,7.4,snow,afternoon,saturday,0.522
+roof repair,8.9,cloudy,evening,sunday,0.205
+tutor,15.3,rain,morning,tuesday,0.228
+ac repair,36.1,thunderstorm,night,tuesday,0.717
+painter,37.1,fog,afternoon,friday,0.214
+tutor,40.4,rain showers,morning,monday,0.347
+electrician,33.6,rain showers,evening,thursday,0.804
+mechanic,33.8,clear,morning,wednesday,0.293
+electrician,28.7,thunderstorm,night,wednesday,0.293
+mechanic,1.7,rain,night,saturday,0.354
+plumber,13.4,rain showers,afternoon,sunday,0.239
+roof repair,28.7,fog,morning,saturday,0.202
+other,32.9,snow,evening,wednesday,0.338
+roof repair,26.1,clear,night,thursday,0.278
+doctor,25.0,rain showers,evening,sunday,0.127
+roof repair,5.7,cloudy,evening,thursday,0.184
+plumber,31.7,clear,afternoon,saturday,0.21
+plumber,19.4,thunderstorm,night,wednesday,0.11
+ac repair,43.8,clear,night,tuesday,0.698
+doctor,43.9,clear,afternoon,friday,0.202
+tutor,19.8,snow,evening,tuesday,0.0
+plumber,31.2,rain,afternoon,monday,0.191
+ac repair,40.1,cloudy,morning,sunday,0.678
+mechanic,6.0,clear,night,saturday,0.358
+cleaner,3.8,clear,evening,sunday,0.424
+plumber,5.1,snow,night,monday,0.342
+cleaner,-4.4,rain showers,morning,monday,0.276
+plumber,16.3,thunderstorm,afternoon,thursday,0.347
+tutor,41.5,fog,night,tuesday,0.015
+tutor,25.8,snow,afternoon,tuesday,0.19
+mechanic,13.2,clear,evening,thursday,0.213
+plumber,25.7,thunderstorm,night,tuesday,0.261
+tutor,15.0,rain,evening,tuesday,0.132
+mechanic,-4.7,rain showers,night,sunday,0.286
+tutor,30.6,fog,afternoon,tuesday,0.138
+other,35.5,snow,afternoon,tuesday,0.257
+other,10.5,thunderstorm,morning,tuesday,0.362
+roof repair,2.9,fog,morning,tuesday,0.335
+mechanic,38.4,thunderstorm,night,thursday,0.375
+mechanic,18.7,fog,evening,wednesday,0.366
+painter,43.3,rain,evening,saturday,0.601
+plumber,31.1,rain showers,afternoon,saturday,0.193
+doctor,34.5,thunderstorm,afternoon,monday,0.136
+doctor,18.4,thunderstorm,morning,tuesday,0.157
+carpenter,8.0,snow,night,monday,0.265
+other,19.1,rain showers,afternoon,tuesday,0.316
+tutor,0.2,snow,night,thursday,0.079
+carpenter,24.4,snow,morning,tuesday,0.406
+roof repair,4.2,rain showers,night,sunday,0.341
+carpenter,5.2,rain showers,evening,tuesday,0.383
+ac repair,-4.3,cloudy,evening,tuesday,0.405
+mechanic,9.7,thunderstorm,afternoon,wednesday,0.174
+mechanic,40.7,rain,night,friday,0.111
+ac repair,23.4,rain showers,night,wednesday,0.375
+ac repair,31.3,thunderstorm,morning,sunday,0.689
+other,17.0,rain,evening,thursday,0.286
+cleaner,8.5,rain showers,afternoon,saturday,0.623
+ac repair,14.3,fog,morning,monday,0.432
+painter,-0.7,rain,evening,thursday,0.183
+cleaner,32.8,thunderstorm,morning,thursday,0.379
+roof repair,20.2,cloudy,evening,sunday,0.332
+doctor,17.2,snow,morning,wednesday,0.156
+tutor,40.4,fog,afternoon,sunday,0.129
+cleaner,30.0,rain,afternoon,sunday,0.572
+roof repair,35.1,rain,evening,thursday,0.328
+doctor,38.0,fog,afternoon,friday,0.119
+cleaner,43.8,rain showers,morning,monday,0.147
+plumber,-2.4,fog,morning,tuesday,0.265
+doctor,5.8,rain,night,thursday,0.321
+tutor,29.8,fog,evening,friday,0.0
+painter,15.2,rain,evening,wednesday,0.307
+cleaner,17.4,rain showers,night,wednesday,0.031
+carpenter,-3.2,fog,night,wednesday,0.291
+cleaner,21.3,snow,morning,tuesday,0.178
+tutor,15.9,clear,night,wednesday,0.196
+doctor,39.9,rain showers,morning,wednesday,0.255
+roof repair,26.9,rain,night,tuesday,0.313
+painter,42.4,rain,morning,sunday,0.606
+painter,2.6,rain showers,night,wednesday,0.101
+carpenter,28.5,clear,night,friday,0.249
+painter,34.8,rain,evening,monday,0.273
+carpenter,34.9,thunderstorm,night,thursday,0.096
+roof repair,36.1,rain showers,afternoon,thursday,0.097
+carpenter,39.5,fog,night,monday,0.079
+painter,2.2,thunderstorm,morning,tuesday,0.276
+painter,7.2,cloudy,evening,monday,0.235
+ac repair,13.5,rain,afternoon,tuesday,0.266
+cleaner,11.7,fog,night,sunday,0.24
+painter,20.0,clear,morning,sunday,0.487
+cleaner,32.0,clear,morning,saturday,0.628
+carpenter,44.8,snow,afternoon,monday,0.284
+cleaner,13.2,rain,evening,monday,0.0
+roof repair,-2.6,rain,morning,friday,0.371
+painter,2.4,fog,afternoon,friday,0.153
+mechanic,19.9,snow,morning,thursday,0.234
+cleaner,-0.2,thunderstorm,morning,sunday,0.433
+other,41.1,cloudy,morning,wednesday,0.329
+doctor,35.6,fog,afternoon,saturday,0.231
+carpenter,40.0,fog,evening,saturday,0.522
+other,7.3,cloudy,morning,monday,0.419
+cleaner,38.7,fog,night,tuesday,0.097
+electrician,24.6,thunderstorm,evening,thursday,0.22
+tutor,-3.7,rain,evening,thursday,0.0
+cleaner,32.0,rain showers,evening,monday,0.132
+other,-1.3,fog,afternoon,wednesday,0.272
+carpenter,31.5,rain,evening,thursday,0.32
+painter,10.7,fog,evening,monday,0.065
+electrician,39.2,snow,afternoon,friday,0.606
+cleaner,39.4,snow,afternoon,wednesday,0.212
+other,44.4,cloudy,evening,friday,0.328
+doctor,-3.0,thunderstorm,afternoon,friday,0.35
+mechanic,-3.1,rain,night,friday,0.241
+electrician,25.2,cloudy,evening,tuesday,0.313
+other,36.3,rain showers,afternoon,sunday,0.148
+carpenter,4.2,rain,evening,thursday,0.407
+plumber,8.3,thunderstorm,afternoon,thursday,0.305
+painter,-3.6,snow,evening,saturday,0.547
+other,-0.6,rain,morning,sunday,0.338
+painter,1.1,rain,evening,monday,0.407
+other,-1.6,thunderstorm,night,monday,0.111
+cleaner,5.0,rain showers,evening,saturday,0.163
+plumber,39.3,cloudy,afternoon,sunday,0.358
+cleaner,-4.9,rain showers,afternoon,wednesday,0.341
+doctor,43.2,snow,afternoon,friday,0.164
+carpenter,20.8,thunderstorm,morning,sunday,0.553
+cleaner,31.4,thunderstorm,evening,thursday,0.191
+electrician,35.9,rain,evening,wednesday,0.562
+ac repair,2.9,cloudy,morning,thursday,0.183
+roof repair,21.3,cloudy,night,saturday,0.288
+other,17.4,rain showers,evening,tuesday,0.156
+mechanic,40.3,rain showers,night,monday,0.141
+painter,10.5,clear,night,saturday,0.545
+other,14.1,cloudy,morning,monday,0.371
+tutor,35.2,snow,night,thursday,0.0
+tutor,15.8,rain showers,night,friday,0.074
+tutor,-0.6,rain showers,morning,tuesday,0.232
+tutor,27.2,cloudy,morning,sunday,0.21
+mechanic,20.9,rain showers,evening,friday,0.245
+plumber,32.4,thunderstorm,night,tuesday,0.208
+roof repair,33.9,snow,afternoon,sunday,0.195
+plumber,41.1,clear,afternoon,thursday,0.222
+cleaner,32.3,fog,evening,friday,0.0
+tutor,41.2,thunderstorm,night,sunday,0.041
+roof repair,29.5,clear,afternoon,friday,0.289
+carpenter,11.3,clear,evening,tuesday,0.319
+roof repair,4.5,rain,afternoon,thursday,0.396
+roof repair,-0.8,rain,evening,monday,0.315
+mechanic,38.5,rain,morning,sunday,0.256
+electrician,10.5,rain showers,night,thursday,0.365
+cleaner,-0.1,clear,afternoon,saturday,0.493
+electrician,12.5,snow,night,friday,0.073
+electrician,43.9,fog,morning,thursday,0.827
+plumber,15.7,thunderstorm,night,sunday,0.406
+ac repair,2.2,rain showers,afternoon,wednesday,0.291
+painter,14.7,clear,evening,saturday,0.516
+painter,39.7,thunderstorm,evening,saturday,0.665
+ac repair,23.9,snow,night,saturday,0.371
+painter,31.2,cloudy,morning,monday,0.206
+roof repair,-2.4,rain,night,tuesday,0.375
+roof repair,-3.8,rain showers,afternoon,friday,0.171
+carpenter,-4.9,rain,morning,wednesday,0.414
+roof repair,11.8,fog,morning,tuesday,0.309
+roof repair,-1.4,rain showers,evening,saturday,0.192
+tutor,40.8,snow,night,monday,0.093
+tutor,36.4,rain showers,evening,thursday,0.068
+carpenter,14.8,rain,morning,saturday,0.448
+mechanic,25.1,rain,night,sunday,0.129
+doctor,44.8,thunderstorm,afternoon,wednesday,0.349
+mechanic,27.5,cloudy,afternoon,monday,0.382
+roof repair,-4.4,clear,evening,saturday,0.141
+painter,35.0,snow,night,wednesday,0.253
+painter,6.7,rain,morning,thursday,0.208
+cleaner,16.9,fog,afternoon,thursday,0.083
+ac repair,1.1,rain showers,evening,saturday,0.235
+tutor,28.7,fog,evening,wednesday,0.151
+carpenter,3.2,clear,evening,sunday,0.326
+plumber,2.5,clear,afternoon,thursday,0.306
+cleaner,39.9,rain showers,evening,friday,0.0
+tutor,-2.1,snow,night,wednesday,0.053
+electrician,7.4,thunderstorm,afternoon,sunday,0.378
+electrician,35.9,thunderstorm,night,sunday,0.442
+carpenter,23.8,thunderstorm,evening,saturday,0.722
+electrician,39.4,thunderstorm,morning,monday,0.508
+doctor,9.4,thunderstorm,afternoon,wednesday,0.268
+mechanic,0.2,fog,morning,thursday,0.294
+painter,15.1,snow,morning,tuesday,0.106
+roof repair,28.7,cloudy,afternoon,friday,0.323
+roof repair,-0.8,fog,afternoon,sunday,0.202
+carpenter,24.3,rain,evening,monday,0.486
+electrician,15.1,clear,morning,wednesday,0.136
+mechanic,29.1,cloudy,night,wednesday,0.379
+ac repair,16.5,rain,afternoon,monday,0.347
+mechanic,-4.5,rain,night,monday,0.347
+ac repair,34.5,fog,afternoon,friday,0.735
+carpenter,29.9,fog,night,monday,0.346
+tutor,0.7,rain,night,friday,0.19
+electrician,31.0,clear,evening,thursday,0.578
+electrician,18.2,fog,morning,sunday,0.293
+other,32.2,clear,afternoon,saturday,0.141
+ac repair,17.8,thunderstorm,afternoon,friday,0.225
+roof repair,1.5,rain showers,afternoon,tuesday,0.419
+plumber,-3.5,cloudy,afternoon,saturday,0.0
+roof repair,-1.6,thunderstorm,afternoon,wednesday,0.337
+electrician,24.8,thunderstorm,evening,monday,0.217
+electrician,1.2,rain,evening,saturday,0.325
+doctor,20.4,cloudy,afternoon,tuesday,0.247
+cleaner,11.3,clear,afternoon,saturday,0.46
+doctor,20.1,snow,afternoon,thursday,0.199
+roof repair,39.8,cloudy,evening,sunday,0.208
+mechanic,-2.6,thunderstorm,night,thursday,0.344
+roof repair,35.1,snow,afternoon,wednesday,0.324
+ac repair,2.4,rain showers,morning,tuesday,0.232
+ac repair,-1.3,rain,evening,sunday,0.301
+doctor,28.6,rain showers,afternoon,sunday,0.256
+plumber,7.9,clear,night,thursday,0.224
+doctor,41.2,snow,morning,monday,0.215
+carpenter,9.5,cloudy,night,sunday,0.458
+roof repair,-0.8,rain,afternoon,monday,0.329
+tutor,33.7,fog,night,wednesday,0.123
+cleaner,29.5,rain showers,night,tuesday,0.0
+ac repair,3.0,cloudy,afternoon,monday,0.107
+roof repair,18.8,snow,afternoon,monday,0.168
+plumber,23.8,clear,evening,thursday,0.098
+other,2.0,snow,morning,monday,0.084
+ac repair,41.6,thunderstorm,night,wednesday,0.539
+tutor,43.5,thunderstorm,night,monday,0.09
+electrician,2.1,rain,afternoon,thursday,0.134
+cleaner,37.1,thunderstorm,afternoon,monday,0.243
+roof repair,31.4,rain showers,morning,wednesday,0.056
+doctor,24.3,rain showers,evening,monday,0.202
+cleaner,31.6,thunderstorm,night,sunday,0.341
+ac repair,4.2,fog,morning,thursday,0.326
+tutor,43.6,snow,night,thursday,0.0
+other,0.4,rain,night,sunday,0.299
+plumber,28.3,snow,evening,monday,0.162
+doctor,12.0,fog,afternoon,sunday,0.381
+doctor,43.2,clear,night,tuesday,0.247
+painter,5.3,clear,evening,saturday,0.515
+ac repair,6.6,fog,afternoon,sunday,0.309
+mechanic,9.8,snow,morning,tuesday,0.22
+mechanic,32.7,thunderstorm,afternoon,monday,0.358
+mechanic,32.7,thunderstorm,evening,saturday,0.298
+cleaner,8.9,cloudy,night,saturday,0.273
+painter,38.4,cloudy,evening,wednesday,0.192
+mechanic,19.9,clear,afternoon,sunday,0.266
+plumber,1.3,fog,afternoon,thursday,0.353
+doctor,41.1,rain showers,afternoon,tuesday,0.337
+ac repair,8.0,snow,evening,monday,0.176
+ac repair,33.3,thunderstorm,night,saturday,0.707
+mechanic,43.1,clear,afternoon,saturday,0.129
+plumber,1.5,snow,afternoon,monday,0.196
+plumber,-1.6,rain showers,afternoon,monday,0.328
+doctor,7.4,cloudy,morning,wednesday,0.286
+cleaner,10.1,rain,evening,thursday,0.056
+electrician,39.0,cloudy,afternoon,friday,0.763
+other,-4.9,fog,morning,wednesday,0.118
+electrician,7.6,rain showers,afternoon,sunday,0.344
+painter,13.4,cloudy,afternoon,sunday,0.592
+tutor,28.5,fog,morning,friday,0.217
+painter,5.4,fog,morning,sunday,0.525
+tutor,5.1,thunderstorm,afternoon,saturday,0.242
+ac repair,-2.7,rain showers,morning,wednesday,0.192
+ac repair,41.8,rain,evening,monday,0.828
+doctor,-1.9,clear,afternoon,thursday,0.136
+mechanic,17.8,fog,afternoon,tuesday,0.416
+roof repair,0.9,clear,night,friday,0.3
+doctor,28.9,clear,evening,sunday,0.306
+plumber,10.8,fog,evening,wednesday,0.158
+ac repair,33.8,thunderstorm,afternoon,thursday,0.651
+mechanic,32.0,cloudy,afternoon,tuesday,0.191
+roof repair,-4.6,clear,night,sunday,0.312
+electrician,8.1,rain showers,morning,saturday,0.208
+painter,24.5,fog,morning,monday,0.222
+ac repair,11.1,thunderstorm,night,wednesday,0.335
+painter,37.3,fog,afternoon,tuesday,0.231
+other,3.4,clear,afternoon,monday,0.007
+tutor,20.9,snow,morning,tuesday,0.239
+cleaner,8.4,rain showers,morning,saturday,0.576
+painter,4.9,rain,morning,thursday,0.128
+tutor,1.2,clear,night,sunday,0.245
+mechanic,39.9,rain,night,friday,0.161
+plumber,32.1,snow,afternoon,friday,0.217
+mechanic,27.9,rain showers,evening,monday,0.313
+roof repair,-0.1,cloudy,afternoon,tuesday,0.423
+electrician,38.4,thunderstorm,morning,monday,0.583
+cleaner,44.8,clear,night,sunday,0.234
+mechanic,8.0,fog,evening,thursday,0.448
+roof repair,18.8,snow,morning,wednesday,0.175
+painter,20.9,snow,afternoon,monday,0.133
+ac repair,-4.8,cloudy,evening,saturday,0.049
+ac repair,39.5,snow,morning,sunday,0.701
+plumber,21.6,fog,afternoon,tuesday,0.146
+ac repair,9.8,rain,night,thursday,0.109
+doctor,32.7,snow,afternoon,sunday,0.147
+doctor,4.9,fog,evening,sunday,0.312
+mechanic,32.3,clear,evening,friday,0.197
+doctor,41.4,rain showers,afternoon,friday,0.177
+roof repair,1.7,snow,morning,tuesday,0.083
+ac repair,43.4,rain showers,night,friday,0.612
+roof repair,23.7,thunderstorm,afternoon,friday,0.225
+electrician,14.6,clear,afternoon,wednesday,0.369
+other,28.5,clear,afternoon,thursday,0.185
+electrician,20.2,snow,afternoon,friday,0.034
+painter,9.8,thunderstorm,morning,friday,0.189
+tutor,25.2,rain showers,morning,wednesday,0.248
+tutor,3.8,rain,evening,thursday,0.079
+other,30.0,rain,evening,sunday,0.172
+doctor,31.7,fog,morning,saturday,0.421
+ac repair,35.3,cloudy,evening,saturday,0.839
+mechanic,15.3,clear,evening,saturday,0.245
+tutor,17.7,clear,night,saturday,0.02
+doctor,30.7,fog,evening,wednesday,0.247
+doctor,-4.9,snow,morning,saturday,0.127
+tutor,15.2,snow,evening,monday,0.099
+carpenter,19.2,rain,afternoon,friday,0.273
+painter,43.5,snow,evening,friday,0.225
+plumber,2.1,cloudy,afternoon,tuesday,0.337
+cleaner,42.2,fog,night,thursday,0.0
+painter,37.9,fog,evening,monday,0.173
+tutor,19.6,rain,evening,friday,0.064
+painter,11.9,cloudy,morning,wednesday,0.312
+carpenter,9.6,thunderstorm,night,saturday,0.43
+doctor,41.8,snow,morning,sunday,0.28
+tutor,28.9,cloudy,night,sunday,0.093
+roof repair,-0.4,clear,night,friday,0.301
+tutor,43.3,fog,evening,wednesday,0.0
+doctor,28.0,rain showers,night,monday,0.226
+cleaner,4.4,fog,night,sunday,0.231
+ac repair,16.1,clear,afternoon,monday,0.305
+cleaner,4.0,rain,afternoon,monday,0.356
+painter,30.0,clear,night,wednesday,0.264
+electrician,2.0,cloudy,afternoon,sunday,0.382
+other,8.1,rain,morning,thursday,0.232
+electrician,17.0,clear,morning,friday,0.083
+mechanic,8.5,thunderstorm,morning,friday,0.166
+other,33.9,thunderstorm,afternoon,thursday,0.219
+doctor,30.0,thunderstorm,afternoon,friday,0.287
+electrician,30.8,clear,afternoon,wednesday,0.562
+other,33.9,rain showers,night,sunday,0.281
+painter,34.5,snow,night,sunday,0.732
+roof repair,6.2,snow,evening,monday,0.136
+tutor,32.6,thunderstorm,evening,monday,0.092
+cleaner,18.7,fog,morning,monday,0.098
+ac repair,2.4,rain showers,evening,monday,0.176
+other,9.5,thunderstorm,evening,tuesday,0.086
+plumber,6.9,rain,morning,friday,0.273
+ac repair,27.8,rain,night,friday,0.123
+ac repair,22.9,clear,night,thursday,0.249
+electrician,29.6,rain showers,evening,thursday,0.409
+other,18.0,cloudy,night,friday,0.358
+painter,14.9,fog,afternoon,thursday,0.46
+other,5.1,cloudy,morning,tuesday,0.186
+electrician,4.4,thunderstorm,evening,monday,0.23
+other,19.9,snow,morning,saturday,0.25
+painter,17.9,rain,morning,thursday,0.183
+doctor,8.3,fog,morning,monday,0.134
+plumber,11.0,rain,evening,saturday,0.271
+other,20.8,snow,morning,sunday,0.239
+mechanic,42.7,clear,morning,wednesday,0.375
+plumber,17.1,rain showers,evening,wednesday,0.234
+cleaner,43.3,fog,night,sunday,0.235
+other,32.5,rain,evening,thursday,0.285
+tutor,15.7,fog,evening,sunday,0.03
+cleaner,22.0,fog,morning,tuesday,0.298
+roof repair,19.1,fog,morning,friday,0.177
+electrician,26.0,clear,evening,saturday,0.264
+mechanic,21.4,thunderstorm,night,monday,0.068
+mechanic,18.1,rain showers,night,tuesday,0.235
+roof repair,19.1,rain showers,morning,thursday,0.142
+mechanic,18.6,rain showers,evening,tuesday,0.178
+ac repair,12.7,cloudy,afternoon,thursday,0.35
+roof repair,12.1,snow,evening,friday,0.351
+electrician,8.8,snow,morning,wednesday,0.374
+plumber,32.4,rain,evening,tuesday,0.3
+painter,20.8,snow,afternoon,thursday,0.087
+other,14.5,rain,afternoon,saturday,0.312
+painter,9.1,cloudy,evening,friday,0.301
+plumber,6.4,rain showers,evening,sunday,0.218
+plumber,25.3,rain,morning,saturday,0.361
+doctor,7.2,thunderstorm,evening,tuesday,0.342
+tutor,36.3,thunderstorm,morning,tuesday,0.177
+tutor,26.6,fog,afternoon,saturday,0.337
+cleaner,33.8,thunderstorm,night,monday,0.0
+painter,44.5,snow,evening,monday,0.138
+plumber,-4.0,clear,afternoon,thursday,0.286
+plumber,39.3,snow,night,sunday,0.366
+electrician,25.6,cloudy,afternoon,wednesday,0.141
+roof repair,8.2,thunderstorm,evening,sunday,0.24
+painter,6.3,fog,evening,sunday,0.663
+carpenter,6.8,clear,afternoon,wednesday,0.244
+cleaner,9.6,fog,night,tuesday,0.216
+mechanic,9.2,rain showers,morning,tuesday,0.185
+mechanic,2.4,rain,evening,thursday,0.249
+ac repair,14.2,thunderstorm,night,wednesday,0.18
+mechanic,30.4,rain,evening,saturday,0.425
+painter,18.2,snow,morning,thursday,0.273
+cleaner,-0.9,clear,night,saturday,0.337
+doctor,30.5,cloudy,evening,thursday,0.249
+electrician,26.3,rain,afternoon,tuesday,0.129
+tutor,34.3,rain,morning,tuesday,0.11
+painter,30.4,rain showers,night,monday,0.214
+plumber,1.0,snow,night,monday,0.316
+roof repair,0.6,thunderstorm,morning,saturday,0.275
+painter,8.7,clear,afternoon,thursday,0.192
+tutor,42.1,fog,evening,tuesday,0.0
+ac repair,34.9,rain,morning,wednesday,0.661
+carpenter,21.1,clear,night,wednesday,0.368
+other,30.3,thunderstorm,evening,saturday,0.261
+other,34.6,rain,morning,monday,0.155
+painter,41.2,clear,afternoon,saturday,0.578
+plumber,3.0,cloudy,morning,thursday,0.212
+mechanic,17.0,rain showers,evening,wednesday,0.323
+carpenter,36.6,rain,evening,thursday,0.205
+mechanic,38.0,snow,morning,thursday,0.451
+cleaner,13.0,snow,afternoon,friday,0.159
+painter,22.2,clear,morning,tuesday,0.175
+ac repair,36.8,thunderstorm,evening,saturday,0.699
+other,2.5,thunderstorm,morning,sunday,0.312
+tutor,7.5,snow,night,thursday,0.0
+ac repair,5.6,rain,evening,tuesday,0.248
+doctor,28.2,rain showers,morning,sunday,0.395
+cleaner,15.3,rain,morning,wednesday,0.432
+cleaner,35.7,rain,night,wednesday,0.0
+other,34.4,fog,afternoon,sunday,0.231
+tutor,-0.6,rain showers,night,saturday,0.154
+mechanic,18.5,snow,afternoon,sunday,0.139
+mechanic,31.9,rain,morning,monday,0.258
+other,2.9,rain,morning,saturday,0.187
+roof repair,25.6,fog,evening,wednesday,0.388
+ac repair,33.8,thunderstorm,evening,saturday,0.542
+electrician,0.6,clear,afternoon,tuesday,0.258
+other,31.8,snow,afternoon,friday,0.196
+tutor,14.2,snow,morning,thursday,0.431
+ac repair,14.9,snow,evening,friday,0.104
+painter,-3.7,rain,night,thursday,0.309
+plumber,-4.8,rain showers,night,saturday,0.268
+other,7.7,rain showers,afternoon,monday,0.308
+other,35.8,clear,evening,saturday,0.069
+mechanic,9.9,thunderstorm,night,thursday,0.416
+electrician,7.4,thunderstorm,night,friday,0.165
+other,19.3,rain,morning,saturday,0.289
+cleaner,16.5,snow,evening,wednesday,0.223
+plumber,30.0,rain,morning,monday,0.289
+tutor,-1.7,rain showers,evening,monday,0.086
+cleaner,12.0,thunderstorm,morning,saturday,0.462
+other,13.1,fog,night,thursday,0.449
+mechanic,-0.6,clear,evening,wednesday,0.413
+cleaner,-2.9,rain,evening,saturday,0.438
+electrician,28.3,rain,evening,friday,0.08
+other,25.4,cloudy,morning,tuesday,0.437
+plumber,29.2,snow,night,friday,0.262
+cleaner,28.4,rain,afternoon,sunday,0.656
+tutor,-1.9,rain,evening,tuesday,0.131
+ac repair,3.0,thunderstorm,morning,thursday,0.177
+carpenter,28.9,snow,morning,wednesday,0.183
+roof repair,31.8,cloudy,afternoon,wednesday,0.244
+plumber,-0.4,rain showers,morning,saturday,0.207
+mechanic,3.9,rain showers,morning,sunday,0.298
+roof repair,41.4,rain showers,morning,thursday,0.106
+other,-0.6,clear,evening,sunday,0.188
+cleaner,9.0,fog,evening,friday,0.0
+roof repair,19.9,rain showers,afternoon,friday,0.163
+painter,19.9,cloudy,afternoon,tuesday,0.252
+tutor,17.2,thunderstorm,evening,friday,0.0
+painter,42.1,rain showers,afternoon,sunday,0.461
+mechanic,13.5,cloudy,afternoon,saturday,0.23
+plumber,42.0,cloudy,night,sunday,0.257
+other,43.0,snow,afternoon,wednesday,0.36
+doctor,3.5,thunderstorm,afternoon,thursday,0.236
+ac repair,24.4,rain showers,evening,saturday,0.361
+electrician,22.8,snow,morning,sunday,0.368
+tutor,39.8,cloudy,evening,thursday,0.0
+doctor,5.3,fog,night,thursday,0.283
+carpenter,29.3,thunderstorm,afternoon,friday,0.102
+doctor,36.4,rain,morning,monday,0.299
+tutor,24.7,clear,evening,wednesday,0.0
+ac repair,19.4,fog,evening,friday,0.176
+painter,25.1,rain,evening,friday,0.289
+carpenter,-1.6,thunderstorm,afternoon,tuesday,0.16
+cleaner,36.3,fog,afternoon,wednesday,0.27
+mechanic,29.4,rain,night,monday,0.344
+other,29.2,clear,night,wednesday,0.27
+painter,44.7,cloudy,evening,wednesday,0.252
+plumber,12.5,clear,afternoon,thursday,0.149
+carpenter,38.4,rain showers,afternoon,saturday,0.592
+roof repair,3.4,cloudy,night,wednesday,0.285
+ac repair,-0.5,snow,afternoon,tuesday,0.131
+electrician,17.7,fog,night,thursday,0.111
+other,-4.4,clear,night,saturday,0.176
+electrician,43.9,cloudy,night,friday,0.548
+mechanic,40.6,clear,night,tuesday,0.067
+electrician,1.8,rain,evening,tuesday,0.398
+painter,11.9,thunderstorm,evening,saturday,0.579
+other,-0.7,clear,afternoon,thursday,0.058
+carpenter,43.0,clear,evening,thursday,0.339
+roof repair,44.3,fog,night,thursday,0.149
+plumber,28.4,snow,afternoon,thursday,0.087
+roof repair,44.0,rain showers,afternoon,saturday,0.256
+roof repair,39.0,fog,morning,saturday,0.109
+carpenter,35.1,snow,night,tuesday,0.068
+painter,-1.3,fog,evening,thursday,0.284
+doctor,37.0,rain,morning,sunday,0.496
+roof repair,16.4,clear,night,tuesday,0.212
+carpenter,44.7,cloudy,evening,wednesday,0.267
+painter,6.5,thunderstorm,morning,tuesday,0.203
+painter,31.9,snow,afternoon,wednesday,0.458
+other,3.8,fog,afternoon,friday,0.277
+doctor,44.9,rain showers,morning,saturday,0.156
+cleaner,33.9,rain showers,afternoon,friday,0.343
+ac repair,35.8,thunderstorm,morning,wednesday,0.763
+carpenter,24.6,cloudy,night,saturday,0.616
+ac repair,-4.8,thunderstorm,evening,sunday,0.264
+roof repair,29.5,cloudy,night,tuesday,0.233
+tutor,34.4,rain showers,afternoon,wednesday,0.281
+tutor,35.8,fog,afternoon,sunday,0.055
+plumber,-2.8,rain showers,afternoon,sunday,0.149
+mechanic,10.6,rain showers,night,wednesday,0.389
+ac repair,-4.3,cloudy,night,wednesday,0.392
+doctor,30.8,rain showers,night,wednesday,0.336
+mechanic,-2.6,cloudy,morning,sunday,0.364
+ac repair,20.8,thunderstorm,morning,wednesday,0.351
+cleaner,4.3,fog,night,wednesday,0.015
+plumber,15.1,rain,morning,tuesday,0.223
+roof repair,6.2,rain,morning,friday,0.251
+tutor,15.9,rain,afternoon,tuesday,0.325
+cleaner,-1.3,clear,morning,tuesday,0.061
+doctor,3.8,thunderstorm,afternoon,friday,0.215
+plumber,38.8,thunderstorm,afternoon,friday,0.335
+cleaner,28.4,rain,evening,saturday,0.374
+painter,20.4,rain,night,friday,0.206
+ac repair,14.4,snow,afternoon,sunday,0.208
+cleaner,15.9,fog,morning,wednesday,0.213
+doctor,40.4,cloudy,afternoon,saturday,0.287
+tutor,28.2,rain showers,afternoon,wednesday,0.091
+tutor,30.0,rain showers,morning,saturday,0.206
+mechanic,25.0,rain,night,monday,0.428
+other,28.4,clear,morning,tuesday,0.327
+cleaner,21.7,snow,afternoon,thursday,0.149
+other,32.7,cloudy,night,tuesday,0.174
+cleaner,6.1,cloudy,evening,sunday,0.248
+roof repair,21.2,rain showers,evening,sunday,0.178
+other,21.6,fog,afternoon,tuesday,0.162
+carpenter,22.1,cloudy,evening,saturday,0.563
+painter,13.0,thunderstorm,afternoon,thursday,0.267
+ac repair,8.1,rain showers,night,tuesday,0.351
+cleaner,13.7,cloudy,evening,monday,0.205
+painter,10.6,snow,morning,friday,0.219
+other,17.3,rain showers,evening,saturday,0.331
+roof repair,38.3,clear,morning,thursday,0.113
+roof repair,21.3,snow,morning,thursday,0.122
+plumber,13.3,snow,evening,monday,0.488
+doctor,19.0,snow,night,friday,0.252
+plumber,41.4,clear,afternoon,friday,0.376
+doctor,28.6,clear,afternoon,thursday,0.453
+ac repair,-4.3,snow,evening,wednesday,0.095
+mechanic,27.0,clear,night,monday,0.495
+roof repair,39.0,thunderstorm,morning,tuesday,0.306
+plumber,18.4,rain showers,afternoon,thursday,0.376
+cleaner,4.2,cloudy,night,sunday,0.39
+painter,18.9,fog,morning,thursday,0.189
+roof repair,41.4,clear,morning,monday,0.17
+doctor,9.4,rain,night,wednesday,0.142
+painter,44.7,fog,afternoon,thursday,0.085
+painter,18.2,thunderstorm,afternoon,thursday,0.169
+mechanic,15.4,fog,evening,friday,0.272
+doctor,20.1,cloudy,morning,monday,0.212
+tutor,34.9,rain,night,tuesday,0.0
+electrician,10.5,fog,morning,monday,0.161
+painter,30.0,clear,morning,wednesday,0.363
+painter,2.3,thunderstorm,night,sunday,0.488
+tutor,3.7,snow,night,wednesday,0.161
+plumber,15.3,thunderstorm,night,monday,0.366
+carpenter,21.9,thunderstorm,afternoon,monday,0.346
+ac repair,8.3,snow,morning,wednesday,0.278
+painter,35.5,rain,afternoon,monday,0.114
+ac repair,6.2,snow,night,sunday,0.148
+mechanic,41.3,rain,morning,friday,0.162
+roof repair,38.3,snow,night,friday,0.118
+plumber,38.2,clear,morning,friday,0.237
+carpenter,-0.7,rain,night,thursday,0.331
+cleaner,27.9,fog,morning,wednesday,0.177
+carpenter,3.3,fog,night,friday,0.388
+roof repair,36.5,clear,night,friday,0.188
+cleaner,26.2,thunderstorm,morning,saturday,0.663
+electrician,4.4,clear,evening,saturday,0.317
+cleaner,36.2,rain showers,afternoon,tuesday,0.222
+tutor,44.1,cloudy,night,friday,0.0
+other,6.5,thunderstorm,morning,tuesday,0.076
+ac repair,20.0,rain showers,morning,friday,0.175
+carpenter,35.2,clear,morning,sunday,0.582
+other,36.6,rain showers,evening,sunday,0.118
+roof repair,-2.2,snow,afternoon,thursday,0.246
+painter,40.3,cloudy,evening,sunday,0.621
+electrician,1.2,cloudy,night,wednesday,0.158
+doctor,40.6,fog,morning,monday,0.409
+roof repair,43.5,rain,afternoon,saturday,0.117
+plumber,41.5,clear,evening,friday,0.317
+plumber,23.5,snow,evening,monday,0.326
+roof repair,28.7,rain showers,morning,sunday,0.315
+cleaner,3.4,fog,evening,saturday,0.33
+plumber,34.2,thunderstorm,morning,friday,0.461
+doctor,44.8,rain,morning,sunday,0.279
+doctor,39.3,snow,evening,wednesday,0.319
+tutor,37.9,thunderstorm,night,monday,0.17
+other,20.7,snow,night,thursday,0.311
+ac repair,10.5,rain showers,afternoon,friday,0.31
+plumber,4.7,thunderstorm,night,sunday,0.204
+carpenter,27.5,fog,morning,wednesday,0.119
+painter,25.9,snow,night,saturday,0.465
+painter,38.8,fog,night,friday,0.191
+doctor,28.2,rain,evening,saturday,0.357
+other,6.0,rain,morning,friday,0.247
+carpenter,39.2,snow,morning,tuesday,0.188
+roof repair,22.9,clear,afternoon,monday,0.235
+electrician,1.2,rain,evening,saturday,0.268
+electrician,-2.4,clear,evening,tuesday,0.307
+cleaner,11.0,cloudy,afternoon,tuesday,0.264
+ac repair,3.7,thunderstorm,evening,friday,0.159
+painter,29.0,rain showers,afternoon,wednesday,0.248
+mechanic,27.4,cloudy,evening,thursday,0.292
+ac repair,24.5,rain,night,wednesday,0.224
+cleaner,14.0,clear,morning,wednesday,0.193
+painter,33.6,rain,morning,tuesday,0.169
+electrician,24.9,thunderstorm,night,thursday,0.19
+other,4.2,clear,morning,sunday,0.232
+mechanic,27.1,clear,night,tuesday,0.237
+roof repair,33.5,rain,afternoon,friday,0.378
+carpenter,40.4,rain,night,saturday,0.656
+roof repair,3.3,fog,evening,sunday,0.281
+doctor,20.2,rain showers,morning,wednesday,0.279
+carpenter,1.0,thunderstorm,afternoon,tuesday,0.31
+painter,18.5,cloudy,morning,saturday,0.659
+roof repair,9.1,snow,morning,tuesday,0.421
+cleaner,39.7,rain showers,night,tuesday,0.0
+tutor,13.5,clear,night,thursday,0.178
+other,14.7,rain,evening,thursday,0.1
+cleaner,9.5,thunderstorm,afternoon,sunday,0.677
+mechanic,16.6,rain,night,wednesday,0.254
+electrician,4.0,rain,afternoon,saturday,0.318
+roof repair,32.6,fog,afternoon,sunday,0.104
+ac repair,43.0,fog,night,tuesday,0.696
+mechanic,42.7,rain showers,evening,monday,0.084
+tutor,27.8,clear,night,wednesday,0.105
+cleaner,36.6,rain,evening,sunday,0.26
+roof repair,-0.2,snow,afternoon,monday,0.099
+electrician,12.8,thunderstorm,morning,sunday,0.211
+doctor,12.4,thunderstorm,evening,friday,0.37
+ac repair,35.8,rain,morning,wednesday,0.516
+tutor,9.9,cloudy,night,saturday,0.037
+ac repair,26.8,fog,morning,friday,0.386
+cleaner,18.5,fog,afternoon,friday,0.181
+other,36.6,rain showers,night,saturday,0.33
+doctor,14.4,snow,morning,sunday,0.203
+painter,12.3,fog,evening,tuesday,0.205
+doctor,31.8,snow,evening,tuesday,0.332
+electrician,23.3,snow,evening,wednesday,0.225
+tutor,14.9,rain,evening,monday,0.006
+mechanic,32.8,rain showers,morning,saturday,0.127
+mechanic,27.3,fog,morning,thursday,0.388
+doctor,-1.3,rain,night,monday,0.23

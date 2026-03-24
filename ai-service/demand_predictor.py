@@ -15,7 +15,7 @@ os.makedirs(os.path.dirname(MODEL_PATH), exist_ok=True)
 os.makedirs(os.path.dirname(DATA_PATH), exist_ok=True)
 
 CATEGORIES = ['plumber', 'electrician', 'carpenter', 'tutor', 'cleaner', 'painter', 'mechanic', 'doctor', 'roof repair', 'ac repair', 'other']
-WEATHER_CONDS = ['Clear', 'Cloudy', 'Fog', 'Rain', 'Snow', 'Rain Showers', 'Thunderstorm']
+WEATHER_CONDS = ['clear', 'cloudy', 'fog', 'rain', 'snow', 'rain showers', 'thunderstorm']
 TIMES = ['morning', 'afternoon', 'evening', 'night']
 DAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
 
@@ -117,9 +117,9 @@ def predict_demand_score(service: str, temp: float, weather: str, time: str, day
     
     features = []
     
-    # Safely transform
+    # Safely transform (normalize to lowercase to match encoders)
     service_val = service.lower() if service.lower() in encoders['service'].classes_ else 'unknown'
-    weather_val = weather if weather in encoders['weather'].classes_ else 'unknown'
+    weather_val = weather.lower() if weather.lower() in encoders['weather'].classes_ else 'unknown'
     time_val = time.lower() if time.lower() in encoders['time'].classes_ else 'unknown'
     day_val = day.lower() if day.lower() in encoders['day'].classes_ else 'unknown'
     
