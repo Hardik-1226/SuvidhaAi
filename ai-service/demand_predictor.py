@@ -131,7 +131,9 @@ def predict_demand_score(service: str, temp: float, weather: str, time: str, day
         features.append(encoders['time'].transform([time_val])[0])
         features.append(encoders['day'].transform([day_val])[0])
         
-        prediction = model.predict([features])[0]
+        # Passing as DataFrame to prevent scikit-learn feature name UserWarnings
+        features_df = pd.DataFrame([features], columns=['service', 'temperature', 'weather', 'time', 'day'])
+        prediction = model.predict(features_df)[0]
         return float(round(prediction, 3))
     except Exception as e:
         print(f"Demand predictor error: {e}")
