@@ -7,6 +7,10 @@ const router = express.Router();
  * @route   GET /api/weather
  * @access  Public
  */
+
+const weatherCache = new Map();
+const CACHE_TTL = 1000 * 60 * 15; // 15 minutes
+
 router.get('/', async (req, res, next) => {
   try {
     const { lat, lon } = req.query;
@@ -14,12 +18,37 @@ router.get('/', async (req, res, next) => {
       return res.status(400).json({ success: false, message: 'Latitude and longitude are required' });
     }
 
-    // Open-Meteo free API - no key needed
-    const weatherRes = await axios.get(
-      `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`
-    );
-    
-    const currentWeather = weatherRes.data.current_weather;
+    // Caching logic
+    const cacheKey = `${parseFloat(lat).toFixed(2)},${parseFloat(lon).toFixed(2)}`;
+    let currentWeather;
+    let fromCache = false;
+
+    if (weatherCache.has(cacheKey)) {
+      const cached = weatherCache.get(cacheKey);
+      if (Date.now() - cached.time < CACHE_TTL) {
+        currentWeather = cached.data;
+        fromCache = true;
+      }
+    }
+
+    if (!fromCache) {
+      // Open-Meteo free API - no key needed
+      try {
+        const weatherRes = await axios.get(
+          `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`
+        );
+        currentWeather = weatherRes.data.current_weather;
+        weatherCache.set(cacheKey, { data: currentWeather, time: Date.now() });
+      } catch (weatherErr) {
+        console.warn('⚠️ Weather API failed (e.g., 429 Rate Limit). Using fallback weather.', weatherErr.message);
+        currentWeather = {
+          temperature: 25,
+          weathercode: 1, // Clear
+          windspeed: 10,
+          is_day: 1
+        };
+      }
+    }
     
     // Convert WMO Weather code to readable condition
     const wmo = currentWeather.weathercode;
