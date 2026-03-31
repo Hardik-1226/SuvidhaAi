@@ -32,18 +32,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Pre-train the model on startup if not already saved
-MODEL_PATH = os.path.join(os.path.dirname(__file__), "models", "review_classifier.pkl")
-if not os.path.exists(MODEL_PATH):
-    print("🤖 Training fake review model on startup...")
-    train_model()
-    print("✅ Model ready")
+# Models will be lazy-loaded on first request to prevent Render timeout
 
-DEMAND_MODEL_PATH = os.path.join(os.path.dirname(__file__), "models", "demand_model.pkl")
-if not os.path.exists(DEMAND_MODEL_PATH):
-    print("🤖 Training demand prediction model on startup...")
-    train_demand_model()
-    print("✅ Demand Model ready")
 
 
 # ---- Request/Response Schemas ----
@@ -205,7 +195,7 @@ def get_weather_recommendation(req: WeatherRecRequest):
 # ---- Run ----
 if __name__ == "__main__":
     port = int(os.getenv("PORT", "8000"))
-    # Disable reload in production to avoid potential issues (Render env)
-    is_reload = os.getenv("RELOAD", "True").lower() == "true"
+    # Disable reload by default in production (Render env)
+    is_reload = os.getenv("RELOAD", "False").lower() == "true"
     uvicorn.run("main:app", host="0.0.0.0", port=port, reload=is_reload)
 # Retrained Model Trigger 2

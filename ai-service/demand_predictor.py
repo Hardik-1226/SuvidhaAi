@@ -90,7 +90,8 @@ def train_model():
     X = encoded_df[['service', 'temperature', 'weather', 'time', 'day']]
     y = encoded_df['demand_score']
     
-    model = RandomForestRegressor(n_estimators=50, max_depth=8, random_state=42)
+    # Reduced estimators to 20 for memory efficiency on Render Free Tier
+    model = RandomForestRegressor(n_estimators=20, max_depth=8, random_state=42)
     model.fit(X, y)
     
     joblib.dump(model, MODEL_PATH)
@@ -113,21 +114,25 @@ def get_demand_model():
     return _demand_model, _demand_encoders
 
 def predict_demand_score(service: str, temp: float, weather: str, time: str, day: str) -> float:
-    model, encoders = get_demand_model()
-    
-    features = []
-    
-    # Safely transform (normalize to lowercase to match encoders)
-    service_val = service.lower() if service.lower() in encoders['service'].classes_ else 'unknown'
-    weather_val = weather.lower() if weather.lower() in encoders['weather'].classes_ else 'unknown'
-    time_val = time.lower() if time.lower() in encoders['time'].classes_ else 'unknown'
-    day_val = day.lower() if day.lower() in encoders['day'].classes_ else 'unknown'
-    
-    features.append(encoders['service'].transform([service_val])[0])
-    features.append(float(temp))
-    features.append(encoders['weather'].transform([weather_val])[0])
-    features.append(encoders['time'].transform([time_val])[0])
-    features.append(encoders['day'].transform([day_val])[0])
-    
-    prediction = model.predict([features])[0]
-    return float(round(prediction, 3))
+    try:
+        model, encoders = get_demand_model()
+        
+        features = []
+        
+        # Safely transform (normalize to lowercase to match encoders)
+        service_val = service.lower() if service.lower() in encoders['service'].classes_ else 'unknown'
+        weather_val = weather.lower() if weather.lower() in encoders['weather'].classes_ else 'unknown'
+        time_val = time.lower() if time.lower() in encoders['time'].classes_ else 'unknown'
+        day_val = day.lower() if day.lower() in encoders['day'].classes_ else 'unknown'
+        
+        features.append(encoders['service'].transform([service_val])[0])
+        features.append(float(temp))
+        features.append(encoders['weather'].transform([weather_val])[0])
+        features.append(encoders['time'].transform([time_val])[0])
+        features.append(encoders['day'].transform([day_val])[0])
+        
+        prediction = model.predict([features])[0]
+        return float(round(prediction, 3))
+    except Exception as e:
+        print(f"Demand predictor error: {e}")
+        return 0.5  # Return neutral fallback score instead of crashing
