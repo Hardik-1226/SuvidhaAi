@@ -96,9 +96,28 @@ export default function ServiceList() {
   useEffect(() => {
     if (userLocation) {
       localStorage.setItem('ls_user_location', JSON.stringify(userLocation));
-      // Fetch weather recommendations specifically for badges
+
+      // ── Client-side weather cache to avoid spamming the backend ───
+      const cacheKey = `weather_${userLocation.lat.toFixed(2)}_${userLocation.lon.toFixed(2)}`;
+      const cached = sessionStorage.getItem(cacheKey);
+      if (cached) {
+        try {
+          const parsed = JSON.parse(cached);
+          // Use cache if less than 15 minutes old
+          if (Date.now() - parsed._ts < 15 * 60 * 1000) {
+            setWeatherRecs(parsed.recommendedServices || []);
+            return;
+          }
+        } catch { /* ignore invalid cache */ }
+      }
+
       api.get(`/weather?lat=${userLocation.lat}&lon=${userLocation.lon}`)
-        .then(res => setWeatherRecs(res.data.data?.recommendedServices || []))
+        .then(res => {
+          const data = res.data.data;
+          setWeatherRecs(data?.recommendedServices || []);
+          // Cache the result
+          sessionStorage.setItem(cacheKey, JSON.stringify({ ...data, _ts: Date.now() }));
+        })
         .catch(() => {});
     }
   }, [userLocation]);

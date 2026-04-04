@@ -41,12 +41,33 @@ export default function Home() {
           toast.success("Location updated!");
           // Fetch nearby providers & weather
           try {
-            const [provRes, weatherRes] = await Promise.all([
-              api.get(`/services?lat=${loc.lat}&lon=${loc.lon}&maxDistance=50000`),
-              api.get(`/weather?lat=${loc.lat}&lon=${loc.lon}`)
-            ]);
+            // ── Client-side weather cache ────────────────────────
+            const weatherCacheKey = `weather_${loc.lat.toFixed(2)}_${loc.lon.toFixed(2)}`;
+            let cachedWeather = null;
+            try {
+              const raw = sessionStorage.getItem(weatherCacheKey);
+              if (raw) {
+                const parsed = JSON.parse(raw);
+                if (Date.now() - parsed._ts < 15 * 60 * 1000) {
+                  cachedWeather = parsed;
+                }
+              }
+            } catch { /* ignore */ }
 
-            setWeather(weatherRes.data?.data);
+            const provRes = await api.get(`/services?lat=${loc.lat}&lon=${loc.lon}&maxDistance=50000`);
+
+            if (cachedWeather) {
+              setWeather(cachedWeather);
+            } else {
+              try {
+                const weatherRes = await api.get(`/weather?lat=${loc.lat}&lon=${loc.lon}`);
+                const wData = weatherRes.data?.data;
+                setWeather(wData);
+                if (wData) {
+                  sessionStorage.setItem(weatherCacheKey, JSON.stringify({ ...wData, _ts: Date.now() }));
+                }
+              } catch { /* weather fetch failed, non-critical */ }
+            }
 
             const providerData = (provRes.data.data || []).map((s) => ({
               ...s.provider,

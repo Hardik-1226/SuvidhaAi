@@ -8,6 +8,10 @@ const axios = require('axios');
 const Service = require('../models/Service');
 const Provider = require('../models/Provider');
 
+// ── Weather cache shared across demand prediction calls ────────────
+const _demandWeatherCache = new Map();
+const _DEMAND_CACHE_TTL = 1000 * 60 * 30; // 30 minutes
+
 /**
  * @desc    Get all services with optional filters (distance, rating, price, category)
  * @route   GET /api/services
@@ -152,22 +156,30 @@ exports.getServiceDemand = async (req, res, next) => {
   try {
     const { category, lat, lon } = req.query;
 
-    // Fetch current weather to provide context to the AI model
+    // Fetch current weather with cache to avoid 429 rate limits
     let temperature = 25;
     let weather = 'Clear';
 
     if (lat && lon) {
-      try {
-        const weatherRes = await axios.get(
-          `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`
-        );
-        temperature = weatherRes.data.current_weather.temperature;
-        // WMO code mapping (simplified for predictor)
-        const wmo = weatherRes.data.current_weather.weathercode;
-        if (wmo >= 51) weather = 'Rain';
-        else if (wmo >= 1) weather = 'Cloudy';
-      } catch (err) {
-        console.warn('Weather fetch failed for demand prediction, using defaults');
+      const cacheKey = `${parseFloat(lat).toFixed(2)},${parseFloat(lon).toFixed(2)}`;
+      const cached = _demandWeatherCache.get(cacheKey);
+      if (cached && Date.now() - cached.time < _DEMAND_CACHE_TTL) {
+        temperature = cached.temperature;
+        weather = cached.weather;
+      } else {
+        try {
+          const weatherRes = await axios.get(
+            `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`,
+            { timeout: 5000 }
+          );
+          temperature = weatherRes.data.current_weather.temperature;
+          const wmo = weatherRes.data.current_weather.weathercode;
+          if (wmo >= 51) weather = 'Rain';
+          else if (wmo >= 1) weather = 'Cloudy';
+          _demandWeatherCache.set(cacheKey, { temperature, weather, time: Date.now() });
+        } catch (err) {
+          console.warn('Weather fetch failed for demand prediction, using defaults:', err.message);
+        }
       }
     }
 
